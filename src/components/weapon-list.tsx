@@ -18,17 +18,20 @@ interface WeaponListProps {
 const TIERS = ["META", "A", "B", "C", "D"];
 
 export function WeaponList({ data }: WeaponListProps) {
-    const [selectedGroup, setSelectedGroup] = useState<string | null>(null);
+    const [selectedType, setSelectedType] = useState<string | null>(null);
     const [searchQuery, setSearchQuery] = useState("");
 
-    // Extract unique groups
-    const groups = Array.from(
-        new Set(
-            (Object.values(data.rankings || {}) as { weapon: Weapon }[][])
-                .flat()
-                .map((item) => item.weapon.weaponGroupId)
-        )
-    ).sort();
+    // Extract unique weapon types
+    const typesMap = new Map<string, string>();
+    (Object.values(data.rankings || {}) as { weapon: Weapon }[][])
+        .flat()
+        .forEach((item) => {
+            if (item.weapon.weaponType) {
+                typesMap.set(item.weapon.weaponType.id, item.weapon.weaponType.name);
+            }
+        });
+
+    const weaponTypes = Array.from(typesMap.entries()).sort((a, b) => a[1].localeCompare(b[1]));
 
     return (
         <div className="space-y-8">
@@ -53,21 +56,21 @@ export function WeaponList({ data }: WeaponListProps) {
             {/* Filters */}
             <div className="flex flex-wrap gap-2">
                 <Button
-                    variant={selectedGroup === null ? "default" : "outline"}
-                    onClick={() => setSelectedGroup(null)}
+                    variant={selectedType === null ? "default" : "outline"}
+                    onClick={() => setSelectedType(null)}
                     size="sm"
                 >
                     ALL
                 </Button>
-                {groups.map((group) => (
+                {weaponTypes.map(([typeId, typeName]) => (
                     <Button
-                        key={group}
-                        variant={selectedGroup === group ? "default" : "outline"}
-                        onClick={() => setSelectedGroup(group)}
+                        key={typeId}
+                        variant={selectedType === typeId ? "default" : "outline"}
+                        onClick={() => setSelectedType(typeId)}
                         size="sm"
                         className="uppercase"
                     >
-                        {group.replace("-", " ")}
+                        {typeName}
                     </Button>
                 ))}
             </div>
@@ -78,10 +81,10 @@ export function WeaponList({ data }: WeaponListProps) {
                     const tierWeapons = data.rankings?.[tier] || [];
                     let filteredWeapons = tierWeapons;
 
-                    // Filter by group
-                    if (selectedGroup) {
+                    // Filter by weapon type
+                    if (selectedType) {
                         filteredWeapons = filteredWeapons.filter(
-                            (item) => item.weapon.weaponGroupId === selectedGroup
+                            (item) => item.weapon.weaponType?.id === selectedType
                         );
                     }
 
