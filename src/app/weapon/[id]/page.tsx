@@ -3,6 +3,7 @@ import { UpgradeGuide } from "@/components/upgrade-guide";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
+import Image from "next/image";
 import { ArrowLeft, AlertTriangle } from "lucide-react";
 
 interface WeaponPageProps {
@@ -49,8 +50,17 @@ export default async function WeaponPage({ params }: WeaponPageProps) {
                     </Link>
                 </Button>
 
-                <div className="flex flex-col md:flex-row md:items-end justify-between gap-4">
-                    <div>
+                <div className="flex flex-col md:flex-row md:items-end gap-4">
+                    <div className="relative w-80 h-24 bg-slate-900/30 rounded-lg border border-slate-800/50 overflow-hidden">
+                        <Image
+                            src={`/assets/weapons/${weapon.id}.png`}
+                            alt={weapon.name}
+                            fill
+                            className="object-contain"
+                            priority
+                        />
+                    </div>
+                    <div className="flex-grow">
                         <div className="flex items-center gap-3 mb-2">
                             <Badge variant="outline" className="text-slate-400 border-slate-600">
                                 {weapon.weaponType?.name}

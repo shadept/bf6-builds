@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
@@ -29,6 +30,15 @@ export function WeaponCard({ weapon, tier }: WeaponCardProps) {
                 </CardTitle>
             </CardHeader>
             <CardContent className="flex-grow">
+                <div className="relative w-full h-32 mb-4 bg-slate-900/50 rounded-md overflow-hidden">
+                    <Image
+                        src={`/assets/weapons/${weapon.id}.png`}
+                        alt={weapon.name}
+                        fill
+                        className="object-contain p-2 group-hover:scale-110 transition-transform duration-300"
+                        sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                    />
+                </div>
                 <p className="text-sm text-slate-400 line-clamp-2">
                     {weapon.description || "No description available."}
                 </p>
