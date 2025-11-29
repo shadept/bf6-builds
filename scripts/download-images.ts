@@ -48,8 +48,8 @@ async function main() {
         // Let's try the name directly first.
 
         // Some names might have special characters.
-        const encodedName = encodeURIComponent(name.replace(/ /g, '-').toLowerCase());
-        const imageUrl = `https://img.wzstats.gg/${encodedName}/gunDisplayLoadouts`;
+        // const encodedName = encodeURIComponent(name.replace(' ', '-').replace('.', '').toLowerCase());
+        const imageUrl = `https://img.wzstats.gg/${id}/gunDisplayLoadouts`;
         const filename = path.join(ASSETS_DIR, `${id}.png`);
 
         if (fs.existsSync(filename)) {
@@ -63,17 +63,6 @@ async function main() {
             console.log(`Saved ${name} to ${filename}`);
         } catch (error) {
             console.error(`Failed to download ${name}:`, error);
-            // Try with sanitized name (e.g. replacing spaces with %20 is done by encodeURIComponent)
-            // Maybe try lowercase?
-            try {
-                const lowerName = encodeURIComponent(name.toLowerCase());
-                const lowerUrl = `https://img.wzstats.gg/${lowerName}/gunDisplayLoadouts`;
-                console.log(`Retrying with ${lowerName}...`);
-                await downloadImage(lowerUrl, filename);
-                console.log(`Saved ${name} to ${filename}`);
-            } catch (retryError) {
-                console.error(`Failed to download ${name} (retry):`, retryError);
-            }
         }
     }
 }
