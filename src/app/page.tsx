@@ -1,4 +1,5 @@
-import { WeaponList } from "@/components/weapon-list";
+import { WeaponList } from "@/bf6-ui/components/weapon-list";
+import { Heading } from "@/bf6-ui/primitives/typography/Heading";
 import { AlertTriangle } from "lucide-react";
 import fs from "node:fs/promises";
 import path from "node:path";
@@ -37,9 +38,12 @@ export default async function Home() {
   return (
     <main className="min-h-screen p-8 md:p-12 max-w-7xl mx-auto">
       <header className="mb-12 space-y-4">
-        <h1 className="text-5xl md:text-7xl font-bold tracking-tighter text-transparent bg-clip-text bg-gradient-to-r from-bf-blue to-white font-display">
+        <Heading
+          level={1}
+          className="tracking-tighter text-transparent bg-clip-text bg-gradient-to-r from-bf-blue to-white"
+        >
           BF6 UPGRADES
-        </h1>
+        </Heading>
         <p className="text-slate-400 text-lg max-w-2xl">
           Tactical weapon analysis and upgrade recommendations.
           Select a weapon to view the optimal loadout path.

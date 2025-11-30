@@ -1,9 +1,10 @@
 "use client";
 
 import { useState, useMemo } from "react";
-import { WeaponCard } from "@/components/weapon-card";
-import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
+import { WeaponCard } from "@/bf6-ui/components/weapon-card";
+import { Button } from "@/bf6-ui/primitives/button";
+import { Input } from "@/bf6-ui/primitives/input";
+import { Heading } from "@/bf6-ui/primitives/typography/Heading";
 import { TierListResponseSchema } from "@/lib/schemas";
 import { z } from "zod";
 import { Search } from "lucide-react";
@@ -45,21 +46,14 @@ export function WeaponList({ data }: WeaponListProps) {
     return (
         <div className="space-y-8">
             {/* Search Bar */}
-            <div className="relative max-w-md">
-                <div className="relative bg-bf-panel border border-slate-800 shadow-sm overflow-hidden">
-                    {/* Tech decoration borders */}
-                    <div className="absolute top-0 right-0 w-4 h-4 border-t border-r border-bf-blue/30 z-10 pointer-events-none" />
-                    <div className="absolute bottom-0 left-0 w-4 h-4 border-b border-l border-bf-blue/30 z-10 pointer-events-none" />
-
-                    <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-slate-400 z-10 pointer-events-none" />
-                    <Input
-                        type="text"
-                        placeholder="Search weapons..."
-                        value={searchQuery}
-                        onChange={(e) => setSearchQuery(e.target.value)}
-                        className="pl-10 bg-transparent border-none focus-visible:ring-0 focus-visible:ring-offset-0"
-                    />
-                </div>
+            <div className="max-w-md">
+                <Input
+                    type="text"
+                    placeholder="Search weapons..."
+                    value={searchQuery}
+                    onChange={(e) => setSearchQuery(e.target.value)}
+                    addonLeft={<Search className="w-4 h-4 text-slate-400" />}
+                />
             </div>
 
             {/* Filters */}
@@ -113,9 +107,9 @@ export function WeaponList({ data }: WeaponListProps) {
                     return (
                         <section key={tier} className="space-y-4">
                             <div className="flex items-center gap-4">
-                                <h2 className="text-3xl font-bold text-bf-blue font-display">
+                                <Heading level={2} className="text-bf-blue">
                                     {tier} TIER
-                                </h2>
+                                </Heading>
                                 <div className="h-px flex-grow bg-slate-800" />
                             </div>
                             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">

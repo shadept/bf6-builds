@@ -1,6 +1,8 @@
-import { UpgradeGuide } from "@/components/upgrade-guide";
-import { Badge } from "@/components/ui/badge";
-import { Button } from "@/components/ui/button";
+import { UpgradeGuide } from "@/bf6-ui/components/upgrade-guide";
+import { Badge } from "@/bf6-ui/primitives/badge";
+import { Button } from "@/bf6-ui/primitives/button";
+import { Heading } from "@/bf6-ui/primitives/typography/Heading";
+import { Quote } from "@/bf6-ui/primitives/quote";
 import Link from "next/link";
 import Image from "next/image";
 import { ArrowLeft, AlertTriangle } from "lucide-react";
@@ -91,23 +93,23 @@ export default async function WeaponPage({ params }: WeaponPageProps) {
                                 {weapon.group}
                             </Badge>
                         </div>
-                        <h1 className="text-5xl md:text-7xl font-bold tracking-tighter text-white font-display uppercase">
+                        <Heading level={1} className="tracking-tighter">
                             {weapon.name}
-                        </h1>
+                        </Heading>
                     </div>
                 </div>
 
-                <p className="mt-6 text-xl text-slate-400 max-w-3xl border-l-2 border-bf-blue pl-6">
+                <Quote className="mt-6">
                     {weapon.description || "No description available."}
-                </p>
+                </Quote>
             </header>
 
             {/* Upgrade Guide */}
             <section className="mt-12">
                 <div className="flex items-center gap-4 mb-8">
-                    <h2 className="text-3xl font-bold text-white font-display">
+                    <Heading level={2}>
                         UPGRADE GUIDE
-                    </h2>
+                    </Heading>
                     <div className="h-px flex-grow bg-slate-800" />
                 </div>
 

@@ -1,12 +1,15 @@
 "use client";
 
 import { useState, useMemo, useEffect, useRef } from "react";
-import { Slider } from "@/components/ui/slider";
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { Badge } from "@/components/ui/badge";
+import { Slider } from "@/bf6-ui/primitives/slider";
+import { Card, CardContent, CardHeader, CardTitle } from "@/bf6-ui/primitives/card";
+import { Badge } from "@/bf6-ui/primitives/badge";
+import { Button } from "@/bf6-ui/primitives/button";
+import { Heading } from "@/bf6-ui/primitives/typography/Heading";
+import { AttachmentCard } from "@/bf6-ui/components/attachment-card";
 import { cn } from "@/lib/utils";
-import { AlertTriangle, Zap, Minus, Plus, Trash2 } from "lucide-react";
-import { PointsDisplay } from "@/components/points-display";
+import { AlertTriangle, Minus, Plus } from "lucide-react";
+import { PointsDisplay } from "@/bf6-ui/components/points-display";
 import { StaticWeaponDetails, WeaponProgression, StaticAttachment } from "@/lib/static-types";
 
 interface UpgradeGuideProps {
@@ -27,6 +30,8 @@ export function UpgradeGuide({ weapon, progression }: UpgradeGuideProps) {
     const holdIntervalRef = useRef<NodeJS.Timeout | null>(null);
     const holdTimeoutRef = useRef<NodeJS.Timeout | null>(null);
     const maxLevel = 40;
+    const HOLD_INITIAL_DELAY = 400;
+    const HOLD_REPEAT_INTERVAL = 120;
 
     // Sort builds: "Best Loadout" first, then alphabetically
     const builds = useMemo(() => {
@@ -63,47 +68,6 @@ export function UpgradeGuide({ weapon, progression }: UpgradeGuideProps) {
         localStorage.setItem(`weapon-${weapon.id}-build`, index.toString());
     };
 
-    // Handlers for hold-to-change level buttons
-    const startHoldDecrement = () => {
-        if (level === 1) return;
-
-        // Initial decrement
-        setLevel(prev => Math.max(1, prev - 1));
-
-        // Start continuous decrement after a short delay
-        holdTimeoutRef.current = setTimeout(() => {
-            holdIntervalRef.current = setInterval(() => {
-                setLevel(prev => {
-                    const newLevel = Math.max(1, prev - 1);
-                    if (newLevel === 1 && holdIntervalRef.current) {
-                        clearInterval(holdIntervalRef.current);
-                    }
-                    return newLevel;
-                });
-            }, 150); // Change every 150ms (not too fast)
-        }, 300); // Wait 300ms before starting continuous change
-    };
-
-    const startHoldIncrement = () => {
-        if (level === maxLevel) return;
-
-        // Initial increment
-        setLevel(prev => Math.min(maxLevel, prev + 1));
-
-        // Start continuous increment after a short delay
-        holdTimeoutRef.current = setTimeout(() => {
-            holdIntervalRef.current = setInterval(() => {
-                setLevel(prev => {
-                    const newLevel = Math.min(maxLevel, prev + 1);
-                    if (newLevel === maxLevel && holdIntervalRef.current) {
-                        clearInterval(holdIntervalRef.current);
-                    }
-                    return newLevel;
-                });
-            }, 150); // Change every 150ms (not too fast)
-        }, 300); // Wait 300ms before starting continuous change
-    };
-
     const stopHold = () => {
         if (holdTimeoutRef.current) {
             clearTimeout(holdTimeoutRef.current);
@@ -113,6 +77,31 @@ export function UpgradeGuide({ weapon, progression }: UpgradeGuideProps) {
             clearInterval(holdIntervalRef.current);
             holdIntervalRef.current = null;
         }
+    };
+
+    const adjustLevel = (delta: number) => {
+        let didChange = false;
+        setLevel(prev => {
+            const next = Math.max(1, Math.min(maxLevel, prev + delta));
+            didChange = next !== prev;
+            return next;
+        });
+        return didChange;
+    };
+
+    const startHoldChange = (direction: 1 | -1) => {
+        stopHold();
+        const applied = adjustLevel(direction);
+        if (!applied) return;
+
+        holdTimeoutRef.current = setTimeout(() => {
+            holdIntervalRef.current = setInterval(() => {
+                const changed = adjustLevel(direction);
+                if (!changed) {
+                    stopHold();
+                }
+            }, HOLD_REPEAT_INTERVAL);
+        }, HOLD_INITIAL_DELAY);
     };
 
     // Cleanup on unmount
@@ -206,21 +195,22 @@ export function UpgradeGuide({ weapon, progression }: UpgradeGuideProps) {
             {/* Playstyle Selector */}
             {builds.length > 1 && (
                 <div>
-                    <h3 className="text-sm text-slate-400 uppercase tracking-wider mb-3">Select Playstyle</h3>
+                    <Heading level={6} className="text-sm text-slate-400 tracking-wider mb-3">
+                        Select Playstyle
+                    </Heading>
                     <div className="flex flex-wrap gap-2">
+
                         {builds.map((build, index) => (
-                            <button
+                            <Button
                                 key={build.buildId}
                                 onClick={() => handleBuildChange(index)}
-                                className={cn(
-                                    "px-4 py-2 rounded-lg font-display uppercase text-sm transition-all",
-                                    selectedBuildIndex === index
-                                        ? "bg-bf-blue text-white border border-bf-blue shadow-[0_0_10px_rgba(59,130,246,0.5)]"
-                                        : "bg-bf-panel text-slate-400 border border-slate-700 hover:border-bf-blue/50 hover:text-white"
-                                )}
+                                variant={selectedBuildIndex === index ? "default" : "outline"}
+                                size="sm"
+                                className="uppercase"
+                                type="button"
                             >
                                 {build.playstyle?.name || build.description || `Build ${index + 1}`}
-                            </button>
+                            </Button>
                         ))}
                     </div>
                 </div>
@@ -236,24 +226,24 @@ export function UpgradeGuide({ weapon, progression }: UpgradeGuideProps) {
                 </CardHeader>
                 <CardContent>
                     <div className="flex items-center gap-4">
-                        <button
-                            onClick={() => setLevel(Math.max(1, level - 1))}
-                            onMouseDown={startHoldDecrement}
+                        <Button
+                            type="button"
+                            variant="outline"
+                            size="icon"
+                            onMouseDown={() => startHoldChange(-1)}
                             onMouseUp={stopHold}
                             onMouseLeave={stopHold}
-                            onTouchStart={startHoldDecrement}
+                            onTouchStart={(event) => {
+                                event.preventDefault();
+                                startHoldChange(-1);
+                            }}
                             onTouchEnd={stopHold}
+                            onTouchCancel={stopHold}
                             disabled={level === 1}
-                            className={cn(
-                                "flex items-center justify-center w-10 h-10 rounded-lg border transition-all",
-                                level === 1
-                                    ? "border-slate-700 text-slate-600 cursor-not-allowed"
-                                    : "border-bf-blue text-bf-blue hover:bg-bf-blue hover:text-white"
-                            )}
                             aria-label="Decrease level"
                         >
                             <Minus className="w-5 h-5" />
-                        </button>
+                        </Button>
                         <Slider
                             value={[level]}
                             onValueChange={(vals) => setLevel(vals[0])}
@@ -262,24 +252,24 @@ export function UpgradeGuide({ weapon, progression }: UpgradeGuideProps) {
                             step={1}
                             className="flex-1 py-4"
                         />
-                        <button
-                            onClick={() => setLevel(Math.min(maxLevel, level + 1))}
-                            onMouseDown={startHoldIncrement}
+                        <Button
+                            type="button"
+                            variant="outline"
+                            size="icon"
+                            onMouseDown={() => startHoldChange(1)}
                             onMouseUp={stopHold}
                             onMouseLeave={stopHold}
-                            onTouchStart={startHoldIncrement}
+                            onTouchStart={(event) => {
+                                event.preventDefault();
+                                startHoldChange(1);
+                            }}
                             onTouchEnd={stopHold}
+                            onTouchCancel={stopHold}
                             disabled={level === maxLevel}
-                            className={cn(
-                                "flex items-center justify-center w-10 h-10 rounded-lg border transition-all",
-                                level === maxLevel
-                                    ? "border-slate-700 text-slate-600 cursor-not-allowed"
-                                    : "border-bf-blue text-bf-blue hover:bg-bf-blue hover:text-white"
-                            )}
                             aria-label="Increase level"
                         >
                             <Plus className="w-5 h-5" />
-                        </button>
+                        </Button>
                     </div>
                     <p className="text-sm text-slate-400 mt-2">
                         Adjust the slider to see the progression of attachments in the <strong>{selectedBuild.playstyle?.name || "Selected Loadout"}</strong>.
@@ -314,66 +304,23 @@ export function UpgradeGuide({ weapon, progression }: UpgradeGuideProps) {
                 {displayAttachments
                     .slice()
                     .sort((a, b) => {
-                        // Sort by slot name for consistent grouping
                         const slotA = a.slot?.name || a.slotId || "";
                         const slotB = b.slot?.name || b.slotId || "";
                         return slotA.localeCompare(slotB);
                     })
                     .map((att) => {
-                        const isJustUnlocked = att.isNewlyAdded || false;
-                        const isRemoved = att.status === "removed";
+                        const status = att.status === "removed" ? "removed" : att.isNewlyAdded ? "new" : "active";
 
                         return (
-                            <Card
+                            <AttachmentCard
                                 key={`${att.id}-${att.status}`}
-                                className={cn(
-                                    "transition-all duration-300 relative",
-                                    isRemoved
-                                        ? "border-red-500/80 bg-red-950/20 shadow-[0_0_15px_rgba(239,68,68,0.4)]"
-                                        : isJustUnlocked
-                                            ? "border-bf-blue bg-bf-blue/10 shadow-[0_0_8px_rgba(59,130,246,0.3)]"
-                                            : "border-slate-700 bg-slate-800/50"
-                                )}
-                            >
-                                <CardHeader className="p-4 pb-2">
-                                    <div className="flex justify-between items-start">
-                                        <Badge variant="outline" className="text-[10px] border-slate-600">
-                                            {att.slot?.name || att.slotId}
-                                        </Badge>
-                                        {isRemoved ? (
-                                            <Badge variant="destructive" className="text-[10px] animate-pulse">
-                                                REMOVED
-                                            </Badge>
-                                        ) : (
-                                            <Badge variant="outline" className="text-[10px] border-slate-600">
-                                                Lvl {att.unlockAtWeaponLevel}
-                                            </Badge>
-                                        )}
-                                    </div>
-                                    <CardTitle className={cn("text-lg mt-2", isRemoved ? "text-red-400 line-through decoration-red-500/50" : "text-white")}>
-                                        {att.name}
-                                    </CardTitle>
-                                </CardHeader>
-                                <CardContent className="p-4 pt-0">
-                                    <div className="flex justify-between items-center mt-2">
-                                        <p className="text-xs text-slate-400 line-clamp-2 flex-1">
-                                            {att.description || "No description"}
-                                        </p>
-                                        {!isRemoved && (
-                                            <div className="flex items-center gap-1 text-bf-orange font-mono font-bold ml-2">
-                                                <Zap className="w-3 h-3" />
-                                                {att.point}
-                                            </div>
-                                        )}
-                                    </div>
-                                    {isRemoved && (
-                                        <div className="mt-3 flex items-center justify-center text-red-500 text-xs font-bold uppercase tracking-widest gap-2">
-                                            <Trash2 className="w-3 h-3" />
-                                            Unequip Item
-                                        </div>
-                                    )}
-                                </CardContent>
-                            </Card>
+                                name={att.name}
+                                description={att.description}
+                                slot={att.slot?.name || att.slotId}
+                                points={att.status === "removed" ? 0 : att.point ?? 0}
+                                unlockLevel={att.unlockAtWeaponLevel ?? level}
+                                status={status}
+                            />
                         );
                     })}
             </div>
