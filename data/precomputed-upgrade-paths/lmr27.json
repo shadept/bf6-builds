@@ -1,0 +1,280 @@
+{
+  "weaponId": "lmr27",
+  "name": "LMR27",
+  "buildProgressions": [
+    {
+      "buildId": "lmr27-f5CvkV1cifewbB1mrnbMyQcEy0S2-732b4e3ed3",
+      "description": "low level",
+      "playstyleId": "low-level",
+      "playstyle": {
+        "id": "low-level",
+        "name": "Low Level",
+        "description": "Level 10 or under."
+      },
+      "levels": [
+        {
+          "level": 0,
+          "totalPoints": 30,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-lmr27-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-rnd-lmr27-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-lmr27-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "baker-300x-lmr27-scope"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "totalPoints": 75,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-lmr27-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "factory-angled-4qher172hqp"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-lmr27-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "baker-300x-lmr27-scope"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-lmr27-right-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-lmr27-muzzle"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-rnd-lmr27-magazine"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "totalPoints": 85,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-lmr27-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "factory-angled-4qher172hqp"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-lmr27-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "baker-300x-lmr27-scope"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-lmr27-right-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-lmr27-muzzle"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-rnd-lmr27-magazine"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-lmr27-left-accessory"
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "totalPoints": 90,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-lmr27-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "factory-angled-4qher172hqp"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-lmr27-ammunition"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-lmr27-ergonomics"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "baker-300x-lmr27-scope"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-lmr27-right-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-lmr27-muzzle"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-rnd-lmr27-magazine"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-lmr27-left-accessory"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "totalPoints": 95,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-lmr27-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "factory-angled-4qher172hqp"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-fast-lmr27-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-lmr27-ammunition"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-lmr27-ergonomics"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "baker-300x-lmr27-scope"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-lmr27-right-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-lmr27-muzzle"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-lmr27-left-accessory"
+            }
+          ]
+        },
+        {
+          "level": 8,
+          "totalPoints": 90,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-lmr27-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "factory-angled-4qher172hqp"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-fast-lmr27-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-lmr27-ammunition"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-lmr27-ergonomics"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "baker-300x-lmr27-scope"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-lmr27-right-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-lmr27-muzzle"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-iron-sights-lmr27-optic-accessory"
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "totalPoints": 90,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-lmr27-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "factory-angled-4qher172hqp"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-fast-lmr27-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-lmr27-ammunition"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-lmr27-ergonomics"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "baker-300x-lmr27-scope"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-lmr27-right-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-lmr27-muzzle"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-iron-sights-lmr27-optic-accessory"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "weaponId": "tr-7",
+  "name": "TR-7",
+  "buildProgressions": [
+    {
+      "buildId": "tr-7-f5CvkV1cifewbB1mrnbMyQcEy0S2-752542bb41",
+      "description": "",
+      "playstyleId": "best-loadout",
+      "playstyle": {
+        "id": "best-loadout",
+        "name": "Best Loadout",
+        "description": "Best Loadout"
+      },
+      "levels": [
+        {
+          "level": 0,
+          "totalPoints": 40,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-tr-7-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-rnd-tr-7-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-tr-7-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-tr-7-scope"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "totalPoints": 0,
+          "attachments": []
+        },
+        {
+          "level": 40,
+          "totalPoints": 0,
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "buildId": "tr-7-f5CvkV1cifewbB1mrnbMyQcEy0S2-a852de7ad7",
+      "description": "low level",
+      "playstyleId": "low-level",
+      "playstyle": {
+        "id": "low-level",
+        "name": "Low Level",
+        "description": "Level 10 or under."
+      },
+      "levels": [
+        {
+          "level": 0,
+          "totalPoints": 40,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-tr-7-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-rnd-tr-7-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-tr-7-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-tr-7-scope"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "totalPoints": 50,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "double-port-brake-tr-7-muzzle"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-rnd-tr-7-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-tr-7-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-tr-7-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-tr-7-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-tr-7-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "totalPoints": 60,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "double-port-brake-tr-7-muzzle"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-rnd-tr-7-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-tr-7-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-tr-7-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-tr-7-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-tr-7-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-tr-7-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "totalPoints": 70,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "double-port-brake-tr-7-muzzle"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-rnd-tr-7-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-tr-7-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-tr-7-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-tr-7-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-tr-7-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-tr-7-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "totalPoints": 70,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "double-port-brake-tr-7-muzzle"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-vertical-tr-7-underbarrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-rnd-tr-7-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-tr-7-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-tr-7-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-tr-7-barrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-tr-7-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 6,
+          "totalPoints": 80,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "double-port-brake-tr-7-muzzle"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-vertical-tr-7-underbarrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-rnd-tr-7-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-tr-7-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-tr-7-scope"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-tr-7-top-accessory"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-tr-7-barrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-tr-7-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 7,
+          "totalPoints": 75,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "double-port-brake-tr-7-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-tr-7-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-vertical-tr-7-underbarrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-rnd-tr-7-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-tr-7-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-tr-7-scope"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-tr-7-top-accessory"
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "totalPoints": 75,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "double-port-brake-tr-7-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-tr-7-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-vertical-tr-7-underbarrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-rnd-tr-7-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-tr-7-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-tr-7-scope"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-tr-7-top-accessory"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,940 @@
+{
+  "weaponId": "m39-emr",
+  "name": "M39 EMR",
+  "buildProgressions": [
+    {
+      "buildId": "m39-emr-f5CvkV1cifewbB1mrnbMyQcEy0S2-2a984eef7d",
+      "description": "best",
+      "playstyleId": "best-loadout",
+      "playstyle": {
+        "id": "best-loadout",
+        "name": "Best Loadout",
+        "description": "Best Loadout"
+      },
+      "levels": [
+        {
+          "level": 0,
+          "totalPoints": 30,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "18-ebr-vnf80788h3l"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-rnd-m39-emr-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m39-emr-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-m39-emr-scope"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "totalPoints": 75,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "18-ebr-vnf80788h3l"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20rnd-magazine-2qm6q66vprm"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-m0m9vi8d31"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m39-emr-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "slim-handstop-m39-emr-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m39-emr-right-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-39hn3z91qi5"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "totalPoints": 85,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "18-ebr-vnf80788h3l"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20rnd-magazine-2qm6q66vprm"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-m0m9vi8d31"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m39-emr-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "slim-handstop-m39-emr-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m39-emr-right-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-39hn3z91qi5"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-m39-emr-left-accessory"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "totalPoints": 90,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "18-ebr-vnf80788h3l"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20rnd-magazine-2qm6q66vprm"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-m0m9vi8d31"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m39-emr-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-m39-emr-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m39-emr-right-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-39hn3z91qi5"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-m39-emr-left-accessory"
+            }
+          ]
+        },
+        {
+          "level": 6,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "18-ebr-vnf80788h3l"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20rnd-magazine-2qm6q66vprm"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-m0m9vi8d31"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m39-emr-scope"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "lightened-suppressor-m39-emr-muzzle"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-m39-emr-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m39-emr-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 8,
+          "totalPoints": 95,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "18-ebr-vnf80788h3l"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20rnd-magazine-2qm6q66vprm"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-m0m9vi8d31"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mars-f-lpvo-m39-emr-scope"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "lightened-suppressor-m39-emr-muzzle"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-m39-emr-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 9,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "18-ebr-vnf80788h3l"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20rnd-magazine-2qm6q66vprm"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-m0m9vi8d31"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mars-f-lpvo-m39-emr-scope"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "lightened-suppressor-m39-emr-muzzle"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-m39-emr-underbarrel"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-iron-sights-m39-emr-optic-accessory"
+            }
+          ]
+        },
+        {
+          "level": 14,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "18-ebr-vnf80788h3l"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20rnd-magazine-2qm6q66vprm"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-reflex-sight-6ffor31hiw6"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-m0m9vi8d31"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mars-f-lpvo-m39-emr-scope"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "lightened-suppressor-m39-emr-muzzle"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "slim-handstop-m39-emr-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 21,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "18-ebr-vnf80788h3l"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20rnd-magazine-2qm6q66vprm"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-reflex-sight-6ffor31hiw6"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-m0m9vi8d31"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mars-f-lpvo-m39-emr-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "classic-vertical-m39-emr-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m39-emr-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 26,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "st-prisim-250x-6whk1tg9rn2"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "18-ebr-vnf80788h3l"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20rnd-magazine-2qm6q66vprm"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-reflex-sight-6ffor31hiw6"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-m0m9vi8d31"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "classic-vertical-m39-emr-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "standard-suppressor-m39-emr-muzzle"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-m39-emr-ergonomics"
+            }
+          ]
+        },
+        {
+          "level": 28,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "st-prisim-250x-6whk1tg9rn2"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "18-ebr-vnf80788h3l"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20rnd-magazine-2qm6q66vprm"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-reflex-sight-6ffor31hiw6"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-m0m9vi8d31"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "classic-vertical-m39-emr-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "long-suppressor-m39-emr-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 29,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "st-prisim-250x-6whk1tg9rn2"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "18-ebr-vnf80788h3l"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20rnd-magazine-2qm6q66vprm"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "stippled-stubby-akonlki3mwe"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-reflex-sight-6ffor31hiw6"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-m0m9vi8d31"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "long-suppressor-m39-emr-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 38,
+          "totalPoints": 95,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "st-prisim-250x-6whk1tg9rn2"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "18-ebr-vnf80788h3l"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "compensated-brake-4sywf70qtix"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20rnd-magazine-2qm6q66vprm"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "stippled-stubby-akonlki3mwe"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-reflex-sight-6ffor31hiw6"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-m0m9vi8d31"
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "totalPoints": 95,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "st-prisim-250x-6whk1tg9rn2"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "18-ebr-vnf80788h3l"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "compensated-brake-4sywf70qtix"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20rnd-magazine-2qm6q66vprm"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "stippled-stubby-akonlki3mwe"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-reflex-sight-6ffor31hiw6"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-m0m9vi8d31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "buildId": "m39-emr-f5CvkV1cifewbB1mrnbMyQcEy0S2-7b9d388561",
+      "description": "low level",
+      "playstyleId": "low-level",
+      "playstyle": {
+        "id": "low-level",
+        "name": "Low Level",
+        "description": "Level 10 or under."
+      },
+      "levels": [
+        {
+          "level": 0,
+          "totalPoints": 30,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "18-ebr-vnf80788h3l"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-rnd-m39-emr-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m39-emr-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-m39-emr-scope"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "totalPoints": 75,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "18-ebr-vnf80788h3l"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20rnd-magazine-2qm6q66vprm"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-m0m9vi8d31"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m39-emr-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "slim-handstop-m39-emr-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m39-emr-right-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-39hn3z91qi5"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "totalPoints": 85,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "18-ebr-vnf80788h3l"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20rnd-magazine-2qm6q66vprm"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-m0m9vi8d31"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m39-emr-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "slim-handstop-m39-emr-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m39-emr-right-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-39hn3z91qi5"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-m39-emr-left-accessory"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "totalPoints": 90,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "18-ebr-vnf80788h3l"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20rnd-magazine-2qm6q66vprm"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-m0m9vi8d31"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m39-emr-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-m39-emr-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m39-emr-right-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-39hn3z91qi5"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-m39-emr-left-accessory"
+            }
+          ]
+        },
+        {
+          "level": 6,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "18-ebr-vnf80788h3l"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20rnd-magazine-2qm6q66vprm"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-m0m9vi8d31"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m39-emr-scope"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "lightened-suppressor-m39-emr-muzzle"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-m39-emr-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m39-emr-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 8,
+          "totalPoints": 95,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "18-ebr-vnf80788h3l"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20rnd-magazine-2qm6q66vprm"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-m0m9vi8d31"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mars-f-lpvo-m39-emr-scope"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "lightened-suppressor-m39-emr-muzzle"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-m39-emr-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 9,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "18-ebr-vnf80788h3l"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20rnd-magazine-2qm6q66vprm"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-m0m9vi8d31"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mars-f-lpvo-m39-emr-scope"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "lightened-suppressor-m39-emr-muzzle"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-m39-emr-underbarrel"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-iron-sights-m39-emr-optic-accessory"
+            }
+          ]
+        },
+        {
+          "level": 14,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "18-ebr-vnf80788h3l"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20rnd-magazine-2qm6q66vprm"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-m0m9vi8d31"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-reflex-sight-6ffor31hiw6"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mars-f-lpvo-m39-emr-scope"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "lightened-suppressor-m39-emr-muzzle"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "slim-handstop-m39-emr-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 21,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "18-ebr-vnf80788h3l"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20rnd-magazine-2qm6q66vprm"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-m0m9vi8d31"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-reflex-sight-6ffor31hiw6"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mars-f-lpvo-m39-emr-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "classic-vertical-m39-emr-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m39-emr-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 26,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "18-ebr-vnf80788h3l"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20rnd-magazine-2qm6q66vprm"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-m0m9vi8d31"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "st-prisim-250x-6whk1tg9rn2"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-reflex-sight-6ffor31hiw6"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "classic-vertical-m39-emr-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "standard-suppressor-m39-emr-muzzle"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-m39-emr-ergonomics"
+            }
+          ]
+        },
+        {
+          "level": 27,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "18-ebr-vnf80788h3l"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "canted-stubby-q7y4neak87e"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20rnd-magazine-2qm6q66vprm"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-m0m9vi8d31"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "st-prisim-250x-6whk1tg9rn2"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-reflex-sight-6ffor31hiw6"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "lightened-suppressor-m39-emr-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 38,
+          "totalPoints": 90,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "18-ebr-vnf80788h3l"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "compensated-brake-4sywf70qtix"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "canted-stubby-q7y4neak87e"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20rnd-magazine-2qm6q66vprm"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-m0m9vi8d31"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "st-prisim-250x-6whk1tg9rn2"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-reflex-sight-6ffor31hiw6"
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "totalPoints": 90,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "18-ebr-vnf80788h3l"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "compensated-brake-4sywf70qtix"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "canted-stubby-q7y4neak87e"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20rnd-magazine-2qm6q66vprm"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-m0m9vi8d31"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "st-prisim-250x-6whk1tg9rn2"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-reflex-sight-6ffor31hiw6"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

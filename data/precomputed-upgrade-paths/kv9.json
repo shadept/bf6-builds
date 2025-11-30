@@ -1,0 +1,258 @@
+{
+  "weaponId": "kv9",
+  "name": "KV9",
+  "buildProgressions": [
+    {
+      "buildId": "kv9-f5CvkV1cifewbB1mrnbMyQcEy0S2-c526e65749",
+      "description": "low level",
+      "playstyleId": "low-level",
+      "playstyle": {
+        "id": "low-level",
+        "name": "Low Level",
+        "description": "Level 10 or under."
+      },
+      "levels": [
+        {
+          "level": 0,
+          "totalPoints": 30,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-kv9-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "17-rnd-kv9-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-kv9-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-kv9-scope"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "totalPoints": 40,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "17-rnd-kv9-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-kv9-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-kv9-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-kv9-barrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-kv9-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "totalPoints": 50,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "17-rnd-kv9-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-kv9-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-kv9-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-kv9-barrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-kv9-muzzle"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-kv9-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "totalPoints": 60,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "17-rnd-kv9-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-kv9-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-kv9-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-kv9-barrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-kv9-muzzle"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-kv9-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-kv9-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "totalPoints": 70,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "standard-suppressor-kv9-muzzle"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "17-rnd-kv9-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-kv9-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-kv9-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-kv9-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-kv9-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-kv9-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 7,
+          "totalPoints": 80,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "standard-suppressor-kv9-muzzle"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-kv9-underbarrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "17-rnd-kv9-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-kv9-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-kv9-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-kv9-barrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-kv9-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "totalPoints": 75,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "standard-suppressor-kv9-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-kv9-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-kv9-underbarrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "17-rnd-kv9-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-kv9-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-kv9-scope"
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "totalPoints": 75,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "standard-suppressor-kv9-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-kv9-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-kv9-underbarrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "17-rnd-kv9-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-kv9-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-kv9-scope"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

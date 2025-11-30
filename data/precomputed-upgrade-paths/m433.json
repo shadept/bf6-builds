@@ -1,0 +1,538 @@
+{
+  "weaponId": "m433",
+  "name": "M433",
+  "buildProgressions": [
+    {
+      "buildId": "m433-f5CvkV1cifewbB1mrnbMyQcEy0S2-cdc8451cc0",
+      "description": "Best",
+      "playstyleId": "best-loadout",
+      "playstyle": {
+        "id": "best-loadout",
+        "name": "Best Loadout",
+        "description": "Best Loadout"
+      },
+      "levels": [
+        {
+          "level": 0,
+          "totalPoints": 45,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-m433-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-m433-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m433-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m433-scope"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "totalPoints": 65,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m433-ammunition"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-m433-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m433-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "classic-vertical-m433-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m433-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-m433-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-m433-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m433-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "classic-vertical-m433-underbarrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-green-m433-top-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider"
+            }
+          ]
+        },
+        {
+          "level": 6,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m433-ammunition"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-m433-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-m433-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-m433-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m433-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "classic-vertical-m433-underbarrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-green-m433-top-accessory"
+            }
+          ]
+        },
+        {
+          "level": 11,
+          "totalPoints": 95,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m433-ammunition"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-m433-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-m433-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-fast-m433-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m433-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "classic-vertical-m433-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 15,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m433-ammunition"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-m433-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-m433-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-fast-m433-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m433-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "classic-vertical-m433-underbarrel"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-iron-sights-m433-optic-accessory"
+            }
+          ]
+        },
+        {
+          "level": 19,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m433-ammunition"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-m433-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-m433-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-fast-m433-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "dvo-lpvo-m433-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "classic-vertical-m433-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 24,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m433-ammunition"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-m433-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-m433-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "40-fast-m433-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "dvo-lpvo-m433-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-wz5may0w49"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-iron-sights-m433-optic-accessory"
+            }
+          ]
+        },
+        {
+          "level": 28,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m433-ammunition"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-m433-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-m433-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "40-fast-m433-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "dvo-lpvo-m433-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "adjustable-angled-m433-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 29,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "ro-s-m433-scope"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m433-ammunition"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-m433-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-m433-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "40-fast-m433-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-stubby-m433-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 30,
+          "totalPoints": 115,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "ro-s-m433-scope"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m433-ammunition"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-m433-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-m433-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "low-profile-stubby-m433-underbarrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "40-fast-m433-magazine"
+            }
+          ]
+        },
+        {
+          "level": 31,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "ro-s-m433-scope"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m433-ammunition"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-m433-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-m433-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "low-profile-stubby-m433-underbarrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36-rnd-m433-magazine"
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "ro-s-m433-scope"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m433-ammunition"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-m433-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-m433-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "low-profile-stubby-m433-underbarrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36-rnd-m433-magazine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "buildId": "m433-f5CvkV1cifewbB1mrnbMyQcEy0S2-866273bf2f",
+      "description": "low level",
+      "playstyleId": "low-level",
+      "playstyle": {
+        "id": "low-level",
+        "name": "Low Level",
+        "description": "Level 10 or under."
+      },
+      "levels": [
+        {
+          "level": 0,
+          "totalPoints": 45,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-m433-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-m433-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m433-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m433-scope"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "totalPoints": 65,
+          "attachments": [
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "classic-vertical-m433-underbarrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m433-ammunition"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-m433-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m433-scope"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "totalPoints": 55,
+          "attachments": [
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "classic-vertical-m433-underbarrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m433-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-yfpo0xrbh8"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-m433-magazine"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "totalPoints": 75,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-m433-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "classic-vertical-m433-underbarrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m433-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-yfpo0xrbh8"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-green-m433-top-accessory"
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "totalPoints": 75,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-m433-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "classic-vertical-m433-underbarrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m433-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-yfpo0xrbh8"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-green-m433-top-accessory"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

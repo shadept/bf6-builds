@@ -1,0 +1,874 @@
+{
+  "weaponId": "qbz-192",
+  "name": "QBZ-192",
+  "buildProgressions": [
+    {
+      "buildId": "qbz-192-f5CvkV1cifewbB1mrnbMyQcEy0S2-49b2fa42ae",
+      "description": "best",
+      "playstyleId": "best-loadout",
+      "playstyle": {
+        "id": "best-loadout",
+        "name": "Best Loadout",
+        "description": "Best Loadout"
+      },
+      "levels": [
+        {
+          "level": 0,
+          "totalPoints": 30,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-qbz-192-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-qbz-192-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-qbz-192-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "cco-200x-qbz-192-scope"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "totalPoints": 85,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-qbz-192-ammunition"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36-rnd-qbz-192-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-qbz-192-barrel"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-qbz-192-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ptt-grip-pod-qbz-192-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-qbz-192-muzzle"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-qbz-192-ergonomics"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "totalPoints": 85,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-qbz-192-ammunition"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-qbz-192-muzzle"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36-rnd-qbz-192-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-qbz-192-barrel"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-qbz-192-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ptt-grip-pod-qbz-192-underbarrel"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-qbz-192-ergonomics"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "totalPoints": 95,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-qbz-192-ammunition"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-qbz-192-muzzle"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36-rnd-qbz-192-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-qbz-192-barrel"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-qbz-192-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ptt-grip-pod-qbz-192-underbarrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-qbz-192-top-accessory"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-qbz-192-ergonomics"
+            }
+          ]
+        },
+        {
+          "level": 8,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-qbz-192-ammunition"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-qbz-192-muzzle"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36-rnd-qbz-192-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-qbz-192-barrel"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-qbz-192-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ptt-grip-pod-qbz-192-underbarrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-qbz-192-top-accessory"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-qbz-192-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 13,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-qbz-192-ammunition"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-qbz-192-muzzle"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36-rnd-qbz-192-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-qbz-192-barrel"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-qbz-192-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "6h64-vertical-qbz-192-underbarrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-qbz-192-top-accessory"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-qbz-192-ergonomics"
+            }
+          ]
+        },
+        {
+          "level": 15,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-qbz-192-ammunition"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-qbz-192-muzzle"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36-rnd-qbz-192-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-qbz-192-barrel"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "grim-150x-qbz-192-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "6h64-vertical-qbz-192-underbarrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-qbz-192-top-accessory"
+            }
+          ]
+        },
+        {
+          "level": 16,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-qbz-192-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-qbz-192-barrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-qbz-192-muzzle"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36-rnd-qbz-192-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "grim-150x-qbz-192-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "6h64-vertical-qbz-192-underbarrel"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-qbz-192-ergonomics"
+            }
+          ]
+        },
+        {
+          "level": 21,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-qbz-192-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-qbz-192-barrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-qbz-192-muzzle"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36-rnd-qbz-192-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "grim-150x-qbz-192-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-stubby-qbz-192-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 29,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-qbz-192-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-qbz-192-barrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-qbz-192-muzzle"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "a-p2-175x-qbz-192-scope"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36-rnd-qbz-192-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-stubby-qbz-192-underbarrel"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "match-trigger-qbz-192-ergonomics"
+            }
+          ]
+        },
+        {
+          "level": 34,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-qbz-192-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-qbz-192-barrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-qbz-192-muzzle"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "a-p2-175x-qbz-192-scope"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36-rnd-qbz-192-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "classic-vertical-qbz-192-underbarrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-qbz-192-top-accessory"
+            }
+          ]
+        },
+        {
+          "level": 39,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-qbz-192-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-qbz-192-barrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-qbz-192-muzzle"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "low-profile-stubby-qbz-192-underbarrel"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "a-p2-175x-qbz-192-scope"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36-rnd-qbz-192-magazine"
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-qbz-192-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-qbz-192-barrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-qbz-192-muzzle"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "low-profile-stubby-qbz-192-underbarrel"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "a-p2-175x-qbz-192-scope"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36-rnd-qbz-192-magazine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "buildId": "qbz-192-f5CvkV1cifewbB1mrnbMyQcEy0S2-1757409c75",
+      "description": "low level",
+      "playstyleId": "low-level",
+      "playstyle": {
+        "id": "low-level",
+        "name": "Low Level",
+        "description": "Level 10 or under."
+      },
+      "levels": [
+        {
+          "level": 0,
+          "totalPoints": 30,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-qbz-192-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-qbz-192-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-qbz-192-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "cco-200x-qbz-192-scope"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "totalPoints": 75,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-qbz-192-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-qbz-192-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36-rnd-qbz-192-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-qbz-192-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ptt-grip-pod-qbz-192-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-qbz-192-muzzle"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-qbz-192-ergonomics"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "totalPoints": 75,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-qbz-192-muzzle"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-qbz-192-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-qbz-192-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36-rnd-qbz-192-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-qbz-192-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ptt-grip-pod-qbz-192-underbarrel"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-qbz-192-ergonomics"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "totalPoints": 85,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-qbz-192-muzzle"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-qbz-192-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-qbz-192-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36-rnd-qbz-192-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-qbz-192-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ptt-grip-pod-qbz-192-underbarrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-qbz-192-top-accessory"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-qbz-192-ergonomics"
+            }
+          ]
+        },
+        {
+          "level": 7,
+          "totalPoints": 80,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-qbz-192-muzzle"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-qbz-192-scope"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-fast-qbz-192-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-qbz-192-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-qbz-192-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ptt-grip-pod-qbz-192-underbarrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-qbz-192-top-accessory"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-qbz-192-ergonomics"
+            }
+          ]
+        },
+        {
+          "level": 8,
+          "totalPoints": 90,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-qbz-192-muzzle"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-qbz-192-scope"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-fast-qbz-192-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-qbz-192-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-qbz-192-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ptt-grip-pod-qbz-192-underbarrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-qbz-192-top-accessory"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-qbz-192-right-accessory"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-qbz-192-ergonomics"
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "totalPoints": 95,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-qbz-192-muzzle"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-qbz-192-scope"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-fast-qbz-192-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-qbz-192-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-qbz-192-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ptt-grip-pod-qbz-192-underbarrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-qbz-192-top-accessory"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-qbz-192-right-accessory"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-qbz-192-ergonomics"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-iron-sights-qbz-192-optic-accessory"
+            }
+          ]
+        },
+        {
+          "level": 12,
+          "totalPoints": 95,
+          "attachments": [
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-green-qbz-192-top-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-qbz-192-muzzle"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-qbz-192-scope"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-fast-qbz-192-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-qbz-192-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-qbz-192-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ptt-grip-pod-qbz-192-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-qbz-192-right-accessory"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-qbz-192-ergonomics"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-iron-sights-qbz-192-optic-accessory"
+            }
+          ]
+        },
+        {
+          "level": 13,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-green-qbz-192-top-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-qbz-192-muzzle"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-qbz-192-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "6h64-vertical-qbz-192-underbarrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-fast-qbz-192-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-qbz-192-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-qbz-192-ammunition"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-qbz-192-right-accessory"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-qbz-192-ergonomics"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-iron-sights-qbz-192-optic-accessory"
+            }
+          ]
+        },
+        {
+          "level": 14,
+          "totalPoints": 85,
+          "attachments": [
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-green-qbz-192-top-accessory"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "polymer-case-qbz-192-ammunition"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-qbz-192-muzzle"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-qbz-192-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "6h64-vertical-qbz-192-underbarrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-fast-qbz-192-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-qbz-192-barrel"
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "totalPoints": 85,
+          "attachments": [
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-green-qbz-192-top-accessory"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "polymer-case-qbz-192-ammunition"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-qbz-192-muzzle"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-qbz-192-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "6h64-vertical-qbz-192-underbarrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-fast-qbz-192-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-qbz-192-barrel"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

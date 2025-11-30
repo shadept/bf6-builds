@@ -1,9 +1,29 @@
-import { getTierList } from "@/lib/api";
 import { WeaponList } from "@/components/weapon-list";
 import { AlertTriangle } from "lucide-react";
+import fs from "node:fs/promises";
+import path from "node:path";
+import { TierListResponseSchema } from "@/lib/schemas";
+
+async function getStaticTierList() {
+  try {
+    const filePath = path.join(process.cwd(), "data", "tierlist.json");
+    const fileContent = await fs.readFile(filePath, "utf-8");
+    const data = JSON.parse(fileContent);
+    // Validate with schema to ensure type safety
+    const parsed = TierListResponseSchema.safeParse(data);
+    if (parsed.success) {
+      return parsed.data;
+    }
+    console.error("Static tierlist validation failed:", parsed.error);
+    return null;
+  } catch (error) {
+    console.error("Failed to load static tierlist:", error);
+    return null;
+  }
+}
 
 export default async function Home() {
-  const tierList = await getTierList();
+  const tierList = await getStaticTierList();
 
   if (!tierList) {
     return (
@@ -26,7 +46,7 @@ export default async function Home() {
         </p>
       </header>
 
-      <WeaponList data={tierList.data} />
+      <WeaponList data={tierList} />
     </main>
   );
 }

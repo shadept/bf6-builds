@@ -1,0 +1,496 @@
+{
+  "weaponId": "m250",
+  "name": "M250",
+  "buildProgressions": [
+    {
+      "buildId": "m250-f5CvkV1cifewbB1mrnbMyQcEy0S2-7d4e61e363",
+      "description": "br",
+      "playstyleId": "battle-royale",
+      "playstyle": {
+        "id": "battle-royale",
+        "name": "Battle Royale",
+        "description": "Battle Royale"
+      },
+      "levels": [
+        {
+          "level": 0,
+          "totalPoints": 40,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-m250-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "50-rnd-m250-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m250-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m250-scope"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "lightened-suppressor-m250-muzzle"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "50-rnd-m250-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m250-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-m250-barrel"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "ngfc-lpvo-m250-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "slim-handstop-m250-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-m250-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "lightened-suppressor-m250-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-ext-m250-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "50-rnd-m250-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m250-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "ngfc-lpvo-m250-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "slim-handstop-m250-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-m250-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "totalPoints": 95,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "lightened-suppressor-m250-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-ext-m250-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "50-rnd-m250-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m250-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "ngfc-lpvo-m250-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-m250-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 7,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "lightened-suppressor-m250-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-ext-m250-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "50-rnd-m250-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m250-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "a-p2-175x-m250-scope"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "120-mw-blue-m250-top-accessory"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "bipod-m250-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 34,
+          "totalPoints": 95,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "lightened-suppressor-m250-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-ext-m250-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "50-rnd-m250-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m250-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "a-p2-175x-m250-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "classic-vertical-m250-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 37,
+          "totalPoints": 95,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "lightened-suppressor-m250-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-ext-m250-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "50-rnd-m250-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m250-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "a-p2-175x-m250-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "stippled-stubby-m250-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "totalPoints": 95,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "lightened-suppressor-m250-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-ext-m250-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "50-rnd-m250-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m250-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "a-p2-175x-m250-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "stippled-stubby-m250-underbarrel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "buildId": "m250-f5CvkV1cifewbB1mrnbMyQcEy0S2-95d04a0dc1",
+      "description": "low level",
+      "playstyleId": "low-level",
+      "playstyle": {
+        "id": "low-level",
+        "name": "Low Level",
+        "description": "Level 10 or under."
+      },
+      "levels": [
+        {
+          "level": 0,
+          "totalPoints": 40,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-m250-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "50-rnd-m250-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m250-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m250-scope"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "lightened-suppressor-m250-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-m250-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "50-rnd-m250-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m250-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "ngfc-lpvo-m250-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "slim-handstop-m250-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-m250-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "totalPoints": 95,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "lightened-suppressor-m250-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-m250-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "50-rnd-m250-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m250-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "ngfc-lpvo-m250-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-m250-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "lightened-suppressor-m250-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-m250-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "50-rnd-m250-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m250-ammunition"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-m250-top-accessory"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "ngfc-lpvo-m250-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "slim-handstop-m250-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 9,
+          "totalPoints": 105,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "lightened-suppressor-m250-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-m250-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-stubby-m250-underbarrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "50-rnd-m250-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m250-ammunition"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-m250-top-accessory"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "ngfc-lpvo-m250-scope"
+            }
+          ]
+        },
+        {
+          "level": 11,
+          "totalPoints": 90,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "lightened-suppressor-m250-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-m250-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-stubby-m250-underbarrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "50-rnd-m250-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m250-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "bf-2m-250x-m250-scope"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-m250-top-accessory"
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "totalPoints": 90,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "lightened-suppressor-m250-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-m250-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-stubby-m250-underbarrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "50-rnd-m250-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m250-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "bf-2m-250x-m250-scope"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-m250-top-accessory"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "weaponId": "m123k",
+  "name": "M123K",
+  "buildProgressions": [
+    {
+      "buildId": "m123k-f5CvkV1cifewbB1mrnbMyQcEy0S2-76c96e2ae3",
+      "description": "low",
+      "playstyleId": "low-level",
+      "playstyle": {
+        "id": "low-level",
+        "name": "Low Level",
+        "description": "Level 10 or under."
+      },
+      "levels": [
+        {
+          "level": 0,
+          "totalPoints": 40,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-m123k-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "100-rnd-m123k-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m123k-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m123k-scope"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "totalPoints": 55,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m123k-ammunition"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "100-rnd-m123k-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m123k-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "adjustable-angled-m123k-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-m123k-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "totalPoints": 65,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-m123k-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m123k-ammunition"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "100-rnd-m123k-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m123k-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "adjustable-angled-m123k-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-m123k-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "totalPoints": 70,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-m123k-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m123k-ammunition"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "100-rnd-m123k-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m123k-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-m123k-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-m123k-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "totalPoints": 80,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-m123k-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m123k-ammunition"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m123k-right-accessory"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "100-rnd-m123k-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m123k-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-m123k-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-m123k-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 6,
+          "totalPoints": 80,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "double-port-brake-m123k-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-m123k-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m123k-ammunition"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m123k-right-accessory"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "100-rnd-m123k-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m123k-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-m123k-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 8,
+          "totalPoints": 90,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "double-port-brake-m123k-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-m123k-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m123k-ammunition"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m123k-right-accessory"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "100-rnd-m123k-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m123k-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-m123k-underbarrel"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-m123k-left-accessory"
+            }
+          ]
+        },
+        {
+          "level": 9,
+          "totalPoints": 80,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "double-port-brake-m123k-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-m123k-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m123k-ammunition"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m123k-right-accessory"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "bf-2m-250x-m123k-scope"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "100-rnd-m123k-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-m123k-underbarrel"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-m123k-left-accessory"
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "totalPoints": 85,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "double-port-brake-m123k-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-m123k-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m123k-ammunition"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m123k-right-accessory"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "bf-2m-250x-m123k-scope"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-iron-sights-m123k-optic-accessory"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "100-rnd-m123k-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-m123k-underbarrel"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-m123k-left-accessory"
+            }
+          ]
+        },
+        {
+          "level": 11,
+          "totalPoints": 70,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "double-port-brake-m123k-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-m123k-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-stubby-m123k-underbarrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m123k-ammunition"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m123k-right-accessory"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "bf-2m-250x-m123k-scope"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-iron-sights-m123k-optic-accessory"
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "totalPoints": 70,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "double-port-brake-m123k-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-m123k-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-stubby-m123k-underbarrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m123k-ammunition"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m123k-right-accessory"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "bf-2m-250x-m123k-scope"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-iron-sights-m123k-optic-accessory"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

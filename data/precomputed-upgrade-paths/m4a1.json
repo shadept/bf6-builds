@@ -1,0 +1,682 @@
+{
+  "weaponId": "m4a1",
+  "name": "M4A1",
+  "buildProgressions": [
+    {
+      "buildId": "m4a1-f5CvkV1cifewbB1mrnbMyQcEy0S2-4534020047",
+      "description": "low level",
+      "playstyleId": "low-level",
+      "playstyle": {
+        "id": "low-level",
+        "name": "Low Level",
+        "description": "Level 10 or under."
+      },
+      "levels": [
+        {
+          "level": 0,
+          "totalPoints": 45,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "115-commando-ucsdov83fon"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-m4a1-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m4a1-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m4a1-scope"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "totalPoints": 75,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-magazine-jzzvlksgiaf"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m4a1-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "115-commando-ucsdov83fon"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m4a1-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "slim-handstop-m4a1-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-tm803yj4pud"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-m4a1-ergonomics"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "totalPoints": 60,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-magazine-jzzvlksgiaf"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-ubfjywfufz"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-m4a1-muzzle"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m4a1-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "115-commando-ucsdov83fon"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "slim-handstop-m4a1-underbarrel"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-m4a1-ergonomics"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "totalPoints": 60,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-magazine-jzzvlksgiaf"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-ubfjywfufz"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-m4a1-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "125-mid-g8c1b5t2xah"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-m4a1-underbarrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m4a1-ammunition"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-m4a1-ergonomics"
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "totalPoints": 60,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-magazine-jzzvlksgiaf"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-nwspielcohe"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-ubfjywfufz"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-m4a1-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "125-mid-g8c1b5t2xah"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-m4a1-underbarrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m4a1-ammunition"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "totalPoints": 70,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-magazine-jzzvlksgiaf"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-nwspielcohe"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-ubfjywfufz"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-m4a1-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "125-mid-g8c1b5t2xah"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-m4a1-underbarrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m4a1-ammunition"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-m4a1-top-accessory"
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "totalPoints": 70,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-magazine-jzzvlksgiaf"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-nwspielcohe"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-ubfjywfufz"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-m4a1-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "125-mid-g8c1b5t2xah"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-m4a1-underbarrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m4a1-ammunition"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-m4a1-top-accessory"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "buildId": "m4a1-f5CvkV1cifewbB1mrnbMyQcEy0S2-d4db75d3a2",
+      "description": "best",
+      "playstyleId": "best-loadout",
+      "playstyle": {
+        "id": "best-loadout",
+        "name": "Best Loadout",
+        "description": "Best Loadout"
+      },
+      "levels": [
+        {
+          "level": 0,
+          "totalPoints": 45,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "115-commando-ucsdov83fon"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-m4a1-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m4a1-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m4a1-scope"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "totalPoints": 75,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m4a1-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "115-commando-ucsdov83fon"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-m4a1-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m4a1-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "slim-handstop-m4a1-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-tm803yj4pud"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-m4a1-ergonomics"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "totalPoints": 80,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m4a1-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "115-commando-ucsdov83fon"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-m4a1-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m4a1-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-m4a1-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-tm803yj4pud"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-m4a1-ergonomics"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "totalPoints": 90,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m4a1-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "115-commando-ucsdov83fon"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-m4a1-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m4a1-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-m4a1-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-tm803yj4pud"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-m4a1-top-accessory"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-m4a1-ergonomics"
+            }
+          ]
+        },
+        {
+          "level": 8,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m4a1-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "115-commando-ucsdov83fon"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-m4a1-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m4a1-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-m4a1-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-tm803yj4pud"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-m4a1-top-accessory"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-m4a1-right-accessory"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-m4a1-ergonomics"
+            }
+          ]
+        },
+        {
+          "level": 15,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m4a1-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "115-commando-ucsdov83fon"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-m4a1-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m4a1-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "classic-vertical-m4a1-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-tm803yj4pud"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-m4a1-top-accessory"
+            }
+          ]
+        },
+        {
+          "level": 19,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m4a1-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "115-commando-ucsdov83fon"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-m4a1-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m4a1-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "classic-vertical-m4a1-underbarrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "50-mw-green-m4a1-top-accessory"
+            }
+          ]
+        },
+        {
+          "level": 21,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "compensated-brake-cya6vylrnxd"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m4a1-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "115-commando-ucsdov83fon"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-m4a1-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m4a1-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "classic-vertical-m4a1-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 22,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "compensated-brake-cya6vylrnxd"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m4a1-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "115-commando-ucsdov83fon"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-fast-m4a1-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "grim-150x-m4a1-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "6h64-vertical-f86fohl4fb7"
+            }
+          ]
+        },
+        {
+          "level": 25,
+          "totalPoints": 110,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "compensated-brake-cya6vylrnxd"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "light-m4a1-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-stubby-m4a1-underbarrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m4a1-ammunition"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-fast-m4a1-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "grim-150x-m4a1-scope"
+            }
+          ]
+        },
+        {
+          "level": 27,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "compensated-brake-cya6vylrnxd"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "light-m4a1-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-stubby-m4a1-underbarrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m4a1-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "3vzr-175x-m4a1-scope"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-fast-m4a1-magazine"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-m4a1-ergonomics"
+            }
+          ]
+        },
+        {
+          "level": 31,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "compensated-brake-cya6vylrnxd"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36rnd-magazine-lyw1pbe110q"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "light-m4a1-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-stubby-m4a1-underbarrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m4a1-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "3vzr-175x-m4a1-scope"
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "compensated-brake-cya6vylrnxd"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36rnd-magazine-lyw1pbe110q"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "light-m4a1-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-stubby-m4a1-underbarrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m4a1-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "3vzr-175x-m4a1-scope"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "weaponId": "m2010-esr",
+  "name": "M2010 ESR",
+  "buildProgressions": [
+    {
+      "buildId": "m2010-esr-f5CvkV1cifewbB1mrnbMyQcEy0S2-476eed22df",
+      "description": "best",
+      "playstyleId": "best-loadout",
+      "playstyle": {
+        "id": "best-loadout",
+        "name": "Best Loadout",
+        "description": "Best Loadout"
+      },
+      "levels": [
+        {
+          "level": 0,
+          "totalPoints": 50,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "24-fluted-47gol85jrzb"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "5-rnd-m2010-esr-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m2010-esr-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m2010-esr-scope"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "totalPoints": 30,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "5rnd-magazine-d0nfoo1hu0k"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m2010-esr-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-m2010-esr-scope"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "totalPoints": 90,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "s-vps-600x-qnynh3bm5xo"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "5rnd-magazine-d0nfoo1hu0k"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "range-finder-m2010-esr-left-accessory"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "light-m2010-esr-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m2010-esr-ammunition"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-m2010-esr-top-accessory"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "bipod-1twcdj593ks"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-reflex-m2010-esr-optic-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-gbmhuc5fjfa"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "totalPoints": 95,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "s-vps-600x-qnynh3bm5xo"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "5rnd-magazine-d0nfoo1hu0k"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "range-finder-m2010-esr-left-accessory"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "match-grade-vvr4x24o3uc"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "light-m2010-esr-barrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-m2010-esr-top-accessory"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "bipod-1twcdj593ks"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-reflex-m2010-esr-optic-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-gbmhuc5fjfa"
+            }
+          ]
+        },
+        {
+          "level": 7,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "s-vps-600x-qnynh3bm5xo"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "5rnd-magazine-d0nfoo1hu0k"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "range-finder-m2010-esr-left-accessory"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "match-grade-vvr4x24o3uc"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "light-m2010-esr-barrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "compensated-brake-3o03eq1qpmb"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-m2010-esr-top-accessory"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "bipod-1twcdj593ks"
+            }
+          ]
+        },
+        {
+          "level": 13,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "dlc-bolt-m8wz4b4el5l"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "s-vps-600x-qnynh3bm5xo"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "5rnd-magazine-d0nfoo1hu0k"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "range-finder-m2010-esr-left-accessory"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "match-grade-vvr4x24o3uc"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "light-m2010-esr-barrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-m2010-esr-top-accessory"
+            }
+          ]
+        },
+        {
+          "level": 16,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "dlc-bolt-m8wz4b4el5l"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "26-carbon-igdapacqqes"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "s-vps-600x-qnynh3bm5xo"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "5rnd-magazine-d0nfoo1hu0k"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "range-finder-m2010-esr-left-accessory"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "match-grade-vvr4x24o3uc"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-m2010-esr-top-accessory"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "full-angled-6l65dndm0xa"
+            }
+          ]
+        },
+        {
+          "level": 22,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "dlc-bolt-m8wz4b4el5l"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "26-carbon-igdapacqqes"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "s-vps-600x-qnynh3bm5xo"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "5rnd-magazine-d0nfoo1hu0k"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "range-finder-m2010-esr-left-accessory"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "match-grade-vvr4x24o3uc"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "slim-angled-m2010-esr-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 36,
+          "totalPoints": 95,
+          "attachments": [
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "dlc-bolt-m8wz4b4el5l"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "26-carbon-igdapacqqes"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "ag-coating-vdd57gvrknj"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "s-vps-600x-qnynh3bm5xo"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "5rnd-magazine-d0nfoo1hu0k"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "range-finder-m2010-esr-left-accessory"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "match-grade-vvr4x24o3uc"
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "totalPoints": 95,
+          "attachments": [
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "dlc-bolt-m8wz4b4el5l"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "26-carbon-igdapacqqes"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "ag-coating-vdd57gvrknj"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "s-vps-600x-qnynh3bm5xo"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "5rnd-magazine-d0nfoo1hu0k"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "range-finder-m2010-esr-left-accessory"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "match-grade-vvr4x24o3uc"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

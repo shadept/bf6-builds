@@ -1,0 +1,900 @@
+{
+  "weaponId": "pw7a2",
+  "name": "PW7A2",
+  "buildProgressions": [
+    {
+      "buildId": "pw7a2-f5CvkV1cifewbB1mrnbMyQcEy0S2-eaa51efdf6",
+      "description": "low level",
+      "playstyleId": "low-level",
+      "playstyle": {
+        "id": "low-level",
+        "name": "Low Level",
+        "description": "Level 10 or under."
+      },
+      "levels": [
+        {
+          "level": 0,
+          "totalPoints": 30,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "180mm-standard-jihkgl4gh5a"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-magazine-bzl0sldw5v"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-pw7a2-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "ro-m-150x-raohudlbqmq"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "totalPoints": 60,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-magazine-bzl0sldw5v"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-pw7a2-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "180mm-standard-jihkgl4gh5a"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-pw7a2-scope"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-4y7bcsr2r4r"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-osbwq434a4"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "totalPoints": 70,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-magazine-bzl0sldw5v"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-pw7a2-ammunition"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-pw7a2-right-accessory"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "180mm-standard-jihkgl4gh5a"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-pw7a2-scope"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-4y7bcsr2r4r"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-osbwq434a4"
+            }
+          ]
+        },
+        {
+          "level": 6,
+          "totalPoints": 60,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-magazine-bzl0sldw5v"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-pw7a2-ammunition"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-pw7a2-right-accessory"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "3vzr-175x-pw7a2-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "180mm-standard-jihkgl4gh5a"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-4y7bcsr2r4r"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-osbwq434a4"
+            }
+          ]
+        },
+        {
+          "level": 7,
+          "totalPoints": 70,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-magazine-bzl0sldw5v"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-pw7a2-ammunition"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-pw7a2-right-accessory"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-y3rkowvg8jj"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "3vzr-175x-pw7a2-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "180mm-standard-jihkgl4gh5a"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-4y7bcsr2r4r"
+            }
+          ]
+        },
+        {
+          "level": 8,
+          "totalPoints": 80,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-magazine-bzl0sldw5v"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-pw7a2-ammunition"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-pw7a2-right-accessory"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-y3rkowvg8jj"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "3vzr-175x-pw7a2-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "180mm-standard-jihkgl4gh5a"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-4y7bcsr2r4r"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-pw7a2-left-accessory"
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "totalPoints": 85,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-magazine-bzl0sldw5v"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-pw7a2-ammunition"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-pw7a2-right-accessory"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-y3rkowvg8jj"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "3vzr-175x-pw7a2-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "180mm-standard-jihkgl4gh5a"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-4y7bcsr2r4r"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-pw7a2-left-accessory"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-iron-sights-zjgs19tdqo"
+            }
+          ]
+        },
+        {
+          "level": 11,
+          "totalPoints": 85,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-magazine-bzl0sldw5v"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-pw7a2-ammunition"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-pw7a2-right-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "double-port-brake-pw7a2-muzzle"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-y3rkowvg8jj"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "3vzr-175x-pw7a2-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "180mm-standard-jihkgl4gh5a"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-pw7a2-left-accessory"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-iron-sights-zjgs19tdqo"
+            }
+          ]
+        },
+        {
+          "level": 14,
+          "totalPoints": 70,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-magazine-bzl0sldw5v"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-pw7a2-ammunition"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-pw7a2-right-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "double-port-brake-pw7a2-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "180mm-prototype-z6r8j71783c"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-y3rkowvg8jj"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "3vzr-175x-pw7a2-scope"
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "totalPoints": 70,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-magazine-bzl0sldw5v"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-pw7a2-ammunition"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-pw7a2-right-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "double-port-brake-pw7a2-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "180mm-prototype-z6r8j71783c"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-y3rkowvg8jj"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "3vzr-175x-pw7a2-scope"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "buildId": "pw7a2-f5CvkV1cifewbB1mrnbMyQcEy0S2-9eb22f96a7",
+      "description": "best",
+      "playstyleId": "best-loadout",
+      "playstyle": {
+        "id": "best-loadout",
+        "name": "Best Loadout",
+        "description": "Best Loadout"
+      },
+      "levels": [
+        {
+          "level": 0,
+          "totalPoints": 30,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "180mm-standard-jihkgl4gh5a"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-magazine-bzl0sldw5v"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-pw7a2-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "ro-m-150x-raohudlbqmq"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "totalPoints": 50,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-yx4pu80c5pc"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-pw7a2-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "180mm-standard-jihkgl4gh5a"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-magazine-bzl0sldw5v"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-4y7bcsr2r4r"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-osbwq434a4"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "totalPoints": 60,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-yx4pu80c5pc"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-pw7a2-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "180mm-standard-jihkgl4gh5a"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-magazine-bzl0sldw5v"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-4y7bcsr2r4r"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-osbwq434a4"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-pw7a2-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 7,
+          "totalPoints": 70,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-yx4pu80c5pc"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-pw7a2-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-y3rkowvg8jj"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "180mm-standard-jihkgl4gh5a"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-magazine-bzl0sldw5v"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-4y7bcsr2r4r"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-pw7a2-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 8,
+          "totalPoints": 80,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-yx4pu80c5pc"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-pw7a2-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-y3rkowvg8jj"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "180mm-standard-jihkgl4gh5a"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-magazine-bzl0sldw5v"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-4y7bcsr2r4r"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-pw7a2-right-accessory"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-pw7a2-left-accessory"
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "totalPoints": 85,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-yx4pu80c5pc"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-pw7a2-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-y3rkowvg8jj"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "180mm-standard-jihkgl4gh5a"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-magazine-bzl0sldw5v"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-4y7bcsr2r4r"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-pw7a2-right-accessory"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-pw7a2-left-accessory"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-iron-sights-zjgs19tdqo"
+            }
+          ]
+        },
+        {
+          "level": 14,
+          "totalPoints": 85,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-yx4pu80c5pc"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "180mm-prototype-z6r8j71783c"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-pw7a2-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-y3rkowvg8jj"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-magazine-bzl0sldw5v"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-4y7bcsr2r4r"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-pw7a2-right-accessory"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-pw7a2-left-accessory"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-iron-sights-zjgs19tdqo"
+            }
+          ]
+        },
+        {
+          "level": 15,
+          "totalPoints": 90,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-yx4pu80c5pc"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "180mm-prototype-z6r8j71783c"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-pw7a2-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-y3rkowvg8jj"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-fast-mag-gsrpuie7r9r"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-4y7bcsr2r4r"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-pw7a2-right-accessory"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-pw7a2-left-accessory"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-iron-sights-zjgs19tdqo"
+            }
+          ]
+        },
+        {
+          "level": 16,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-yx4pu80c5pc"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "180mm-prototype-z6r8j71783c"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-pw7a2-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-y3rkowvg8jj"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-fast-mag-gsrpuie7r9r"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "compensated-brake-pw7a2-muzzle"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-pw7a2-right-accessory"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-pw7a2-left-accessory"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-iron-sights-zjgs19tdqo"
+            }
+          ]
+        },
+        {
+          "level": 19,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-yx4pu80c5pc"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "180mm-prototype-z6r8j71783c"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-pw7a2-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-y3rkowvg8jj"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-fast-mag-gsrpuie7r9r"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "compensated-brake-pw7a2-muzzle"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "50-mw-green-pw7a2-right-accessory"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-iron-sights-zjgs19tdqo"
+            }
+          ]
+        },
+        {
+          "level": 27,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-yx4pu80c5pc"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "180mm-prototype-z6r8j71783c"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-pw7a2-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-y3rkowvg8jj"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-fast-mag-gsrpuie7r9r"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "long-suppressor-9547uqa5m76"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "50-mw-green-pw7a2-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 31,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-yx4pu80c5pc"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "180mm-prototype-z6r8j71783c"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-pw7a2-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-y3rkowvg8jj"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-fast-mag-gsrpuie7r9r"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "cqb-suppressor-pw7a2-muzzle"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-pw7a2-right-accessory"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-iron-sights-zjgs19tdqo"
+            }
+          ]
+        },
+        {
+          "level": 34,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-yx4pu80c5pc"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "180mm-prototype-z6r8j71783c"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "40rnd-magazine-0u7iigv29rik"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-pw7a2-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-y3rkowvg8jj"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "cqb-suppressor-pw7a2-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 36,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-yx4pu80c5pc"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "180mm-prototype-z6r8j71783c"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "40rnd-magazine-0u7iigv29rik"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "lightened-suppressor-pw7a2-muzzle"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-pw7a2-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-y3rkowvg8jj"
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-yx4pu80c5pc"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "180mm-prototype-z6r8j71783c"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "40rnd-magazine-0u7iigv29rik"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "lightened-suppressor-pw7a2-muzzle"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-pw7a2-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-y3rkowvg8jj"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

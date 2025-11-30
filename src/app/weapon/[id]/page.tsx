@@ -1,31 +1,51 @@
-import { getWeapon, getPremiumModifiers, getTierList } from "@/lib/api";
 import { UpgradeGuide } from "@/components/upgrade-guide";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
 import Image from "next/image";
 import { ArrowLeft, AlertTriangle } from "lucide-react";
+import fs from "node:fs/promises";
+import path from "node:path";
+import { StaticWeaponDetails, WeaponProgression } from "@/lib/static-types";
 
 interface WeaponPageProps {
     params: Promise<{ id: string }>;
 }
 
+async function getStaticWeaponData(id: string) {
+    try {
+        // Read weapon details
+        const detailsPath = path.join(process.cwd(), "data", "weapon-details.json");
+        const detailsContent = await fs.readFile(detailsPath, "utf-8");
+        const allDetails = JSON.parse(detailsContent) as StaticWeaponDetails[];
+        const weapon = allDetails.find(w => w.id === id);
+
+        if (!weapon) return null;
+
+        // Read progression data
+        const progressionPath = path.join(process.cwd(), "data", "precomputed-upgrade-paths", `${id}.json`);
+        let progression: WeaponProgression | null = null;
+
+        try {
+            const progressionContent = await fs.readFile(progressionPath, "utf-8");
+            progression = JSON.parse(progressionContent) as WeaponProgression;
+        } catch (e) {
+            console.warn(`No progression data found for ${id}`);
+        }
+
+        return { weapon, progression };
+    } catch (error) {
+        console.error(`Error loading static data for ${id}:`, error);
+        return null;
+    }
+}
+
 export default async function WeaponPage({ params }: WeaponPageProps) {
     const { id } = await params;
 
-    // Fetch weapon data and tier list in parallel
-    const [weapon, tierListData] = await Promise.all([
-        getWeapon(id),
-        getTierList(),
-    ]);
+    const data = await getStaticWeaponData(id);
 
-    // Get tierListId from the tier list data
-    const tierListId = tierListData?.data?.tierList?.id || "f5CvkV1cifewbB1mrnbMyQcEy0S2-big-maps";
-
-    // Fetch premium modifiers if weapon data is available
-    const premiumModifiers = weapon ? await getPremiumModifiers(tierListId, id) : null;
-
-    if (!weapon) {
+    if (!data || !data.weapon) {
         return (
             <div className="min-h-screen flex flex-col items-center justify-center text-red-500 gap-4">
                 <div className="flex items-center gap-2">
@@ -38,6 +58,8 @@ export default async function WeaponPage({ params }: WeaponPageProps) {
             </div>
         );
     }
+
+    const { weapon, progression } = data;
 
     return (
         <main className="min-h-screen p-8 md:p-12 max-w-7xl mx-auto">
@@ -53,7 +75,7 @@ export default async function WeaponPage({ params }: WeaponPageProps) {
                 <div className="flex flex-col md:flex-row md:items-end gap-4">
                     <div className="relative w-80 h-24 bg-slate-900/30 rounded-lg border border-slate-800/50 overflow-hidden">
                         <Image
-                            src={`/assets/weapons/${weapon.id}.png`}
+                            src={weapon.image}
                             alt={weapon.name}
                             fill
                             className="object-contain"
@@ -63,21 +85,15 @@ export default async function WeaponPage({ params }: WeaponPageProps) {
                     <div className="flex-grow">
                         <div className="flex items-center gap-3 mb-2">
                             <Badge variant="outline" className="text-slate-400 border-slate-600">
-                                {weapon.weaponType?.name}
+                                {weapon.type}
                             </Badge>
                             <Badge variant="secondary" className="bg-bf-orange/10 text-bf-orange border border-bf-orange/20">
-                                {weapon.weaponGroup?.name}
+                                {weapon.group}
                             </Badge>
                         </div>
                         <h1 className="text-5xl md:text-7xl font-bold tracking-tighter text-white font-display uppercase">
                             {weapon.name}
                         </h1>
-                    </div>
-                    <div className="text-right hidden md:block">
-                        <div className="text-sm text-slate-400 uppercase tracking-widest mb-1">Unlock Level</div>
-                        <div className="text-3xl font-mono text-bf-blue">
-                            {weapon.unlockAtPlayerLevel || "Starter"}
-                        </div>
                     </div>
                 </div>
 
@@ -95,7 +111,13 @@ export default async function WeaponPage({ params }: WeaponPageProps) {
                     <div className="h-px flex-grow bg-slate-800" />
                 </div>
 
-                <UpgradeGuide weapon={weapon} premiumModifiers={premiumModifiers} />
+                {progression ? (
+                    <UpgradeGuide weapon={weapon} progression={progression} />
+                ) : (
+                    <div className="text-slate-500">
+                        No upgrade path available for this weapon.
+                    </div>
+                )}
             </section>
         </main>
     );

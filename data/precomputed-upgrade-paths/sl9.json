@@ -1,0 +1,536 @@
+{
+  "weaponId": "sl9",
+  "name": "SL9",
+  "buildProgressions": [
+    {
+      "buildId": "sl9-f5CvkV1cifewbB1mrnbMyQcEy0S2-3f9a708492",
+      "description": "best",
+      "playstyleId": "best-loadout",
+      "playstyle": {
+        "id": "best-loadout",
+        "name": "Best Loadout",
+        "description": "Best Loadout"
+      },
+      "levels": [
+        {
+          "level": 0,
+          "totalPoints": 40,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-sl9-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sl9-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sl9-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-sl9-scope"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "totalPoints": 70,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sl9-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "factory-angled-81kq2w3yj6v"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-sl9-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sl9-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-sl9-scope"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-sl9-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 6,
+          "totalPoints": 85,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sl9-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "factory-angled-81kq2w3yj6v"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-sl9-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "frangible-sl9-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-sl9-scope"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-sl9-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 7,
+          "totalPoints": 95,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "standard-suppressor-sl9-muzzle"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sl9-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "factory-angled-81kq2w3yj6v"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-sl9-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "frangible-sl9-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-sl9-scope"
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "totalPoints": 105,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "standard-suppressor-sl9-muzzle"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sl9-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "factory-angled-81kq2w3yj6v"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "light-sl9-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "frangible-sl9-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-sl9-scope"
+            }
+          ]
+        },
+        {
+          "level": 11,
+          "totalPoints": 110,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "standard-suppressor-sl9-muzzle"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sl9-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "factory-angled-81kq2w3yj6v"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "light-sl9-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "frangible-sl9-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mars-f-lpvo-sl9-scope"
+            }
+          ]
+        },
+        {
+          "level": 20,
+          "totalPoints": 105,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "standard-suppressor-sl9-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-sl9-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sl9-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "factory-angled-81kq2w3yj6v"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "frangible-sl9-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mars-f-lpvo-sl9-scope"
+            }
+          ]
+        },
+        {
+          "level": 36,
+          "totalPoints": 115,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "standard-suppressor-sl9-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-sl9-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sl9-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "factory-angled-81kq2w3yj6v"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "synthetic-tip-sl9-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mars-f-lpvo-sl9-scope"
+            }
+          ]
+        },
+        {
+          "level": 37,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "standard-suppressor-sl9-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-sl9-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sl9-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "a-p2-175x-sl9-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "factory-angled-81kq2w3yj6v"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "synthetic-tip-sl9-ammunition"
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "standard-suppressor-sl9-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-sl9-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sl9-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "a-p2-175x-sl9-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "factory-angled-81kq2w3yj6v"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "synthetic-tip-sl9-ammunition"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "buildId": "sl9-f5CvkV1cifewbB1mrnbMyQcEy0S2-ecce1fad77",
+      "description": "low level",
+      "playstyleId": "low-level",
+      "playstyle": {
+        "id": "low-level",
+        "name": "Low Level",
+        "description": "Level 10 or under."
+      },
+      "levels": [
+        {
+          "level": 0,
+          "totalPoints": 40,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-sl9-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sl9-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sl9-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-sl9-scope"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "totalPoints": 70,
+          "attachments": [
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "factory-angled-81kq2w3yj6v"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sl9-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sl9-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-sl9-barrel"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-sl9-scope"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-sl9-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "totalPoints": 60,
+          "attachments": [
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "factory-angled-81kq2w3yj6v"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sl9-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sl9-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-sl9-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-sl9-barrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-sl9-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 7,
+          "totalPoints": 70,
+          "attachments": [
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "factory-angled-81kq2w3yj6v"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "standard-suppressor-sl9-muzzle"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sl9-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sl9-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-sl9-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-sl9-barrel"
+            }
+          ]
+        },
+        {
+          "level": 9,
+          "totalPoints": 80,
+          "attachments": [
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "factory-angled-81kq2w3yj6v"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "standard-suppressor-sl9-muzzle"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sl9-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sl9-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-sl9-scope"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-sl9-right-accessory"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-sl9-barrel"
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "totalPoints": 90,
+          "attachments": [
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "factory-angled-81kq2w3yj6v"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "standard-suppressor-sl9-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "light-sl9-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sl9-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sl9-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-sl9-scope"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-sl9-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "totalPoints": 90,
+          "attachments": [
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "factory-angled-81kq2w3yj6v"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "standard-suppressor-sl9-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "light-sl9-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sl9-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sl9-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-sl9-scope"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-sl9-right-accessory"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

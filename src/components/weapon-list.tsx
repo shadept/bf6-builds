@@ -1,15 +1,15 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useMemo } from "react";
 import { WeaponCard } from "@/components/weapon-card";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
-import { TierListResponseSchema, WeaponSchema } from "@/lib/schemas";
+import { TierListResponseSchema } from "@/lib/schemas";
 import { z } from "zod";
 import { Search } from "lucide-react";
+import weaponDetailsData from "@/../data/weapon-details.json";
 
-type TierListData = z.infer<typeof TierListResponseSchema>["data"];
-type Weapon = z.infer<typeof WeaponSchema>;
+type TierListData = z.infer<typeof TierListResponseSchema>;
 
 interface WeaponListProps {
     data: TierListData;
@@ -21,17 +21,26 @@ export function WeaponList({ data }: WeaponListProps) {
     const [selectedType, setSelectedType] = useState<string | null>(null);
     const [searchQuery, setSearchQuery] = useState("");
 
-    // Extract unique weapon types
-    const typesMap = new Map<string, string>();
-    (Object.values(data.rankings || {}) as { weapon: Weapon }[][])
-        .flat()
-        .forEach((item) => {
-            if (item.weapon.weaponType) {
-                typesMap.set(item.weapon.weaponType.id, item.weapon.weaponType.name);
+    // Create a map of weapon ID to weapon details
+    const weaponsMap = useMemo(() => {
+        const map = new Map();
+        (weaponDetailsData as any[]).forEach((weapon: any) => {
+            map.set(weapon.id, weapon);
+        });
+        return map;
+    }, []);
+
+    // Extract unique weapon types from all weapons in the tierlist
+    const weaponTypes = useMemo(() => {
+        const typesMap = new Map<string, string>();
+        Object.values(data.ranking).flat().forEach((weaponId: any) => {
+            const weapon = weaponsMap.get(weaponId);
+            if (weapon?.type) {
+                typesMap.set(weapon.type.toLowerCase(), weapon.type);
             }
         });
-
-    const weaponTypes = Array.from(typesMap.entries()).sort((a, b) => a[1].localeCompare(b[1]));
+        return Array.from(typesMap.entries()).sort((a, b) => a[1].localeCompare(b[1]));
+    }, [data.ranking, weaponsMap]);
 
     return (
         <div className="space-y-8">
@@ -78,24 +87,28 @@ export function WeaponList({ data }: WeaponListProps) {
             {/* Tier Sections */}
             <div className="space-y-12">
                 {TIERS.map((tier) => {
-                    const tierWeapons = data.rankings?.[tier] || [];
-                    let filteredWeapons = tierWeapons;
+                    const tierWeaponIds = data.ranking[tier] || [];
+
+                    // Map weapon IDs to weapon details
+                    let weapons = tierWeaponIds
+                        .map((weaponId: string) => weaponsMap.get(weaponId))
+                        .filter(Boolean);
 
                     // Filter by weapon type
                     if (selectedType) {
-                        filteredWeapons = filteredWeapons.filter(
-                            (item) => item.weapon.weaponType?.id === selectedType
+                        weapons = weapons.filter(
+                            (weapon: any) => weapon.type?.toLowerCase() === selectedType
                         );
                     }
 
                     // Filter by search query (case insensitive)
                     if (searchQuery.trim()) {
-                        filteredWeapons = filteredWeapons.filter((item) =>
-                            item.weapon.name.toLowerCase().includes(searchQuery.toLowerCase())
+                        weapons = weapons.filter((weapon: any) =>
+                            weapon.name.toLowerCase().includes(searchQuery.toLowerCase())
                         );
                     }
 
-                    if (filteredWeapons.length === 0) return null;
+                    if (weapons.length === 0) return null;
 
                     return (
                         <section key={tier} className="space-y-4">
@@ -106,10 +119,10 @@ export function WeaponList({ data }: WeaponListProps) {
                                 <div className="h-px flex-grow bg-slate-800" />
                             </div>
                             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-                                {filteredWeapons.map((item) => (
+                                {weapons.map((weapon: any) => (
                                     <WeaponCard
-                                        key={item.weapon.id}
-                                        weapon={item.weapon}
+                                        key={weapon.id}
+                                        weapon={weapon}
                                         tier={tier}
                                     />
                                 ))}

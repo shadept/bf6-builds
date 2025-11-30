@@ -1,0 +1,256 @@
+{
+  "weaponId": "sv-98",
+  "name": "SV-98",
+  "buildProgressions": [
+    {
+      "buildId": "sv-98-f5CvkV1cifewbB1mrnbMyQcEy0S2-1739ffdbda",
+      "description": "low level",
+      "playstyleId": "low-level",
+      "playstyle": {
+        "id": "low-level",
+        "name": "Low Level",
+        "description": "Level 10 or under."
+      },
+      "levels": [
+        {
+          "level": 0,
+          "totalPoints": 40,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-sv-98-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-rnd-sv-98-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sv-98-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-sv-98-scope"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "totalPoints": 60,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "double-port-brake-sv-98-muzzle"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-rnd-sv-98-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "s-vps-600x-sv-98-scope"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-sv-98-right-accessory"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-sv-98-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sv-98-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "low-profile-stubby-sv-98-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "totalPoints": 65,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "double-port-brake-sv-98-muzzle"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-rnd-sv-98-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "match-grade-sv-98-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "s-vps-600x-sv-98-scope"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-sv-98-right-accessory"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-sv-98-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "low-profile-stubby-sv-98-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "totalPoints": 70,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "double-port-brake-sv-98-muzzle"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-rnd-sv-98-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "match-grade-sv-98-ammunition"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-sv-98-ergonomics"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "s-vps-600x-sv-98-scope"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-sv-98-right-accessory"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-sv-98-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "low-profile-stubby-sv-98-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 7,
+          "totalPoints": 85,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "double-port-brake-sv-98-muzzle"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-rnd-sv-98-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "match-grade-sv-98-ammunition"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-sv-98-ergonomics"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "s-vps-600x-sv-98-scope"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-sv-98-right-accessory"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-sv-98-barrel"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "range-finder-sv-98-left-accessory"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "low-profile-stubby-sv-98-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 9,
+          "totalPoints": 65,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "double-port-brake-sv-98-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-sv-98-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-rnd-sv-98-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "match-grade-sv-98-ammunition"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-sv-98-ergonomics"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "s-vps-600x-sv-98-scope"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-sv-98-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "totalPoints": 65,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "double-port-brake-sv-98-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-sv-98-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-rnd-sv-98-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "match-grade-sv-98-ammunition"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-sv-98-ergonomics"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "s-vps-600x-sv-98-scope"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-sv-98-right-accessory"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

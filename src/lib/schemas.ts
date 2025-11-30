@@ -70,17 +70,7 @@ export const WeaponSchema = z.object({
 export const TierListRankingSchema = z.record(z.string(), z.array(z.string()));
 
 export const TierListResponseSchema = z.object({
-    success: z.boolean(),
-    data: z.object({
-        tierList: z.object({
-            id: z.string(),
-            ranking: TierListRankingSchema,
-        }),
-        rankings: z.record(z.string(), z.array(z.object({
-            weapon: WeaponSchema,
-            builds: z.array(BuildSchema).optional(),
-        }))).optional(),
-    }),
+    ranking: TierListRankingSchema,
 });
 
 export const WeaponDetailsResponseSchema = z.object({

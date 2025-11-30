@@ -1,0 +1,640 @@
+{
+  "weaponId": "ak4d",
+  "name": "AK4D",
+  "buildProgressions": [
+    {
+      "buildId": "ak4d-f5CvkV1cifewbB1mrnbMyQcEy0S2-02868c571c",
+      "description": "low level",
+      "playstyleId": "low-level",
+      "playstyle": {
+        "id": "low-level",
+        "name": "Low Level",
+        "description": "Level 10 or under."
+      },
+      "levels": [
+        {
+          "level": 0,
+          "totalPoints": 30,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-ak4d-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-rnd-ak4d-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-ak4d-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "cco-200x-ak4d-scope"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "totalPoints": 80,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-ak4d-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-ak4d-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-rnd-ak4d-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-ak4d-ammunition"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-ak4d-right-accessory"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-ak4d-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "slim-handstop-ak4d-underbarrel"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-iron-sights-ak4d-optic-accessory"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "totalPoints": 85,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-ak4d-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-ak4d-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-ak4d-underbarrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-rnd-ak4d-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-ak4d-ammunition"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-ak4d-right-accessory"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-ak4d-scope"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-iron-sights-ak4d-optic-accessory"
+            }
+          ]
+        },
+        {
+          "level": 7,
+          "totalPoints": 70,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-ak4d-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-ak4d-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-ak4d-underbarrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-rnd-ak4d-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-ak4d-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "3vzr-175x-ak4d-scope"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-ak4d-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "totalPoints": 70,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-ak4d-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-ak4d-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-ak4d-underbarrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-rnd-ak4d-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-ak4d-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "3vzr-175x-ak4d-scope"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-ak4d-right-accessory"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "buildId": "ak4d-f5CvkV1cifewbB1mrnbMyQcEy0S2-60b78f583e",
+      "description": "best",
+      "playstyleId": "best-loadout",
+      "playstyle": {
+        "id": "best-loadout",
+        "name": "Best Loadout",
+        "description": "Best Loadout"
+      },
+      "levels": [
+        {
+          "level": 0,
+          "totalPoints": 30,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-ak4d-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-rnd-ak4d-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-ak4d-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "cco-200x-ak4d-scope"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "totalPoints": 80,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-ak4d-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-rnd-ak4d-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-ak4d-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-ak4d-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "slim-handstop-ak4d-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-ak4d-right-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-ak4d-muzzle"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-iron-sights-ak4d-optic-accessory"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "totalPoints": 85,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-ak4d-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-rnd-ak4d-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-ak4d-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-ak4d-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-ak4d-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-ak4d-right-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-ak4d-muzzle"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-iron-sights-ak4d-optic-accessory"
+            }
+          ]
+        },
+        {
+          "level": 6,
+          "totalPoints": 90,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-ak4d-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-rnd-ak4d-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-ak4d-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-ak4d-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "6h64-vertical-ak4d-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-ak4d-right-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-ak4d-muzzle"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-iron-sights-ak4d-optic-accessory"
+            }
+          ]
+        },
+        {
+          "level": 7,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-ak4d-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-rnd-ak4d-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-ak4d-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-ak4d-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "classic-vertical-ak4d-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-ak4d-right-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-ak4d-muzzle"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-iron-sights-ak4d-optic-accessory"
+            }
+          ]
+        },
+        {
+          "level": 9,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-ak4d-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-rnd-ak4d-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-ak4d-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-ak4d-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "classic-vertical-ak4d-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-ak4d-right-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-ak4d-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 15,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-fast-ak4d-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-ak4d-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-ak4d-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-ak4d-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "classic-vertical-ak4d-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-ak4d-right-accessory"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-iron-sights-ak4d-optic-accessory"
+            }
+          ]
+        },
+        {
+          "level": 16,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-fast-ak4d-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-ak4d-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "frangible-ak4d-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-ak4d-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "classic-vertical-ak4d-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 18,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-stubby-ak4d-underbarrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-fast-ak4d-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-ak4d-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "frangible-ak4d-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-ak4d-scope"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-iron-sights-ak4d-optic-accessory"
+            }
+          ]
+        },
+        {
+          "level": 21,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-stubby-ak4d-underbarrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-fast-ak4d-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-ak4d-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "frangible-ak4d-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mars-f-lpvo-ak4d-scope"
+            }
+          ]
+        },
+        {
+          "level": 22,
+          "totalPoints": 120,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "standard-suppressor-ak4d-muzzle"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-stubby-ak4d-underbarrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-fast-ak4d-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-ak4d-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "frangible-ak4d-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mars-f-lpvo-ak4d-scope"
+            }
+          ]
+        },
+        {
+          "level": 24,
+          "totalPoints": 105,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "standard-suppressor-ak4d-muzzle"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "a-p2-175x-ak4d-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-stubby-ak4d-underbarrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-fast-ak4d-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-ak4d-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "frangible-ak4d-ammunition"
+            }
+          ]
+        },
+        {
+          "level": 25,
+          "totalPoints": 105,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "hollow-point-ak4d-ammunition"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "standard-suppressor-ak4d-muzzle"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "a-p2-175x-ak4d-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-stubby-ak4d-underbarrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-fast-ak4d-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-ak4d-barrel"
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "hollow-point-ak4d-ammunition"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "standard-suppressor-ak4d-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-ext-ak4d-barrel"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "a-p2-175x-ak4d-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-stubby-ak4d-underbarrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-fast-ak4d-magazine"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

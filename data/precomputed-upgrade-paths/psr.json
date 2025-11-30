@@ -1,0 +1,572 @@
+{
+  "weaponId": "psr",
+  "name": "PSR",
+  "buildProgressions": [
+    {
+      "buildId": "psr-f5CvkV1cifewbB1mrnbMyQcEy0S2-2d9ebae5ba",
+      "description": "low level",
+      "playstyleId": "low-level",
+      "playstyle": {
+        "id": "low-level",
+        "name": "Low Level",
+        "description": "Level 10 or under."
+      },
+      "levels": [
+        {
+          "level": 0,
+          "totalPoints": 45,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-psr-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-rnd-psr-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-psr-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-psr-scope"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "totalPoints": 75,
+          "attachments": [
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "low-profile-stubby-1fuy85973uq"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-psr-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-rnd-psr-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-psr-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-psr-scope"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "double-port-brake-psr-muzzle"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-psr-top-accessory"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "totalPoints": 80,
+          "attachments": [
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "low-profile-stubby-1fuy85973uq"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-psr-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-rnd-psr-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "match-grade-psr-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-psr-scope"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "double-port-brake-psr-muzzle"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-psr-top-accessory"
+            }
+          ]
+        },
+        {
+          "level": 7,
+          "totalPoints": 95,
+          "attachments": [
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "low-profile-stubby-1fuy85973uq"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-psr-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-rnd-psr-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "match-grade-psr-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-psr-scope"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "compensated-brake-psr-muzzle"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "range-finder-psr-left-accessory"
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "low-profile-stubby-1fuy85973uq"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-psr-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-rnd-psr-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "match-grade-psr-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-psr-scope"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "compensated-brake-psr-muzzle"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "range-finder-psr-left-accessory"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-iron-sights-psr-optic-accessory"
+            }
+          ]
+        },
+        {
+          "level": 13,
+          "totalPoints": 70,
+          "attachments": [
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "dlc-bolt-psr-ergonomics"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "low-profile-stubby-1fuy85973uq"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-psr-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-rnd-psr-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "match-grade-psr-ammunition"
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "totalPoints": 70,
+          "attachments": [
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "dlc-bolt-psr-ergonomics"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "low-profile-stubby-1fuy85973uq"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-psr-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-rnd-psr-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "match-grade-psr-ammunition"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "buildId": "psr-f5CvkV1cifewbB1mrnbMyQcEy0S2-c76d786828",
+      "description": "best",
+      "playstyleId": "best-loadout",
+      "playstyle": {
+        "id": "best-loadout",
+        "name": "Best Loadout",
+        "description": "Best Loadout"
+      },
+      "levels": [
+        {
+          "level": 0,
+          "totalPoints": 45,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-psr-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-rnd-psr-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-psr-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-psr-scope"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "totalPoints": 75,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-rnd-psr-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-psr-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-psr-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-psr-scope"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "double-port-brake-psr-muzzle"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-psr-top-accessory"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "low-profile-stubby-1fuy85973uq"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "totalPoints": 80,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-rnd-psr-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-psr-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "match-grade-psr-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-psr-scope"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "double-port-brake-psr-muzzle"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-psr-top-accessory"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "low-profile-stubby-1fuy85973uq"
+            }
+          ]
+        },
+        {
+          "level": 7,
+          "totalPoints": 95,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-rnd-psr-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-psr-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "match-grade-psr-ammunition"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "range-finder-psr-left-accessory"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-psr-scope"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "compensated-brake-psr-muzzle"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-psr-top-accessory"
+            }
+          ]
+        },
+        {
+          "level": 9,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-rnd-psr-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-psr-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "match-grade-psr-ammunition"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "range-finder-psr-left-accessory"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-psr-scope"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "compensated-brake-psr-muzzle"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-psr-top-accessory"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "full-angled-psr-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 13,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "dlc-bolt-psr-ergonomics"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-rnd-psr-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-psr-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "match-grade-psr-ammunition"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "range-finder-psr-left-accessory"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-psr-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "full-angled-psr-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 14,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "dlc-bolt-psr-ergonomics"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-rnd-psr-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-psr-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "match-grade-psr-ammunition"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "range-finder-psr-left-accessory"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "ngfc-lpvo-psr-scope"
+            }
+          ]
+        },
+        {
+          "level": 26,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "dlc-bolt-psr-ergonomics"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-rnd-psr-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-psr-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "match-grade-psr-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "s-vps-600x-psr-scope"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "range-finder-psr-left-accessory"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "slim-angled-psr-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 36,
+          "totalPoints": 95,
+          "attachments": [
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "dlc-bolt-psr-ergonomics"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-rnd-psr-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-psr-barrel"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "anti-glare-coating-psr-optic-accessory"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "match-grade-psr-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "s-vps-600x-psr-scope"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "range-finder-psr-left-accessory"
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "totalPoints": 95,
+          "attachments": [
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "dlc-bolt-psr-ergonomics"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-rnd-psr-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-psr-barrel"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "anti-glare-coating-psr-optic-accessory"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "match-grade-psr-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "s-vps-600x-psr-scope"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "range-finder-psr-left-accessory"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

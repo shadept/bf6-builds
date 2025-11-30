@@ -1,0 +1,1174 @@
+{
+  "weaponId": "sgx",
+  "name": "SGX",
+  "buildProgressions": [
+    {
+      "buildId": "sgx-f5CvkV1cifewbB1mrnbMyQcEy0S2-c853626181",
+      "description": "hip fire",
+      "playstyleId": "hip-fire",
+      "playstyle": {
+        "id": "hip-fire",
+        "name": "Hip Fire",
+        "description": "Hip Fire"
+      },
+      "levels": [
+        {
+          "level": 0,
+          "totalPoints": 40,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "6-standard"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sgx-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-sgx-scope"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "totalPoints": 25,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "iron-sights-og9jfg3yl1c"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-sgx-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sgx-magazine"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "totalPoints": 85,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-sgx-right-accessory"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "iron-sights-og9jfg3yl1c"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-prmrbjbtz"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-sgx-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sgx-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-stubby-sgx-underbarrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-sgx-top-accessory"
+            }
+          ]
+        },
+        {
+          "level": 8,
+          "totalPoints": 90,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "short-sgx-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-sgx-right-accessory"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "iron-sights-og9jfg3yl1c"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-prmrbjbtz"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sgx-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-stubby-sgx-underbarrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-sgx-top-accessory"
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "short-sgx-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-sgx-right-accessory"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "iron-sights-og9jfg3yl1c"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-prmrbjbtz"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36-rnd-sgx-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-stubby-sgx-underbarrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-sgx-top-accessory"
+            }
+          ]
+        },
+        {
+          "level": 12,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "short-sgx-barrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "50-mw-green-j3wt1ob07s"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-sgx-right-accessory"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "iron-sights-og9jfg3yl1c"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-prmrbjbtz"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36-rnd-sgx-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-sgx-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 32,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "short-sgx-barrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "50-mw-green-j3wt1ob07s"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-sgx-right-accessory"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "iron-sights-og9jfg3yl1c"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "41-rnd-sgx-magazine"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-prmrbjbtz"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-zs9vlwux1r"
+            }
+          ]
+        },
+        {
+          "level": 33,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "short-sgx-barrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "50-mw-green-j3wt1ob07s"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-sgx-right-accessory"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "iron-sights-og9jfg3yl1c"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "compact-handstop"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "41-rnd-sgx-magazine"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-prmrbjbtz"
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "short-sgx-barrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "50-mw-green-j3wt1ob07s"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-sgx-right-accessory"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "iron-sights-og9jfg3yl1c"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "compact-handstop"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "41-rnd-sgx-magazine"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-prmrbjbtz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "buildId": "sgx-f5CvkV1cifewbB1mrnbMyQcEy0S2-89023bfb4c",
+      "description": "Best loadout",
+      "playstyleId": "best-loadout",
+      "playstyle": {
+        "id": "best-loadout",
+        "name": "Best Loadout",
+        "description": "Best Loadout"
+      },
+      "levels": [
+        {
+          "level": 0,
+          "totalPoints": 40,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "6-standard"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sgx-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-sgx-scope"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "totalPoints": 40,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-sgx-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sgx-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-sgx-scope"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-sgx-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sgx-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-sgx-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-stubby-sgx-underbarrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-sgx-top-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-prmrbjbtz"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-sgx-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 8,
+          "totalPoints": 95,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "short-sgx-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sgx-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-sgx-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-stubby-sgx-underbarrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-sgx-top-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-prmrbjbtz"
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "totalPoints": 95,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "ro-s-125x-sgx-scope"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36-rnd-sgx-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "short-sgx-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-stubby-sgx-underbarrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-sgx-top-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-prmrbjbtz"
+            }
+          ]
+        },
+        {
+          "level": 12,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "ro-s-125x-sgx-scope"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36-rnd-sgx-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "short-sgx-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-stubby-sgx-underbarrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "50-mw-green-j3wt1ob07s"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-sgx-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 16,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "8-extended"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "ro-s-125x-sgx-scope"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36-rnd-sgx-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-stubby-sgx-underbarrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "50-mw-green-j3wt1ob07s"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-sgx-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 24,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "8-extended"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "ro-s-125x-sgx-scope"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36-rnd-sgx-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "classic-vertical-sgx-underbarrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "50-mw-green-j3wt1ob07s"
+            }
+          ]
+        },
+        {
+          "level": 27,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "8-extended"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "ro-s-125x-sgx-scope"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36-rnd-sgx-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "low-profile-stubby-sgx-underbarrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-sgx-top-accessory"
+            }
+          ]
+        },
+        {
+          "level": 38,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "stippled-stubby-sgx-underbarrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "8-extended"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "ro-s-125x-sgx-scope"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36-rnd-sgx-magazine"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "50-mw-green-j3wt1ob07s"
+            }
+          ]
+        },
+        {
+          "level": 39,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "compensated-brake-268qnd7xxsu"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "stippled-stubby-sgx-underbarrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "8-extended"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "ro-s-125x-sgx-scope"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36-rnd-sgx-magazine"
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "compensated-brake-268qnd7xxsu"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "stippled-stubby-sgx-underbarrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "8-extended"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "ro-s-125x-sgx-scope"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36-rnd-sgx-magazine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "buildId": "sgx-f5CvkV1cifewbB1mrnbMyQcEy0S2-fdf28caa81",
+      "description": "Low level",
+      "playstyleId": "low-level",
+      "playstyle": {
+        "id": "low-level",
+        "name": "Low Level",
+        "description": "Level 10 or under."
+      },
+      "levels": [
+        {
+          "level": 0,
+          "totalPoints": 40,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "6-standard"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sgx-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-sgx-scope"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "totalPoints": 40,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "6-standard"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sgx-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-sgx-scope"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "totalPoints": 85,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-cm8cwsrj7f"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-sgx-top-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-sgx-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "6-standard"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sgx-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-stubby-sgx-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-sgx-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 6,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-cm8cwsrj7f"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-sgx-top-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-sgx-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "6-standard"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sgx-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "frangible-sgx-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-stubby-sgx-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-sgx-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 7,
+          "totalPoints": 55,
+          "attachments": [
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-sgx-underbarrel"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-cm8cwsrj7f"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-sgx-top-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-sgx-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "6-standard"
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "totalPoints": 55,
+          "attachments": [
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-sgx-underbarrel"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-cm8cwsrj7f"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-sgx-top-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-sgx-muzzle"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "6-standard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "buildId": "sgx-f5CvkV1cifewbB1mrnbMyQcEy0S2-89581c39cd",
+      "description": "br",
+      "playstyleId": "battle-royale",
+      "playstyle": {
+        "id": "battle-royale",
+        "name": "Battle Royale",
+        "description": "Battle Royale"
+      },
+      "levels": [
+        {
+          "level": 0,
+          "totalPoints": 40,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "6-standard"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sgx-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-sgx-scope"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "totalPoints": 40,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-sgx-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sgx-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-sgx-scope"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-sgx-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-stubby-sgx-underbarrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sgx-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-sgx-scope"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-sgx-top-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-prmrbjbtz"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-sgx-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-sgx-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-stubby-sgx-underbarrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36-rnd-sgx-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-sgx-scope"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-sgx-top-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-prmrbjbtz"
+            }
+          ]
+        },
+        {
+          "level": 12,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-sgx-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-stubby-sgx-underbarrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36-rnd-sgx-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-sgx-scope"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "50-mw-green-j3wt1ob07s"
+            }
+          ]
+        },
+        {
+          "level": 14,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-sgx-barrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "standard-suppressor-2kt640ktcb8"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-stubby-sgx-underbarrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36-rnd-sgx-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-sgx-scope"
+            }
+          ]
+        },
+        {
+          "level": 15,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-sgx-barrel"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-afb2uk3yfo6"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "standard-suppressor-2kt640ktcb8"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-stubby-sgx-underbarrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36-rnd-sgx-magazine"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-sgx-top-accessory"
+            }
+          ]
+        },
+        {
+          "level": 32,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-sgx-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "41-rnd-sgx-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-afb2uk3yfo6"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "standard-suppressor-2kt640ktcb8"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-stubby-sgx-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "totalPoints": 100,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sgx-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-sgx-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "41-rnd-sgx-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-afb2uk3yfo6"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "standard-suppressor-2kt640ktcb8"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "ribbed-stubby-sgx-underbarrel"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

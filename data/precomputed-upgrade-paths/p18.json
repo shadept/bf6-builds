@@ -1,0 +1,258 @@
+{
+  "weaponId": "p18",
+  "name": "P18",
+  "buildProgressions": [
+    {
+      "buildId": "p18-f5CvkV1cifewbB1mrnbMyQcEy0S2-b83c1e8e52",
+      "description": "best",
+      "playstyleId": "best-loadout",
+      "playstyle": {
+        "id": "best-loadout",
+        "name": "Best Loadout",
+        "description": "Best Loadout"
+      },
+      "levels": [
+        {
+          "level": 0,
+          "totalPoints": 40,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "39-factory-7urfst353qs"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "17rnd-magazine-kjdcsgygn38"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-p18-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-p18-scope"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "totalPoints": 55,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-r785h1rk1l9"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "17rnd-magazine-kjdcsgygn38"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "39-factory-7urfst353qs"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-p18-scope"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-k3y6ddj7wqh"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-p18-ergonomics"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "totalPoints": 65,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-r785h1rk1l9"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "17rnd-magazine-kjdcsgygn38"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "39-factory-7urfst353qs"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-p18-scope"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-k3y6ddj7wqh"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "5-mw-red-6e83o44sr5t"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-p18-ergonomics"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "totalPoints": 55,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-xzkiyt7mm4s"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-r785h1rk1l9"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "17rnd-magazine-kjdcsgygn38"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "39-factory-7urfst353qs"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-k3y6ddj7wqh"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "5-mw-red-6e83o44sr5t"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-p18-ergonomics"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "totalPoints": 65,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "39-pencil-rbad8fo67a"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-xzkiyt7mm4s"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-r785h1rk1l9"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "17rnd-magazine-kjdcsgygn38"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-k3y6ddj7wqh"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "5-mw-red-6e83o44sr5t"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-p18-ergonomics"
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "totalPoints": 75,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "39-pencil-rbad8fo67a"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-xzkiyt7mm4s"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-r785h1rk1l9"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "17rnd-magazine-kjdcsgygn38"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "laserlight-combo-red-bultwnvs8ms"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-k3y6ddj7wqh"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-p18-ergonomics"
+            }
+          ]
+        },
+        {
+          "level": 14,
+          "totalPoints": 60,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "39-pencil-rbad8fo67a"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "standard-suppressor-v82ypv3060g"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-xzkiyt7mm4s"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-r785h1rk1l9"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "17rnd-magazine-kjdcsgygn38"
+            }
+          ]
+        },
+        {
+          "level": 40,
+          "totalPoints": 60,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "39-pencil-rbad8fo67a"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "standard-suppressor-v82ypv3060g"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-xzkiyt7mm4s"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-r785h1rk1l9"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "17rnd-magazine-kjdcsgygn38"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
