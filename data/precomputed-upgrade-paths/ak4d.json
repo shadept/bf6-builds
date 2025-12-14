@@ -36,7 +36,7 @@
         },
         {
           "level": 1,
-          "totalPoints": 80,
+          "totalPoints": 60,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -60,21 +60,17 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "su-230-lpvo-ak4d-scope"
+              "attachmentId": "osa-7-100x-ak4d-scope"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-ak4d-underbarrel"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-ak4d-optic-accessory"
+              "attachmentId": "folding-vertical-ak4d-underbarrel"
             }
           ]
         },
         {
           "level": 2,
-          "totalPoints": 85,
+          "totalPoints": 70,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -102,11 +98,41 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "su-230-lpvo-ak4d-scope"
+              "attachmentId": "osa-7-100x-ak4d-scope"
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "totalPoints": 70,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-ak4d-muzzle"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-ak4d-optic-accessory"
+              "slotId": "barrel",
+              "attachmentId": "basic-ak4d-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-ak4d-underbarrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-rnd-ak4d-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-ak4d-ammunition"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-ak4d-right-accessory"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-ak4d-scope"
             }
           ]
         },
@@ -214,8 +240,12 @@
         },
         {
           "level": 1,
-          "totalPoints": 80,
+          "totalPoints": 60,
           "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-ak4d-scope"
+            },
             {
               "slotId": "barrel",
               "attachmentId": "basic-ak4d-barrel"
@@ -229,12 +259,8 @@
               "attachmentId": "fmj-ak4d-ammunition"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-ak4d-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-ak4d-underbarrel"
+              "attachmentId": "folding-vertical-ak4d-underbarrel"
             },
             {
               "slotId": "right-accessory",
@@ -243,20 +269,20 @@
             {
               "slotId": "muzzle",
               "attachmentId": "flash-hider-ak4d-muzzle"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-ak4d-optic-accessory"
             }
           ]
         },
         {
-          "level": 2,
-          "totalPoints": 85,
+          "level": 4,
+          "totalPoints": 60,
           "attachments": [
             {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-ak4d-scope"
+            },
+            {
               "slotId": "barrel",
-              "attachmentId": "basic-ak4d-barrel"
+              "attachmentId": "heavy-ak4d-barrel"
             },
             {
               "slotId": "magazine",
@@ -267,12 +293,8 @@
               "attachmentId": "fmj-ak4d-ammunition"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-ak4d-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-ak4d-underbarrel"
+              "attachmentId": "folding-vertical-ak4d-underbarrel"
             },
             {
               "slotId": "right-accessory",
@@ -281,20 +303,20 @@
             {
               "slotId": "muzzle",
               "attachmentId": "flash-hider-ak4d-muzzle"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-ak4d-optic-accessory"
             }
           ]
         },
         {
-          "level": 6,
-          "totalPoints": 90,
+          "level": 12,
+          "totalPoints": 60,
           "attachments": [
             {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-ak4d-scope"
+            },
+            {
               "slotId": "barrel",
-              "attachmentId": "basic-ak4d-barrel"
+              "attachmentId": "heavy-ak4d-barrel"
             },
             {
               "slotId": "magazine",
@@ -305,12 +327,8 @@
               "attachmentId": "fmj-ak4d-ammunition"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-ak4d-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-ak4d-underbarrel"
+              "attachmentId": "folding-vertical-ak4d-underbarrel"
             },
             {
               "slotId": "right-accessory",
@@ -318,21 +336,21 @@
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-ak4d-muzzle"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-ak4d-optic-accessory"
+              "attachmentId": "linear-comp-ak4d-muzzle"
             }
           ]
         },
         {
-          "level": 7,
-          "totalPoints": 100,
+          "level": 13,
+          "totalPoints": 75,
           "attachments": [
             {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-ak4d-scope"
+            },
+            {
               "slotId": "barrel",
-              "attachmentId": "basic-ak4d-barrel"
+              "attachmentId": "heavy-ak4d-barrel"
             },
             {
               "slotId": "magazine",
@@ -343,124 +361,94 @@
               "attachmentId": "fmj-ak4d-ammunition"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-ak4d-scope"
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-ak4d-underbarrel"
             },
             {
-              "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-ak4d-underbarrel"
+              "slotId": "muzzle",
+              "attachmentId": "long-suppressor-ak4d-muzzle"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-red-ak4d-right-accessory"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-ak4d-muzzle"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-ak4d-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 9,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "extended-ak4d-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "20-rnd-ak4d-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-ak4d-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-ak4d-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-ak4d-underbarrel"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-ak4d-right-accessory"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-ak4d-muzzle"
             }
           ]
         },
         {
           "level": 15,
-          "totalPoints": 100,
+          "totalPoints": 80,
           "attachments": [
             {
               "slotId": "magazine",
               "attachmentId": "20-fast-ak4d-magazine"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-ak4d-scope"
+            },
+            {
               "slotId": "barrel",
-              "attachmentId": "extended-ak4d-barrel"
+              "attachmentId": "heavy-ak4d-barrel"
             },
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-ak4d-ammunition"
             },
             {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-ak4d-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "long-suppressor-ak4d-muzzle"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-ak4d-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 17,
+          "totalPoints": 90,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-fast-ak4d-magazine"
+            },
+            {
               "slotId": "scope",
-              "attachmentId": "su-230-lpvo-ak4d-scope"
+              "attachmentId": "mini-flex-100x-ak4d-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-ak4d-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-ak4d-ammunition"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-ak4d-underbarrel"
+              "attachmentId": "folding-vertical-ak4d-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "long-suppressor-ak4d-muzzle"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-red-ak4d-right-accessory"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-ak4d-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 16,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "20-fast-ak4d-magazine"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "extended-ak4d-barrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "frangible-ak4d-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-ak4d-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-ak4d-underbarrel"
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-ak4d-left-accessory"
             }
           ]
         },
         {
           "level": 18,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "underbarrel",
@@ -471,52 +459,26 @@
               "attachmentId": "20-fast-ak4d-magazine"
             },
             {
-              "slotId": "barrel",
-              "attachmentId": "extended-ak4d-barrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "frangible-ak4d-ammunition"
-            },
-            {
               "slotId": "scope",
-              "attachmentId": "su-230-lpvo-ak4d-scope"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-ak4d-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 21,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "ribbed-stubby-ak4d-underbarrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "20-fast-ak4d-magazine"
+              "attachmentId": "mini-flex-100x-ak4d-scope"
             },
             {
               "slotId": "barrel",
-              "attachmentId": "extended-ak4d-barrel"
+              "attachmentId": "heavy-ak4d-barrel"
             },
             {
               "slotId": "ammunition",
-              "attachmentId": "frangible-ak4d-ammunition"
+              "attachmentId": "fmj-ak4d-ammunition"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "mars-f-lpvo-ak4d-scope"
+              "slotId": "muzzle",
+              "attachmentId": "long-suppressor-ak4d-muzzle"
             }
           ]
         },
         {
           "level": 22,
-          "totalPoints": 120,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -531,22 +493,22 @@
               "attachmentId": "20-fast-ak4d-magazine"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-ak4d-scope"
+            },
+            {
               "slotId": "barrel",
-              "attachmentId": "extended-ak4d-barrel"
+              "attachmentId": "heavy-ak4d-barrel"
             },
             {
               "slotId": "ammunition",
-              "attachmentId": "frangible-ak4d-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "mars-f-lpvo-ak4d-scope"
+              "attachmentId": "fmj-ak4d-ammunition"
             }
           ]
         },
         {
           "level": 24,
-          "totalPoints": 105,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -566,17 +528,17 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "extended-ak4d-barrel"
+              "attachmentId": "heavy-ak4d-barrel"
             },
             {
               "slotId": "ammunition",
-              "attachmentId": "frangible-ak4d-ammunition"
+              "attachmentId": "fmj-ak4d-ammunition"
             }
           ]
         },
         {
           "level": 25,
-          "totalPoints": 105,
+          "totalPoints": 100,
           "attachments": [
             {
               "slotId": "ammunition",
@@ -600,7 +562,7 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "extended-ak4d-barrel"
+              "attachmentId": "heavy-ak4d-barrel"
             }
           ]
         },

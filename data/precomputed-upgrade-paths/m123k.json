@@ -36,33 +36,59 @@
         },
         {
           "level": 1,
-          "totalPoints": 55,
+          "totalPoints": 40,
           "attachments": [
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-m123k-ammunition"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "cco-200x-m123k-scope"
+            },
+            {
               "slotId": "magazine",
               "attachmentId": "100-rnd-m123k-magazine"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m123k-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "adjustable-angled-m123k-underbarrel"
+              "attachmentId": "folding-vertical-m123k-underbarrel"
             },
             {
               "slotId": "muzzle",
               "attachmentId": "flash-hider-m123k-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "totalPoints": 40,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m123k-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "cco-200x-m123k-scope"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "100-rnd-m123k-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-m123k-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-m123k-muzzle"
             }
           ]
         },
         {
           "level": 3,
-          "totalPoints": 65,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "barrel",
@@ -73,56 +99,26 @@
               "attachmentId": "fmj-m123k-ammunition"
             },
             {
-              "slotId": "magazine",
-              "attachmentId": "100-rnd-m123k-magazine"
-            },
-            {
               "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m123k-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "adjustable-angled-m123k-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-m123k-muzzle"
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "totalPoints": 70,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-m123k-barrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-m123k-ammunition"
+              "attachmentId": "cco-200x-m123k-scope"
             },
             {
               "slotId": "magazine",
               "attachmentId": "100-rnd-m123k-magazine"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m123k-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m123k-underbarrel"
+              "attachmentId": "folding-vertical-m123k-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-m123k-muzzle"
+              "attachmentId": "linear-comp-m123k-muzzle"
             }
           ]
         },
         {
           "level": 5,
-          "totalPoints": 80,
+          "totalPoints": 60,
           "attachments": [
             {
               "slotId": "barrel",
@@ -137,26 +133,26 @@
               "attachmentId": "5-mw-red-m123k-right-accessory"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "pvq-31-400x-m123k-scope"
+            },
+            {
               "slotId": "magazine",
               "attachmentId": "100-rnd-m123k-magazine"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m123k-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m123k-underbarrel"
+              "attachmentId": "folding-vertical-m123k-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-m123k-muzzle"
+              "attachmentId": "linear-comp-m123k-muzzle"
             }
           ]
         },
         {
           "level": 6,
-          "totalPoints": 80,
+          "totalPoints": 60,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -175,22 +171,22 @@
               "attachmentId": "5-mw-red-m123k-right-accessory"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "pvq-31-400x-m123k-scope"
+            },
+            {
               "slotId": "magazine",
               "attachmentId": "100-rnd-m123k-magazine"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m123k-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m123k-underbarrel"
+              "attachmentId": "folding-vertical-m123k-underbarrel"
             }
           ]
         },
         {
           "level": 8,
-          "totalPoints": 90,
+          "totalPoints": 70,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -209,26 +205,26 @@
               "attachmentId": "5-mw-red-m123k-right-accessory"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "pvq-31-400x-m123k-scope"
+            },
+            {
               "slotId": "magazine",
               "attachmentId": "100-rnd-m123k-magazine"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m123k-scope"
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-m123k-left-accessory"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m123k-underbarrel"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-m123k-left-accessory"
+              "attachmentId": "folding-vertical-m123k-underbarrel"
             }
           ]
         },
         {
           "level": 9,
-          "totalPoints": 80,
+          "totalPoints": 70,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -255,18 +251,18 @@
               "attachmentId": "100-rnd-m123k-magazine"
             },
             {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m123k-underbarrel"
-            },
-            {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-m123k-left-accessory"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-m123k-underbarrel"
             }
           ]
         },
         {
           "level": 10,
-          "totalPoints": 85,
+          "totalPoints": 75,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -297,18 +293,18 @@
               "attachmentId": "100-rnd-m123k-magazine"
             },
             {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m123k-underbarrel"
-            },
-            {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-m123k-left-accessory"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-m123k-underbarrel"
             }
           ]
         },
         {
           "level": 11,
-          "totalPoints": 70,
+          "totalPoints": 75,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -337,12 +333,16 @@
             {
               "slotId": "optic-accessory",
               "attachmentId": "canted-iron-sights-m123k-optic-accessory"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "100-rnd-m123k-magazine"
             }
           ]
         },
         {
           "level": 40,
-          "totalPoints": 70,
+          "totalPoints": 75,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -371,6 +371,10 @@
             {
               "slotId": "optic-accessory",
               "attachmentId": "canted-iron-sights-m123k-optic-accessory"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "100-rnd-m123k-magazine"
             }
           ]
         }

@@ -36,7 +36,7 @@
         },
         {
           "level": 1,
-          "totalPoints": 60,
+          "totalPoints": 55,
           "attachments": [
             {
               "slotId": "magazine",
@@ -56,7 +56,7 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-svdm-underbarrel"
+              "attachmentId": "folding-vertical-svdm-underbarrel"
             },
             {
               "slotId": "muzzle",
@@ -66,7 +66,7 @@
         },
         {
           "level": 2,
-          "totalPoints": 70,
+          "totalPoints": 65,
           "attachments": [
             {
               "slotId": "magazine",
@@ -85,22 +85,22 @@
               "attachmentId": "short-svdm-barrel"
             },
             {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-svdm-right-accessory"
+            },
+            {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-svdm-underbarrel"
+              "attachmentId": "folding-vertical-svdm-underbarrel"
             },
             {
               "slotId": "muzzle",
               "attachmentId": "flash-hider-svdm-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-svdm-right-accessory"
             }
           ]
         },
         {
           "level": 3,
-          "totalPoints": 80,
+          "totalPoints": 75,
           "attachments": [
             {
               "slotId": "magazine",
@@ -117,14 +117,6 @@
             {
               "slotId": "barrel",
               "attachmentId": "short-svdm-barrel"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-svdm-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-svdm-muzzle"
             },
             {
               "slotId": "right-accessory",
@@ -133,6 +125,14 @@
             {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-svdm-left-accessory"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-svdm-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-svdm-muzzle"
             }
           ]
         },
@@ -161,22 +161,22 @@
               "attachmentId": "short-svdm-barrel"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-svdm-muzzle"
-            },
-            {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-red-svdm-right-accessory"
             },
             {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-svdm-left-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-svdm-muzzle"
             }
           ]
         },
         {
-          "level": 5,
-          "totalPoints": 95,
+          "level": 6,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "magazine",
@@ -199,18 +199,22 @@
               "attachmentId": "short-svdm-barrel"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "cqb-suppressor-svdm-muzzle"
-            },
-            {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-red-svdm-right-accessory"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-svdm-left-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-svdm-muzzle"
             }
           ]
         },
         {
           "level": 11,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "magazine",
@@ -239,10 +243,6 @@
             {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-red-svdm-right-accessory"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-svdm-left-accessory"
             }
           ]
         },
@@ -350,27 +350,27 @@
         },
         {
           "level": 1,
-          "totalPoints": 70,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "magazine",
               "attachmentId": "10-rnd-svdm-magazine"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "cco-200x-svdm-scope"
+            },
+            {
               "slotId": "barrel",
-              "attachmentId": "short-svdm-barrel"
+              "attachmentId": "basic-svdm-barrel"
             },
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-svdm-ammunition"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-svdm-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-svdm-underbarrel"
+              "attachmentId": "folding-vertical-svdm-underbarrel"
             },
             {
               "slotId": "muzzle",
@@ -380,27 +380,27 @@
         },
         {
           "level": 2,
-          "totalPoints": 80,
+          "totalPoints": 60,
           "attachments": [
             {
               "slotId": "magazine",
               "attachmentId": "10-rnd-svdm-magazine"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "cco-200x-svdm-scope"
+            },
+            {
               "slotId": "barrel",
-              "attachmentId": "short-svdm-barrel"
+              "attachmentId": "basic-svdm-barrel"
             },
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-svdm-ammunition"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-svdm-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-svdm-underbarrel"
+              "attachmentId": "folding-vertical-svdm-underbarrel"
             },
             {
               "slotId": "muzzle",
@@ -414,27 +414,27 @@
         },
         {
           "level": 3,
-          "totalPoints": 90,
+          "totalPoints": 70,
           "attachments": [
             {
               "slotId": "magazine",
               "attachmentId": "10-rnd-svdm-magazine"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "cco-200x-svdm-scope"
+            },
+            {
               "slotId": "barrel",
-              "attachmentId": "short-svdm-barrel"
+              "attachmentId": "basic-svdm-barrel"
             },
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-svdm-ammunition"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-svdm-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-svdm-underbarrel"
+              "attachmentId": "folding-vertical-svdm-underbarrel"
             },
             {
               "slotId": "muzzle",
@@ -451,32 +451,32 @@
           ]
         },
         {
-          "level": 4,
-          "totalPoints": 95,
+          "level": 6,
+          "totalPoints": 70,
           "attachments": [
             {
               "slotId": "magazine",
               "attachmentId": "10-rnd-svdm-magazine"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "cco-200x-svdm-scope"
+            },
+            {
               "slotId": "barrel",
-              "attachmentId": "short-svdm-barrel"
+              "attachmentId": "basic-svdm-barrel"
             },
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-svdm-ammunition"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-svdm-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-svdm-underbarrel"
+              "attachmentId": "folding-vertical-svdm-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-svdm-muzzle"
+              "attachmentId": "linear-comp-svdm-muzzle"
             },
             {
               "slotId": "right-accessory",
@@ -485,42 +485,12 @@
             {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-svdm-left-accessory"
-            }
-          ]
-        },
-        {
-          "level": 5,
-          "totalPoints": 95,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "10-rnd-svdm-magazine"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "short-svdm-barrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-svdm-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-svdm-scope"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "cqb-suppressor-svdm-muzzle"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-svdm-underbarrel"
             }
           ]
         },
         {
           "level": 12,
-          "totalPoints": 100,
+          "totalPoints": 70,
           "attachments": [
             {
               "slotId": "scope",
@@ -532,29 +502,33 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "short-svdm-barrel"
+              "attachmentId": "basic-svdm-barrel"
             },
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-svdm-ammunition"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "cqb-suppressor-svdm-muzzle"
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-svdm-underbarrel"
             },
             {
-              "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-svdm-underbarrel"
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-svdm-muzzle"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-red-svdm-right-accessory"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-svdm-left-accessory"
             }
           ]
         },
         {
           "level": 15,
-          "totalPoints": 100,
+          "totalPoints": 75,
           "attachments": [
             {
               "slotId": "scope",
@@ -573,12 +547,50 @@
               "attachmentId": "fmj-svdm-ammunition"
             },
             {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-svdm-underbarrel"
+            },
+            {
               "slotId": "muzzle",
-              "attachmentId": "cqb-suppressor-svdm-muzzle"
+              "attachmentId": "linear-comp-svdm-muzzle"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-svdm-right-accessory"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-svdm-left-accessory"
+            }
+          ]
+        },
+        {
+          "level": 21,
+          "totalPoints": 85,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "baker-300x-svdm-scope"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-svdm-underbarrel"
+              "attachmentId": "ribbed-stubby-svdm-underbarrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-rnd-svdm-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-svdm-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-svdm-ammunition"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-svdm-muzzle"
             },
             {
               "slotId": "right-accessory",
@@ -587,38 +599,8 @@
           ]
         },
         {
-          "level": 16,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "baker-300x-svdm-scope"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "10-rnd-svdm-magazine"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "extended-svdm-barrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-svdm-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-svdm-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "cqb-suppressor-svdm-muzzle"
-            }
-          ]
-        },
-        {
-          "level": 21,
-          "totalPoints": 100,
+          "level": 25,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "scope",
@@ -642,77 +624,21 @@
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "cqb-suppressor-svdm-muzzle"
+              "attachmentId": "linear-comp-svdm-muzzle"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-svdm-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 24,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "baker-300x-svdm-scope"
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-svdm-right-accessory"
             },
             {
-              "slotId": "underbarrel",
-              "attachmentId": "ribbed-stubby-svdm-underbarrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "10-rnd-svdm-magazine"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "extended-svdm-barrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "match-grade-svdm-ammunition"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "cqb-suppressor-svdm-muzzle"
-            }
-          ]
-        },
-        {
-          "level": 29,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "baker-300x-svdm-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "ribbed-stubby-svdm-underbarrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "10-rnd-svdm-magazine"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "extended-svdm-barrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "frangible-svdm-ammunition"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "standard-suppressor-svdm-muzzle"
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-svdm-ergonomics"
             }
           ]
         },
         {
           "level": 31,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "scope",
@@ -736,7 +662,11 @@
             },
             {
               "slotId": "ammunition",
-              "attachmentId": "frangible-svdm-ammunition"
+              "attachmentId": "fmj-svdm-ammunition"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-svdm-ergonomics"
             }
           ]
         },

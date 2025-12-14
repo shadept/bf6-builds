@@ -36,7 +36,7 @@
         },
         {
           "level": 1,
-          "totalPoints": 60,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "magazine",
@@ -47,26 +47,56 @@
               "attachmentId": "fmj-pw7a2-ammunition"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-ynr38s4dq9"
+            },
+            {
               "slotId": "barrel",
               "attachmentId": "180mm-standard-jihkgl4gh5a"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-pw7a2-scope"
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-osbwq434a4"
             },
             {
               "slotId": "muzzle",
               "attachmentId": "flash-hider-4y7bcsr2r4r"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "totalPoints": 45,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-magazine-bzl0sldw5v"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-pw7a2-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-ynr38s4dq9"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "180mm-standard-jihkgl4gh5a"
             },
             {
               "slotId": "underbarrel",
               "attachmentId": "folding-vertical-osbwq434a4"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-pw7a2-muzzle"
             }
           ]
         },
         {
           "level": 5,
-          "totalPoints": 70,
+          "totalPoints": 55,
           "attachments": [
             {
               "slotId": "magazine",
@@ -81,26 +111,26 @@
               "attachmentId": "5-mw-red-pw7a2-right-accessory"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-ynr38s4dq9"
+            },
+            {
               "slotId": "barrel",
               "attachmentId": "180mm-standard-jihkgl4gh5a"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-pw7a2-scope"
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-osbwq434a4"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-4y7bcsr2r4r"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "folding-vertical-osbwq434a4"
+              "attachmentId": "single-port-brake-pw7a2-muzzle"
             }
           ]
         },
         {
           "level": 6,
-          "totalPoints": 60,
+          "totalPoints": 55,
           "attachments": [
             {
               "slotId": "magazine",
@@ -123,18 +153,18 @@
               "attachmentId": "180mm-standard-jihkgl4gh5a"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-4y7bcsr2r4r"
-            },
-            {
               "slotId": "underbarrel",
               "attachmentId": "folding-vertical-osbwq434a4"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-pw7a2-muzzle"
             }
           ]
         },
         {
           "level": 7,
-          "totalPoints": 70,
+          "totalPoints": 65,
           "attachments": [
             {
               "slotId": "magazine",
@@ -162,13 +192,13 @@
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-4y7bcsr2r4r"
+              "attachmentId": "single-port-brake-pw7a2-muzzle"
             }
           ]
         },
         {
           "level": 8,
-          "totalPoints": 80,
+          "totalPoints": 75,
           "attachments": [
             {
               "slotId": "magazine",
@@ -195,60 +225,18 @@
               "attachmentId": "180mm-standard-jihkgl4gh5a"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-4y7bcsr2r4r"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-pw7a2-left-accessory"
-            }
-          ]
-        },
-        {
-          "level": 10,
-          "totalPoints": 85,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "30rnd-magazine-bzl0sldw5v"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-pw7a2-ammunition"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-pw7a2-right-accessory"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-y3rkowvg8jj"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "3vzr-175x-pw7a2-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "180mm-standard-jihkgl4gh5a"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-4y7bcsr2r4r"
-            },
-            {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-pw7a2-left-accessory"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-zjgs19tdqo"
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-pw7a2-muzzle"
             }
           ]
         },
         {
           "level": 11,
-          "totalPoints": 85,
+          "totalPoints": 80,
           "attachments": [
             {
               "slotId": "magazine",
@@ -281,10 +269,6 @@
             {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-pw7a2-left-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-zjgs19tdqo"
             }
           ]
         },
@@ -411,18 +395,18 @@
               "attachmentId": "30rnd-magazine-bzl0sldw5v"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-4y7bcsr2r4r"
-            },
-            {
               "slotId": "underbarrel",
               "attachmentId": "folding-vertical-osbwq434a4"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-4y7bcsr2r4r"
             }
           ]
         },
         {
-          "level": 5,
-          "totalPoints": 60,
+          "level": 2,
+          "totalPoints": 45,
           "attachments": [
             {
               "slotId": "scope",
@@ -441,12 +425,42 @@
               "attachmentId": "30rnd-magazine-bzl0sldw5v"
             },
             {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-osbwq434a4"
+            },
+            {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-4y7bcsr2r4r"
+              "attachmentId": "single-port-brake-pw7a2-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "totalPoints": 55,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-yx4pu80c5pc"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-pw7a2-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "180mm-standard-jihkgl4gh5a"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-magazine-bzl0sldw5v"
             },
             {
               "slotId": "underbarrel",
               "attachmentId": "folding-vertical-osbwq434a4"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-pw7a2-muzzle"
             },
             {
               "slotId": "right-accessory",
@@ -456,7 +470,7 @@
         },
         {
           "level": 7,
-          "totalPoints": 70,
+          "totalPoints": 65,
           "attachments": [
             {
               "slotId": "scope",
@@ -480,7 +494,7 @@
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-4y7bcsr2r4r"
+              "attachmentId": "single-port-brake-pw7a2-muzzle"
             },
             {
               "slotId": "right-accessory",
@@ -490,7 +504,7 @@
         },
         {
           "level": 8,
-          "totalPoints": 80,
+          "totalPoints": 75,
           "attachments": [
             {
               "slotId": "scope",
@@ -514,7 +528,7 @@
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-4y7bcsr2r4r"
+              "attachmentId": "single-port-brake-pw7a2-muzzle"
             },
             {
               "slotId": "right-accessory",
@@ -523,54 +537,12 @@
             {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-pw7a2-left-accessory"
-            }
-          ]
-        },
-        {
-          "level": 10,
-          "totalPoints": 85,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "mini-flex-100x-yx4pu80c5pc"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-pw7a2-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-y3rkowvg8jj"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "180mm-standard-jihkgl4gh5a"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30rnd-magazine-bzl0sldw5v"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-4y7bcsr2r4r"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-pw7a2-right-accessory"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-pw7a2-left-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-zjgs19tdqo"
             }
           ]
         },
         {
           "level": 14,
-          "totalPoints": 85,
+          "totalPoints": 75,
           "attachments": [
             {
               "slotId": "scope",
@@ -594,7 +566,45 @@
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-4y7bcsr2r4r"
+              "attachmentId": "single-port-brake-pw7a2-muzzle"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-pw7a2-right-accessory"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-pw7a2-left-accessory"
+            }
+          ]
+        },
+        {
+          "level": 22,
+          "totalPoints": 80,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-yx4pu80c5pc"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "180mm-prototype-z6r8j71783c"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-pw7a2-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-y3rkowvg8jj"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-magazine-bzl0sldw5v"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-pw7a2-muzzle"
             },
             {
               "slotId": "right-accessory",
@@ -605,13 +615,13 @@
               "attachmentId": "flashlight-pw7a2-left-accessory"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-zjgs19tdqo"
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-pw7a2-ergonomics"
             }
           ]
         },
         {
-          "level": 15,
+          "level": 27,
           "totalPoints": 90,
           "attachments": [
             {
@@ -632,129 +642,7 @@
             },
             {
               "slotId": "magazine",
-              "attachmentId": "30rnd-fast-mag-gsrpuie7r9r"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-4y7bcsr2r4r"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-pw7a2-right-accessory"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-pw7a2-left-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-zjgs19tdqo"
-            }
-          ]
-        },
-        {
-          "level": 16,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "mini-flex-100x-yx4pu80c5pc"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "180mm-prototype-z6r8j71783c"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-pw7a2-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-y3rkowvg8jj"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30rnd-fast-mag-gsrpuie7r9r"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-pw7a2-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-pw7a2-right-accessory"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-pw7a2-left-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-zjgs19tdqo"
-            }
-          ]
-        },
-        {
-          "level": 19,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "mini-flex-100x-yx4pu80c5pc"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "180mm-prototype-z6r8j71783c"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-pw7a2-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-y3rkowvg8jj"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30rnd-fast-mag-gsrpuie7r9r"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-pw7a2-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "50-mw-green-pw7a2-right-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-zjgs19tdqo"
-            }
-          ]
-        },
-        {
-          "level": 27,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "mini-flex-100x-yx4pu80c5pc"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "180mm-prototype-z6r8j71783c"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-pw7a2-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-y3rkowvg8jj"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30rnd-fast-mag-gsrpuie7r9r"
+              "attachmentId": "30rnd-magazine-bzl0sldw5v"
             },
             {
               "slotId": "muzzle",
@@ -762,51 +650,17 @@
             },
             {
               "slotId": "right-accessory",
-              "attachmentId": "50-mw-green-pw7a2-right-accessory"
-            }
-          ]
-        },
-        {
-          "level": 31,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "mini-flex-100x-yx4pu80c5pc"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "180mm-prototype-z6r8j71783c"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-pw7a2-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-y3rkowvg8jj"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30rnd-fast-mag-gsrpuie7r9r"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "cqb-suppressor-pw7a2-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
               "attachmentId": "5-mw-red-pw7a2-right-accessory"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-zjgs19tdqo"
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-pw7a2-ergonomics"
             }
           ]
         },
         {
           "level": 34,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "scope",
@@ -830,7 +684,15 @@
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "cqb-suppressor-pw7a2-muzzle"
+              "attachmentId": "single-port-brake-pw7a2-muzzle"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-pw7a2-right-accessory"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-pw7a2-ergonomics"
             }
           ]
         },

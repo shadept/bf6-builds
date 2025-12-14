@@ -91,7 +91,7 @@
           ]
         },
         {
-          "level": 3,
+          "level": 8,
           "totalPoints": 55,
           "attachments": [
             {
@@ -112,79 +112,11 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-pw5a3-underbarrel"
+              "attachmentId": "folding-vertical-pw5a3-underbarrel"
             },
             {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-pw5a3-left-accessory"
-            }
-          ]
-        },
-        {
-          "level": 5,
-          "totalPoints": 70,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-pw5a3-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "iron-sights-pw5a3-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-pw5a3-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-pw5a3-magazine"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-pw5a3-underbarrel"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-pw5a3-left-accessory"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-pw5a3-muzzle"
-            }
-          ]
-        },
-        {
-          "level": 8,
-          "totalPoints": 80,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-pw5a3-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "iron-sights-pw5a3-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-pw5a3-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-pw5a3-magazine"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-pw5a3-underbarrel"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-pw5a3-left-accessory"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-pw5a3-muzzle"
             },
             {
               "slotId": "right-accessory",
@@ -194,7 +126,7 @@
         },
         {
           "level": 9,
-          "totalPoints": 90,
+          "totalPoints": 75,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -214,11 +146,11 @@
             },
             {
               "slotId": "magazine",
-              "attachmentId": "30-fast-pw5a3-magazine"
+              "attachmentId": "30-rnd-pw5a3-magazine"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-pw5a3-underbarrel"
+              "attachmentId": "folding-vertical-pw5a3-underbarrel"
             },
             {
               "slotId": "left-accessory",
@@ -227,54 +159,12 @@
             {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-red-pw5a3-right-accessory"
-            }
-          ]
-        },
-        {
-          "level": 10,
-          "totalPoints": 95,
-          "attachments": [
-            {
-              "slotId": "muzzle",
-              "attachmentId": "standard-suppressor-pw5a3-muzzle"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-pw5a3-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "iron-sights-pw5a3-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-pw5a3-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-pw5a3-magazine"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-pw5a3-underbarrel"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-pw5a3-left-accessory"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-pw5a3-right-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-pw5a3-optic-accessory"
             }
           ]
         },
         {
           "level": 12,
-          "totalPoints": 100,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -294,11 +184,11 @@
             },
             {
               "slotId": "magazine",
-              "attachmentId": "30-fast-pw5a3-magazine"
+              "attachmentId": "30-rnd-pw5a3-magazine"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-pw5a3-underbarrel"
+              "attachmentId": "folding-vertical-pw5a3-underbarrel"
             },
             {
               "slotId": "left-accessory",
@@ -309,14 +199,14 @@
               "attachmentId": "5-mw-red-pw5a3-right-accessory"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-pw5a3-optic-accessory"
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-pw5a3-ergonomics"
             }
           ]
         },
         {
-          "level": 14,
-          "totalPoints": 100,
+          "level": 18,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -336,11 +226,11 @@
             },
             {
               "slotId": "magazine",
-              "attachmentId": "30-fast-pw5a3-magazine"
+              "attachmentId": "20rnd-magazine-tsfu3p9mc3"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-pw5a3-underbarrel"
+              "attachmentId": "folding-vertical-pw5a3-underbarrel"
             },
             {
               "slotId": "left-accessory",
@@ -349,46 +239,16 @@
             {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-red-pw5a3-right-accessory"
-            }
-          ]
-        },
-        {
-          "level": 21,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "muzzle",
-              "attachmentId": "standard-suppressor-pw5a3-muzzle"
             },
             {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-pw5a3-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "iron-sights-pw5a3-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "extended-pw5a3-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-pw5a3-magazine"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-pw5a3-underbarrel"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-pw5a3-left-accessory"
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-pw5a3-ergonomics"
             }
           ]
         },
         {
           "level": 26,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -412,15 +272,11 @@
             },
             {
               "slotId": "magazine",
-              "attachmentId": "30-fast-pw5a3-magazine"
+              "attachmentId": "20rnd-magazine-tsfu3p9mc3"
             },
             {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-pw5a3-left-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-pw5a3-optic-accessory"
             }
           ]
         },
@@ -520,6 +376,32 @@
         },
         {
           "level": 1,
+          "totalPoints": 40,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-magazine-ifhnsc4dpve"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-pw5a3-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-pw5a3-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-pw5a3-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-pw5a3-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 2,
           "totalPoints": 50,
           "attachments": [
             {
@@ -531,12 +413,16 @@
               "attachmentId": "fmj-pw5a3-ammunition"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-pw5a3-scope"
+            },
+            {
               "slotId": "barrel",
               "attachmentId": "basic-pw5a3-barrel"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-pw5a3-scope"
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-pw5a3-left-accessory"
             },
             {
               "slotId": "underbarrel",
@@ -545,7 +431,7 @@
           ]
         },
         {
-          "level": 2,
+          "level": 3,
           "totalPoints": 60,
           "attachments": [
             {
@@ -553,20 +439,20 @@
               "attachmentId": "30rnd-magazine-ifhnsc4dpve"
             },
             {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-pw5a3-underbarrel"
+            },
+            {
               "slotId": "ammunition",
               "attachmentId": "fmj-pw5a3-ammunition"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-pw5a3-scope"
+            },
+            {
               "slotId": "barrel",
               "attachmentId": "basic-pw5a3-barrel"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-pw5a3-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "folding-vertical-pw5a3-underbarrel"
             },
             {
               "slotId": "left-accessory",
@@ -575,7 +461,7 @@
           ]
         },
         {
-          "level": 3,
+          "level": 5,
           "totalPoints": 70,
           "attachments": [
             {
@@ -591,21 +477,25 @@
               "attachmentId": "fmj-pw5a3-ammunition"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-pw5a3-scope"
+            },
+            {
               "slotId": "barrel",
               "attachmentId": "basic-pw5a3-barrel"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-pw5a3-scope"
-            },
-            {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-pw5a3-left-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-pw5a3-muzzle"
             }
           ]
         },
         {
-          "level": 5,
+          "level": 8,
           "totalPoints": 80,
           "attachments": [
             {
@@ -621,50 +511,16 @@
               "attachmentId": "fmj-pw5a3-ammunition"
             },
             {
-              "slotId": "barrel",
-              "attachmentId": "basic-pw5a3-barrel"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-pw5a3-scope"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-pw5a3-left-accessory"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-pw5a3-muzzle"
-            }
-          ]
-        },
-        {
-          "level": 8,
-          "totalPoints": 90,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "30rnd-magazine-ifhnsc4dpve"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-pw5a3-underbarrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-pw5a3-ammunition"
-            },
-            {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-red-pw5a3-right-accessory"
             },
             {
-              "slotId": "barrel",
-              "attachmentId": "basic-pw5a3-barrel"
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-pw5a3-scope"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-pw5a3-scope"
+              "slotId": "barrel",
+              "attachmentId": "basic-pw5a3-barrel"
             },
             {
               "slotId": "left-accessory",
@@ -678,7 +534,7 @@
         },
         {
           "level": 9,
-          "totalPoints": 90,
+          "totalPoints": 80,
           "attachments": [
             {
               "slotId": "scope",
@@ -705,18 +561,18 @@
               "attachmentId": "basic-pw5a3-barrel"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "standard-suppressor-pw5a3-muzzle"
-            },
-            {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-pw5a3-left-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-pw5a3-muzzle"
             }
           ]
         },
         {
-          "level": 10,
-          "totalPoints": 95,
+          "level": 11,
+          "totalPoints": 80,
           "attachments": [
             {
               "slotId": "scope",
@@ -743,22 +599,18 @@
               "attachmentId": "basic-pw5a3-barrel"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "standard-suppressor-pw5a3-muzzle"
-            },
-            {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-pw5a3-left-accessory"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-pw5a3-optic-accessory"
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-pw5a3-muzzle"
             }
           ]
         },
         {
           "level": 12,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "scope",
@@ -789,12 +641,12 @@
               "attachmentId": "improved-mag-catch-pw5a3-ergonomics"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "standard-suppressor-pw5a3-muzzle"
-            },
-            {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-pw5a3-left-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-pw5a3-muzzle"
             }
           ]
         },
@@ -965,7 +817,7 @@
           ]
         },
         {
-          "level": 3,
+          "level": 5,
           "totalPoints": 55,
           "attachments": [
             {
@@ -986,37 +838,7 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-pw5a3-underbarrel"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-pw5a3-left-accessory"
-            }
-          ]
-        },
-        {
-          "level": 5,
-          "totalPoints": 70,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "iron-sights-pw5a3-scope"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-pw5a3-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-pw5a3-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-pw5a3-magazine"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-pw5a3-underbarrel"
+              "attachmentId": "folding-vertical-pw5a3-underbarrel"
             },
             {
               "slotId": "left-accessory",
@@ -1030,7 +852,7 @@
         },
         {
           "level": 8,
-          "totalPoints": 80,
+          "totalPoints": 65,
           "attachments": [
             {
               "slotId": "scope",
@@ -1046,11 +868,11 @@
             },
             {
               "slotId": "magazine",
-              "attachmentId": "30-fast-pw5a3-magazine"
+              "attachmentId": "30-rnd-pw5a3-magazine"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-pw5a3-underbarrel"
+              "attachmentId": "folding-vertical-pw5a3-underbarrel"
             },
             {
               "slotId": "left-accessory",
@@ -1067,8 +889,8 @@
           ]
         },
         {
-          "level": 9,
-          "totalPoints": 90,
+          "level": 11,
+          "totalPoints": 65,
           "attachments": [
             {
               "slotId": "scope",
@@ -1084,15 +906,15 @@
             },
             {
               "slotId": "magazine",
-              "attachmentId": "30-fast-pw5a3-magazine"
+              "attachmentId": "30-rnd-pw5a3-magazine"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-pw5a3-underbarrel"
+              "attachmentId": "folding-vertical-pw5a3-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "standard-suppressor-pw5a3-muzzle"
+              "attachmentId": "linear-comp-pw5a3-muzzle"
             },
             {
               "slotId": "left-accessory",
@@ -1101,54 +923,12 @@
             {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-red-pw5a3-right-accessory"
-            }
-          ]
-        },
-        {
-          "level": 10,
-          "totalPoints": 95,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "iron-sights-pw5a3-scope"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-pw5a3-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-pw5a3-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-pw5a3-magazine"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-pw5a3-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "standard-suppressor-pw5a3-muzzle"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-pw5a3-left-accessory"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-pw5a3-right-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-pw5a3-optic-accessory"
             }
           ]
         },
         {
           "level": 12,
-          "totalPoints": 100,
+          "totalPoints": 75,
           "attachments": [
             {
               "slotId": "barrel",
@@ -1164,15 +944,15 @@
             },
             {
               "slotId": "magazine",
-              "attachmentId": "30-fast-pw5a3-magazine"
+              "attachmentId": "30-rnd-pw5a3-magazine"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-pw5a3-underbarrel"
+              "attachmentId": "folding-vertical-pw5a3-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "standard-suppressor-pw5a3-muzzle"
+              "attachmentId": "linear-comp-pw5a3-muzzle"
             },
             {
               "slotId": "left-accessory",
@@ -1183,14 +963,14 @@
               "attachmentId": "5-mw-red-pw5a3-right-accessory"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-pw5a3-optic-accessory"
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-pw5a3-ergonomics"
             }
           ]
         },
         {
-          "level": 14,
-          "totalPoints": 100,
+          "level": 18,
+          "totalPoints": 75,
           "attachments": [
             {
               "slotId": "barrel",
@@ -1206,15 +986,15 @@
             },
             {
               "slotId": "magazine",
-              "attachmentId": "30-fast-pw5a3-magazine"
+              "attachmentId": "20rnd-magazine-tsfu3p9mc3"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-pw5a3-underbarrel"
+              "attachmentId": "folding-vertical-pw5a3-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "standard-suppressor-pw5a3-muzzle"
+              "attachmentId": "linear-comp-pw5a3-muzzle"
             },
             {
               "slotId": "left-accessory",
@@ -1223,76 +1003,16 @@
             {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-red-pw5a3-right-accessory"
-            }
-          ]
-        },
-        {
-          "level": 16,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "extended-pw5a3-barrel"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "iron-sights-pw5a3-scope"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-pw5a3-ammunition"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-pw5a3-magazine"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "cqb-suppressor-pw5a3-muzzle"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-pw5a3-underbarrel"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-pw5a3-left-accessory"
-            }
-          ]
-        },
-        {
-          "level": 21,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "extended-pw5a3-barrel"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "iron-sights-pw5a3-scope"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-pw5a3-ammunition"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-pw5a3-magazine"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-pw5a3-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "cqb-suppressor-pw5a3-muzzle"
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-pw5a3-ergonomics"
             }
           ]
         },
         {
           "level": 26,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "barrel",
@@ -1312,15 +1032,19 @@
             },
             {
               "slotId": "magazine",
-              "attachmentId": "30-fast-pw5a3-magazine"
+              "attachmentId": "20rnd-magazine-tsfu3p9mc3"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "cqb-suppressor-pw5a3-muzzle"
+              "attachmentId": "linear-comp-pw5a3-muzzle"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-pw5a3-optic-accessory"
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-pw5a3-left-accessory"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-pw5a3-right-accessory"
             }
           ]
         },

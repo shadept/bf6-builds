@@ -36,6 +36,100 @@
         },
         {
           "level": 1,
+          "totalPoints": 60,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "light-grt-bc-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-grt-bc-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-grt-bc-scope"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-grt-bc-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-grt-bc-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-grt-bc-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "totalPoints": 55,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "light-grt-bc-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-grt-bc-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-grt-bc-scope"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-grt-bc-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-grt-bc-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-grt-bc-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "totalPoints": 65,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "light-grt-bc-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-grt-bc-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-grt-bc-scope"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-grt-bc-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-grt-bc-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-grt-bc-muzzle"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-grt-bc-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 6,
           "totalPoints": 70,
           "attachments": [
             {
@@ -47,152 +141,20 @@
               "attachmentId": "fmj-grt-bc-ammunition"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-grt-bc-scope"
+            },
+            {
               "slotId": "magazine",
               "attachmentId": "30-rnd-grt-bc-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-grt-bc-scope"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-grt-bc-muzzle"
             },
             {
               "slotId": "underbarrel",
               "attachmentId": "folding-vertical-grt-bc-underbarrel"
-            }
-          ]
-        },
-        {
-          "level": 3,
-          "totalPoints": 80,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "light-grt-bc-barrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-grt-bc-ammunition"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-grt-bc-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-grt-bc-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "ribbed-vertical-grt-bc-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-grt-bc-muzzle"
-            }
-          ]
-        },
-        {
-          "level": 5,
-          "totalPoints": 90,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "light-grt-bc-barrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-grt-bc-ammunition"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-grt-bc-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-grt-bc-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "ribbed-vertical-grt-bc-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-grt-bc-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-grt-bc-right-accessory"
-            }
-          ]
-        },
-        {
-          "level": 6,
-          "totalPoints": 95,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "light-grt-bc-barrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-grt-bc-ammunition"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-grt-bc-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-grt-bc-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "ribbed-vertical-grt-bc-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-grt-bc-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-grt-bc-right-accessory"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "improved-mag-catch-grt-bc-ergonomics"
-            }
-          ]
-        },
-        {
-          "level": 8,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "light-grt-bc-barrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-grt-bc-ammunition"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-grt-bc-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-grt-bc-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "ribbed-vertical-grt-bc-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-grt-bc-muzzle"
+              "attachmentId": "single-port-brake-grt-bc-muzzle"
             },
             {
               "slotId": "right-accessory",
@@ -206,7 +168,7 @@
         },
         {
           "level": 15,
-          "totalPoints": 100,
+          "totalPoints": 80,
           "attachments": [
             {
               "slotId": "barrel",
@@ -222,45 +184,19 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "su-230-lpvo-grt-bc-scope"
+              "attachmentId": "mini-flex-100x-grt-bc-scope"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "ribbed-vertical-grt-bc-underbarrel"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "laserlight-combo-red-grt-bc-right-accessory"
-            }
-          ]
-        },
-        {
-          "level": 17,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "light-grt-bc-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "36-rnd-grt-bc-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-grt-bc-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-grt-bc-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-grt-bc-underbarrel"
+              "attachmentId": "folding-vertical-grt-bc-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-grt-bc-muzzle"
+              "attachmentId": "single-port-brake-grt-bc-muzzle"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-grt-bc-right-accessory"
             },
             {
               "slotId": "ergonomics",
@@ -270,6 +206,40 @@
         },
         {
           "level": 18,
+          "totalPoints": 90,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "light-grt-bc-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "36-rnd-grt-bc-magazine"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "compensated-brake-grt-bc-muzzle"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-grt-bc-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-grt-bc-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-grt-bc-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-grt-bc-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 25,
           "totalPoints": 100,
           "attachments": [
             {
@@ -281,36 +251,6 @@
               "attachmentId": "36-rnd-grt-bc-magazine"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-grt-bc-muzzle"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-grt-bc-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-grt-bc-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "ribbed-vertical-grt-bc-underbarrel"
-            }
-          ]
-        },
-        {
-          "level": 25,
-          "totalPoints": 110,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "light-grt-bc-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "36-rnd-grt-bc-magazine"
-            },
-            {
               "slotId": "underbarrel",
               "attachmentId": "canted-stubby-grt-bc-underbarrel"
             },
@@ -324,37 +264,7 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "su-230-lpvo-grt-bc-scope"
-            }
-          ]
-        },
-        {
-          "level": 27,
-          "totalPoints": 115,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "light-grt-bc-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "36-rnd-grt-bc-magazine"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "canted-stubby-grt-bc-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-grt-bc-muzzle"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-grt-bc-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "grim-150x-grt-bc-scope"
+              "attachmentId": "mini-flex-100x-grt-bc-scope"
             }
           ]
         },
@@ -454,7 +364,7 @@
         },
         {
           "level": 1,
-          "totalPoints": 70,
+          "totalPoints": 60,
           "attachments": [
             {
               "slotId": "barrel",
@@ -465,26 +375,26 @@
               "attachmentId": "fmj-grt-bc-ammunition"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-grt-bc-scope"
+            },
+            {
               "slotId": "magazine",
               "attachmentId": "30-rnd-grt-bc-magazine"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-grt-bc-scope"
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-grt-bc-underbarrel"
             },
             {
               "slotId": "muzzle",
               "attachmentId": "flash-hider-grt-bc-muzzle"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "folding-vertical-grt-bc-underbarrel"
             }
           ]
         },
         {
           "level": 2,
-          "totalPoints": 60,
+          "totalPoints": 55,
           "attachments": [
             {
               "slotId": "barrel",
@@ -503,18 +413,18 @@
               "attachmentId": "30-rnd-grt-bc-magazine"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-grt-bc-muzzle"
-            },
-            {
               "slotId": "underbarrel",
               "attachmentId": "folding-vertical-grt-bc-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-grt-bc-muzzle"
             }
           ]
         },
         {
           "level": 3,
-          "totalPoints": 70,
+          "totalPoints": 65,
           "attachments": [
             {
               "slotId": "barrel",
@@ -538,13 +448,13 @@
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-grt-bc-muzzle"
+              "attachmentId": "single-port-brake-grt-bc-muzzle"
             }
           ]
         },
         {
           "level": 5,
-          "totalPoints": 80,
+          "totalPoints": 75,
           "attachments": [
             {
               "slotId": "barrel",
@@ -572,13 +482,13 @@
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-grt-bc-muzzle"
+              "attachmentId": "single-port-brake-grt-bc-muzzle"
             }
           ]
         },
         {
           "level": 6,
-          "totalPoints": 85,
+          "totalPoints": 80,
           "attachments": [
             {
               "slotId": "barrel",
@@ -610,7 +520,7 @@
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-grt-bc-muzzle"
+              "attachmentId": "single-port-brake-grt-bc-muzzle"
             }
           ]
         },
@@ -649,86 +559,6 @@
             {
               "slotId": "magazine",
               "attachmentId": "30-rnd-grt-bc-magazine"
-            }
-          ]
-        },
-        {
-          "level": 8,
-          "totalPoints": 90,
-          "attachments": [
-            {
-              "slotId": "muzzle",
-              "attachmentId": "linear-comp-grt-bc-muzzle"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "light-grt-bc-barrel"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "ribbed-vertical-grt-bc-underbarrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-grt-bc-ammunition"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "improved-mag-catch-grt-bc-ergonomics"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "mini-flex-100x-grt-bc-scope"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-grt-bc-right-accessory"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-grt-bc-magazine"
-            }
-          ]
-        },
-        {
-          "level": 10,
-          "totalPoints": 95,
-          "attachments": [
-            {
-              "slotId": "muzzle",
-              "attachmentId": "linear-comp-grt-bc-muzzle"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "light-grt-bc-barrel"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "ribbed-vertical-grt-bc-underbarrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-grt-bc-ammunition"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "improved-mag-catch-grt-bc-ergonomics"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "mini-flex-100x-grt-bc-scope"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-grt-bc-right-accessory"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-grt-bc-magazine"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-grt-bc-optic-accessory"
             }
           ]
         },

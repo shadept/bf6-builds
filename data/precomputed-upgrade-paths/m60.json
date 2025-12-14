@@ -36,11 +36,15 @@
         },
         {
           "level": 1,
-          "totalPoints": 65,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "magazine",
               "attachmentId": "100-rnd-m60-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-m60-scope"
             },
             {
               "slotId": "barrel",
@@ -51,12 +55,8 @@
               "attachmentId": "fmj-m60-ammunition"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m60-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-m60-underbarrel"
+              "attachmentId": "folding-vertical-m60-underbarrel"
             },
             {
               "slotId": "muzzle",
@@ -66,7 +66,7 @@
         },
         {
           "level": 2,
-          "totalPoints": 55,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "magazine",
@@ -86,7 +86,7 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-m60-underbarrel"
+              "attachmentId": "folding-vertical-m60-underbarrel"
             },
             {
               "slotId": "muzzle",
@@ -96,6 +96,36 @@
         },
         {
           "level": 4,
+          "totalPoints": 50,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-ext-m60-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "100-rnd-m60-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "ro-m-175x-m60-scope"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m60-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-m60-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-m60-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 5,
           "totalPoints": 60,
           "attachments": [
             {
@@ -115,8 +145,12 @@
               "attachmentId": "fmj-m60-ammunition"
             },
             {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m60-right-accessory"
+            },
+            {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m60-underbarrel"
+              "attachmentId": "folding-vertical-m60-underbarrel"
             },
             {
               "slotId": "muzzle",
@@ -125,7 +159,41 @@
           ]
         },
         {
-          "level": 5,
+          "level": 7,
+          "totalPoints": 60,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-ext-m60-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "100-rnd-m60-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "ro-m-175x-m60-scope"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m60-ammunition"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m60-right-accessory"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-m60-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-m60-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 8,
           "totalPoints": 70,
           "attachments": [
             {
@@ -145,54 +213,20 @@
               "attachmentId": "fmj-m60-ammunition"
             },
             {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m60-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-m60-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-m60-right-accessory"
-            }
-          ]
-        },
-        {
-          "level": 8,
-          "totalPoints": 80,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ext-m60-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "100-rnd-m60-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "ro-m-175x-m60-scope"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-m60-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m60-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-m60-muzzle"
-            },
-            {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-red-m60-right-accessory"
             },
             {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-m60-left-accessory"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-m60-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-m60-muzzle"
             }
           ]
         },
@@ -221,48 +255,6 @@
               "attachmentId": "fmj-m60-ammunition"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-m60-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-m60-right-accessory"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-m60-left-accessory"
-            }
-          ]
-        },
-        {
-          "level": 10,
-          "totalPoints": 85,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ext-m60-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "100-rnd-m60-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "ro-m-175x-m60-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "folding-stubby-m60-underbarrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-m60-ammunition"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-m60-muzzle"
-            },
-            {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-red-m60-right-accessory"
             },
@@ -271,14 +263,14 @@
               "attachmentId": "flashlight-m60-left-accessory"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-m60-optic-accessory"
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-m60-muzzle"
             }
           ]
         },
         {
           "level": 12,
-          "totalPoints": 85,
+          "totalPoints": 80,
           "attachments": [
             {
               "slotId": "barrel",
@@ -305,22 +297,18 @@
               "attachmentId": "fmj-m60-ammunition"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-m60-muzzle"
-            },
-            {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-m60-left-accessory"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-m60-optic-accessory"
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-m60-muzzle"
             }
           ]
         },
         {
           "level": 13,
-          "totalPoints": 85,
+          "totalPoints": 80,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -353,10 +341,6 @@
             {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-m60-left-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-m60-optic-accessory"
             }
           ]
         },
@@ -464,8 +448,12 @@
         },
         {
           "level": 1,
-          "totalPoints": 65,
+          "totalPoints": 50,
           "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-m60-scope"
+            },
             {
               "slotId": "barrel",
               "attachmentId": "heavy-m60-barrel"
@@ -479,12 +467,8 @@
               "attachmentId": "fmj-m60-ammunition"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m60-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-m60-underbarrel"
+              "attachmentId": "folding-vertical-m60-underbarrel"
             },
             {
               "slotId": "muzzle",
@@ -494,7 +478,7 @@
         },
         {
           "level": 2,
-          "totalPoints": 55,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "scope",
@@ -514,7 +498,7 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-m60-underbarrel"
+              "attachmentId": "folding-vertical-m60-underbarrel"
             },
             {
               "slotId": "muzzle",
@@ -524,6 +508,36 @@
         },
         {
           "level": 4,
+          "totalPoints": 50,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-ext-m60-barrel"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "ro-m-175x-m60-scope"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "100-rnd-m60-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m60-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-m60-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-m60-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 5,
           "totalPoints": 60,
           "attachments": [
             {
@@ -544,7 +558,11 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m60-underbarrel"
+              "attachmentId": "folding-vertical-m60-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m60-right-accessory"
             },
             {
               "slotId": "muzzle",
@@ -553,7 +571,41 @@
           ]
         },
         {
-          "level": 5,
+          "level": 7,
+          "totalPoints": 60,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-ext-m60-barrel"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "ro-m-175x-m60-scope"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "100-rnd-m60-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m60-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-m60-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-m60-muzzle"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m60-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 8,
           "totalPoints": 70,
           "attachments": [
             {
@@ -574,45 +626,11 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m60-underbarrel"
+              "attachmentId": "folding-vertical-m60-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-m60-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-m60-right-accessory"
-            }
-          ]
-        },
-        {
-          "level": 8,
-          "totalPoints": 80,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ext-m60-barrel"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "ro-m-175x-m60-scope"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "100-rnd-m60-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-m60-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m60-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-m60-muzzle"
+              "attachmentId": "linear-comp-m60-muzzle"
             },
             {
               "slotId": "right-accessory",
@@ -625,7 +643,7 @@
           ]
         },
         {
-          "level": 10,
+          "level": 15,
           "totalPoints": 85,
           "attachments": [
             {
@@ -637,90 +655,6 @@
               "attachmentId": "ro-m-175x-m60-scope"
             },
             {
-              "slotId": "magazine",
-              "attachmentId": "100-rnd-m60-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-m60-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m60-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-m60-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-m60-right-accessory"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-m60-left-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-m60-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 14,
-          "totalPoints": 90,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ext-m60-barrel"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "ro-m-175x-m60-scope"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "100-rnd-m60-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-m60-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-m60-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-m60-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-m60-right-accessory"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-m60-left-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-m60-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 15,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ext-m60-barrel"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "ro-m-175x-m60-scope"
-            },
-            {
               "slotId": "ammunition",
               "attachmentId": "hollow-point-m60-ammunition"
             },
@@ -730,11 +664,11 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-m60-underbarrel"
+              "attachmentId": "folding-vertical-m60-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-m60-muzzle"
+              "attachmentId": "linear-comp-m60-muzzle"
             },
             {
               "slotId": "right-accessory",
@@ -743,46 +677,12 @@
             {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-m60-left-accessory"
-            }
-          ]
-        },
-        {
-          "level": 17,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ext-m60-barrel"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "ro-m-175x-m60-scope"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "hollow-point-m60-ammunition"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "100-rnd-m60-magazine"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-m60-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-m60-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-m60-right-accessory"
             }
           ]
         },
         {
           "level": 21,
-          "totalPoints": 100,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "barrel",
@@ -806,17 +706,13 @@
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "compensated-brake-m60-muzzle"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-m60-optic-accessory"
+              "attachmentId": "linear-comp-m60-muzzle"
             }
           ]
         },
         {
           "level": 24,
-          "totalPoints": 100,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "barrel",
@@ -840,11 +736,7 @@
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "compensated-brake-m60-muzzle"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-m60-optic-accessory"
+              "attachmentId": "linear-comp-m60-muzzle"
             }
           ]
         },

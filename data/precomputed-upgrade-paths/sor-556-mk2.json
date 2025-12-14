@@ -36,11 +36,15 @@
         },
         {
           "level": 1,
-          "totalPoints": 75,
+          "totalPoints": 60,
           "attachments": [
             {
               "slotId": "magazine",
               "attachmentId": "30-rnd-sor-556-mk2-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-sor-556-mk2-scope"
             },
             {
               "slotId": "barrel",
@@ -51,30 +55,30 @@
               "attachmentId": "fmj-sor-556-mk2-ammunition"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-sor-556-mk2-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-sor-556-mk2-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-sor-556-mk2-muzzle"
+              "attachmentId": "folding-vertical-sor-556-mk2-underbarrel"
             },
             {
               "slotId": "ergonomics",
               "attachmentId": "rail-cover-sor-556-mk2-ergonomics"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-sor-556-mk2-muzzle"
             }
           ]
         },
         {
           "level": 2,
-          "totalPoints": 90,
+          "totalPoints": 70,
           "attachments": [
             {
               "slotId": "magazine",
               "attachmentId": "30-rnd-sor-556-mk2-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-sor-556-mk2-scope"
             },
             {
               "slotId": "barrel",
@@ -85,54 +89,92 @@
               "attachmentId": "fmj-sor-556-mk2-ammunition"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-sor-556-mk2-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-sor-556-mk2-underbarrel"
+              "attachmentId": "folding-vertical-sor-556-mk2-underbarrel"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-sor-556-mk2-muzzle"
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-sor-556-mk2-ergonomics"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "flashlight-sor-556-mk2-right-accessory"
             },
             {
-              "slotId": "ergonomics",
-              "attachmentId": "rail-cover-sor-556-mk2-ergonomics"
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-sor-556-mk2-muzzle"
             }
           ]
         },
         {
-          "level": 4,
-          "totalPoints": 100,
+          "level": 3,
+          "totalPoints": 60,
           "attachments": [
             {
               "slotId": "magazine",
               "attachmentId": "30-rnd-sor-556-mk2-magazine"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-sor-556-mk2-scope"
+            },
+            {
               "slotId": "barrel",
-              "attachmentId": "short-sor-556-mk2-barrel"
+              "attachmentId": "basic-sor-556-mk2-barrel"
             },
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-sor-556-mk2-ammunition"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-sor-556-mk2-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-sor-556-mk2-underbarrel"
+              "attachmentId": "folding-vertical-sor-556-mk2-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-sor-556-mk2-muzzle"
+              "attachmentId": "single-port-brake-sor-556-mk2-muzzle"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-sor-556-mk2-ergonomics"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-sor-556-mk2-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "totalPoints": 70,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sor-556-mk2-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-sor-556-mk2-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-sor-556-mk2-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sor-556-mk2-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-sor-556-mk2-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-sor-556-mk2-muzzle"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-sor-556-mk2-ergonomics"
             },
             {
               "slotId": "right-accessory",
@@ -141,88 +183,12 @@
             {
               "slotId": "top-accessory",
               "attachmentId": "5-mw-red-sor-556-mk2-top-accessory"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "rail-cover-sor-556-mk2-ergonomics"
-            }
-          ]
-        },
-        {
-          "level": 7,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-sor-556-mk2-magazine"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "short-sor-556-mk2-barrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-sor-556-mk2-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-sor-556-mk2-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-sor-556-mk2-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "standard-suppressor-sor-556-mk2-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "flashlight-sor-556-mk2-right-accessory"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "rail-cover-sor-556-mk2-ergonomics"
-            }
-          ]
-        },
-        {
-          "level": 8,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-sor-556-mk2-magazine"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "short-sor-556-mk2-barrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-sor-556-mk2-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-sor-556-mk2-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-sor-556-mk2-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "standard-suppressor-sor-556-mk2-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "flashlight-sor-556-mk2-right-accessory"
             }
           ]
         },
         {
           "level": 10,
-          "totalPoints": 100,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "ammunition",
@@ -233,30 +199,38 @@
               "attachmentId": "30-rnd-sor-556-mk2-magazine"
             },
             {
-              "slotId": "barrel",
-              "attachmentId": "short-sor-556-mk2-barrel"
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-sor-556-mk2-scope"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-sor-556-mk2-scope"
+              "slotId": "barrel",
+              "attachmentId": "basic-sor-556-mk2-barrel"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-sor-556-mk2-underbarrel"
+              "attachmentId": "folding-vertical-sor-556-mk2-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-sor-556-mk2-muzzle"
+              "attachmentId": "single-port-brake-sor-556-mk2-muzzle"
             },
             {
               "slotId": "ergonomics",
               "attachmentId": "rail-cover-sor-556-mk2-ergonomics"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-sor-556-mk2-right-accessory"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-sor-556-mk2-top-accessory"
             }
           ]
         },
         {
           "level": 11,
-          "totalPoints": 100,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "ammunition",
@@ -271,22 +245,30 @@
               "attachmentId": "30-rnd-sor-556-mk2-magazine"
             },
             {
-              "slotId": "barrel",
-              "attachmentId": "short-sor-556-mk2-barrel"
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-sor-556-mk2-scope"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-sor-556-mk2-scope"
+              "slotId": "barrel",
+              "attachmentId": "basic-sor-556-mk2-barrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "standard-suppressor-sor-556-mk2-muzzle"
+              "attachmentId": "single-port-brake-sor-556-mk2-muzzle"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-sor-556-mk2-ergonomics"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-sor-556-mk2-right-accessory"
             }
           ]
         },
         {
-          "level": 22,
-          "totalPoints": 100,
+          "level": 20,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "ammunition",
@@ -301,22 +283,30 @@
               "attachmentId": "30-rnd-sor-556-mk2-magazine"
             },
             {
-              "slotId": "barrel",
-              "attachmentId": "short-sor-556-mk2-barrel"
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-sor-556-mk2-scope"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "dvo-lpvo-sor-556-mk2-scope"
+              "slotId": "barrel",
+              "attachmentId": "heavy-sor-556-mk2-barrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-sor-556-mk2-muzzle"
             },
             {
               "slotId": "ergonomics",
-              "attachmentId": "match-trigger-sor-556-mk2-ergonomics"
+              "attachmentId": "rail-cover-sor-556-mk2-ergonomics"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-sor-556-mk2-right-accessory"
             }
           ]
         },
         {
           "level": 24,
-          "totalPoints": 100,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "ammunition",
@@ -336,17 +326,25 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "short-sor-556-mk2-barrel"
+              "attachmentId": "heavy-sor-556-mk2-barrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "cqb-suppressor-sor-556-mk2-muzzle"
+              "attachmentId": "single-port-brake-sor-556-mk2-muzzle"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-sor-556-mk2-ergonomics"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-sor-556-mk2-right-accessory"
             }
           ]
         },
         {
           "level": 28,
-          "totalPoints": 100,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "ammunition",
@@ -370,11 +368,45 @@
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "cqb-suppressor-sor-556-mk2-muzzle"
+              "attachmentId": "single-port-brake-sor-556-mk2-muzzle"
             },
             {
               "slotId": "ergonomics",
               "attachmentId": "rail-cover-sor-556-mk2-ergonomics"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-sor-556-mk2-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 34,
+          "totalPoints": 90,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "hollow-point-sor-556-mk2-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-stubby-sor-556-mk2-underbarrel"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "ro-s-125x-sor-556-mk2-scope"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sor-556-mk2-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-ext-sor-556-mk2-barrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "long-suppressor-sor-556-mk2-muzzle"
             }
           ]
         },
@@ -474,7 +506,7 @@
         },
         {
           "level": 1,
-          "totalPoints": 65,
+          "totalPoints": 60,
           "attachments": [
             {
               "slotId": "scope",
@@ -494,7 +526,7 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-sor-556-mk2-underbarrel"
+              "attachmentId": "folding-vertical-sor-556-mk2-underbarrel"
             },
             {
               "slotId": "muzzle",
@@ -535,18 +567,18 @@
               "attachmentId": "flash-hider-sor-556-mk2-muzzle"
             },
             {
-              "slotId": "right-accessory",
-              "attachmentId": "flashlight-sor-556-mk2-right-accessory"
-            },
-            {
               "slotId": "ergonomics",
               "attachmentId": "rail-cover-sor-556-mk2-ergonomics"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-sor-556-mk2-right-accessory"
             }
           ]
         },
         {
           "level": 3,
-          "totalPoints": 75,
+          "totalPoints": 70,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -562,7 +594,7 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "short-sor-556-mk2-barrel"
+              "attachmentId": "basic-sor-556-mk2-barrel"
             },
             {
               "slotId": "magazine",
@@ -573,18 +605,18 @@
               "attachmentId": "fmj-sor-556-mk2-ammunition"
             },
             {
-              "slotId": "right-accessory",
-              "attachmentId": "flashlight-sor-556-mk2-right-accessory"
-            },
-            {
               "slotId": "ergonomics",
               "attachmentId": "rail-cover-sor-556-mk2-ergonomics"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-sor-556-mk2-right-accessory"
             }
           ]
         },
         {
           "level": 4,
-          "totalPoints": 85,
+          "totalPoints": 80,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -600,7 +632,7 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "short-sor-556-mk2-barrel"
+              "attachmentId": "basic-sor-556-mk2-barrel"
             },
             {
               "slotId": "magazine",
@@ -609,6 +641,10 @@
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-sor-556-mk2-ammunition"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-sor-556-mk2-ergonomics"
             },
             {
               "slotId": "right-accessory",
@@ -617,16 +653,12 @@
             {
               "slotId": "top-accessory",
               "attachmentId": "5-mw-red-sor-556-mk2-top-accessory"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "rail-cover-sor-556-mk2-ergonomics"
             }
           ]
         },
         {
           "level": 5,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -646,25 +678,25 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "short-sor-556-mk2-barrel"
+              "attachmentId": "basic-sor-556-mk2-barrel"
             },
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-sor-556-mk2-ammunition"
             },
             {
-              "slotId": "right-accessory",
-              "attachmentId": "flashlight-sor-556-mk2-right-accessory"
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-sor-556-mk2-ergonomics"
             },
             {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-red-sor-556-mk2-top-accessory"
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-sor-556-mk2-right-accessory"
             }
           ]
         },
         {
           "level": 9,
-          "totalPoints": 100,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -691,12 +723,8 @@
               "attachmentId": "fmj-sor-556-mk2-ammunition"
             },
             {
-              "slotId": "right-accessory",
-              "attachmentId": "flashlight-sor-556-mk2-right-accessory"
-            },
-            {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-red-sor-556-mk2-top-accessory"
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-sor-556-mk2-ergonomics"
             }
           ]
         },
@@ -796,11 +824,15 @@
         },
         {
           "level": 1,
-          "totalPoints": 75,
+          "totalPoints": 60,
           "attachments": [
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-sor-556-mk2-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-sor-556-mk2-scope"
             },
             {
               "slotId": "barrel",
@@ -811,30 +843,30 @@
               "attachmentId": "30-rnd-sor-556-mk2-magazine"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-sor-556-mk2-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-sor-556-mk2-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-sor-556-mk2-muzzle"
+              "attachmentId": "folding-vertical-sor-556-mk2-underbarrel"
             },
             {
               "slotId": "ergonomics",
               "attachmentId": "rail-cover-sor-556-mk2-ergonomics"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-sor-556-mk2-muzzle"
             }
           ]
         },
         {
           "level": 2,
-          "totalPoints": 90,
+          "totalPoints": 70,
           "attachments": [
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-sor-556-mk2-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-sor-556-mk2-scope"
             },
             {
               "slotId": "barrel",
@@ -845,54 +877,92 @@
               "attachmentId": "30-rnd-sor-556-mk2-magazine"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-sor-556-mk2-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-sor-556-mk2-underbarrel"
+              "attachmentId": "folding-vertical-sor-556-mk2-underbarrel"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-sor-556-mk2-muzzle"
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-sor-556-mk2-ergonomics"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "flashlight-sor-556-mk2-right-accessory"
             },
             {
-              "slotId": "ergonomics",
-              "attachmentId": "rail-cover-sor-556-mk2-ergonomics"
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-sor-556-mk2-muzzle"
             }
           ]
         },
         {
-          "level": 4,
-          "totalPoints": 100,
+          "level": 3,
+          "totalPoints": 60,
           "attachments": [
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-sor-556-mk2-ammunition"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-sor-556-mk2-scope"
+            },
+            {
               "slotId": "barrel",
-              "attachmentId": "short-sor-556-mk2-barrel"
+              "attachmentId": "basic-sor-556-mk2-barrel"
             },
             {
               "slotId": "magazine",
               "attachmentId": "30-rnd-sor-556-mk2-magazine"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-sor-556-mk2-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-sor-556-mk2-underbarrel"
+              "attachmentId": "folding-vertical-sor-556-mk2-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-sor-556-mk2-muzzle"
+              "attachmentId": "single-port-brake-sor-556-mk2-muzzle"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-sor-556-mk2-ergonomics"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-sor-556-mk2-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "totalPoints": 70,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sor-556-mk2-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-sor-556-mk2-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-sor-556-mk2-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sor-556-mk2-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-sor-556-mk2-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-sor-556-mk2-muzzle"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-sor-556-mk2-ergonomics"
             },
             {
               "slotId": "right-accessory",
@@ -901,80 +971,12 @@
             {
               "slotId": "top-accessory",
               "attachmentId": "5-mw-red-sor-556-mk2-top-accessory"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "rail-cover-sor-556-mk2-ergonomics"
-            }
-          ]
-        },
-        {
-          "level": 5,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-sor-556-mk2-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "short-sor-556-mk2-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "40-rnd-sor-556-mk2-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-sor-556-mk2-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-sor-556-mk2-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-sor-556-mk2-muzzle"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "rail-cover-sor-556-mk2-ergonomics"
-            }
-          ]
-        },
-        {
-          "level": 8,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-sor-556-mk2-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "short-sor-556-mk2-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "40-rnd-sor-556-mk2-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-sor-556-mk2-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-sor-556-mk2-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-sor-556-mk2-muzzle"
             }
           ]
         },
         {
           "level": 12,
-          "totalPoints": 100,
+          "totalPoints": 80,
           "attachments": [
             {
               "slotId": "magazine",
@@ -985,26 +987,38 @@
               "attachmentId": "fmj-sor-556-mk2-ammunition"
             },
             {
-              "slotId": "barrel",
-              "attachmentId": "short-sor-556-mk2-barrel"
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-sor-556-mk2-scope"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-sor-556-mk2-scope"
+              "slotId": "barrel",
+              "attachmentId": "basic-sor-556-mk2-barrel"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "ribbed-stubby-sor-556-mk2-underbarrel"
+              "attachmentId": "folding-vertical-sor-556-mk2-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-sor-556-mk2-muzzle"
             },
             {
               "slotId": "ergonomics",
-              "attachmentId": "match-trigger-sor-556-mk2-ergonomics"
+              "attachmentId": "rail-cover-sor-556-mk2-ergonomics"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-sor-556-mk2-right-accessory"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-sor-556-mk2-top-accessory"
             }
           ]
         },
         {
           "level": 17,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "magazine",
@@ -1019,22 +1033,30 @@
               "attachmentId": "canted-stubby-sor-556-mk2-underbarrel"
             },
             {
-              "slotId": "barrel",
-              "attachmentId": "short-sor-556-mk2-barrel"
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-sor-556-mk2-scope"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-sor-556-mk2-scope"
+              "slotId": "barrel",
+              "attachmentId": "basic-sor-556-mk2-barrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-sor-556-mk2-muzzle"
             },
             {
               "slotId": "ergonomics",
-              "attachmentId": "match-trigger-sor-556-mk2-ergonomics"
+              "attachmentId": "rail-cover-sor-556-mk2-ergonomics"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-sor-556-mk2-right-accessory"
             }
           ]
         },
         {
-          "level": 22,
-          "totalPoints": 100,
+          "level": 20,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "magazine",
@@ -1049,22 +1071,30 @@
               "attachmentId": "canted-stubby-sor-556-mk2-underbarrel"
             },
             {
-              "slotId": "barrel",
-              "attachmentId": "short-sor-556-mk2-barrel"
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-sor-556-mk2-scope"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "dvo-lpvo-sor-556-mk2-scope"
+              "slotId": "barrel",
+              "attachmentId": "heavy-sor-556-mk2-barrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-sor-556-mk2-muzzle"
+              "attachmentId": "single-port-brake-sor-556-mk2-muzzle"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-sor-556-mk2-ergonomics"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-sor-556-mk2-right-accessory"
             }
           ]
         },
         {
           "level": 28,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "magazine",
@@ -1084,17 +1114,25 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "dvo-lpvo-sor-556-mk2-scope"
+              "attachmentId": "osa-7-100x-sor-556-mk2-scope"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-sor-556-mk2-muzzle"
             },
             {
               "slotId": "ergonomics",
-              "attachmentId": "match-trigger-sor-556-mk2-ergonomics"
+              "attachmentId": "rail-cover-sor-556-mk2-ergonomics"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-sor-556-mk2-right-accessory"
             }
           ]
         },
         {
           "level": 36,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "magazine",
@@ -1118,7 +1156,15 @@
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "cqb-suppressor-sor-556-mk2-muzzle"
+              "attachmentId": "single-port-brake-sor-556-mk2-muzzle"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-sor-556-mk2-ergonomics"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-sor-556-mk2-right-accessory"
             }
           ]
         },

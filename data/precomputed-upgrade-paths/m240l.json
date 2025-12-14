@@ -36,7 +36,7 @@
         },
         {
           "level": 1,
-          "totalPoints": 85,
+          "totalPoints": 55,
           "attachments": [
             {
               "slotId": "magazine",
@@ -47,20 +47,54 @@
               "attachmentId": "fmj-m240l-ammunition"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-m240l-scope"
+            },
+            {
               "slotId": "barrel",
               "attachmentId": "heavy-m240l-barrel"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m240l-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "classic-grip-pod-m240l-underbarrel"
+              "attachmentId": "folding-vertical-m240l-underbarrel"
             },
             {
               "slotId": "muzzle",
               "attachmentId": "flash-hider-m240l-muzzle"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-m240l-ergonomics"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "totalPoints": 55,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "50-rnd-m240l-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m240l-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-m240l-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-m240l-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-m240l-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-m240l-muzzle"
             },
             {
               "slotId": "ergonomics",
@@ -70,7 +104,7 @@
         },
         {
           "level": 4,
-          "totalPoints": 85,
+          "totalPoints": 55,
           "attachments": [
             {
               "slotId": "magazine",
@@ -86,15 +120,15 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m240l-scope"
+              "attachmentId": "osa-7-100x-m240l-scope"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "classic-grip-pod-m240l-underbarrel"
+              "attachmentId": "folding-vertical-m240l-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-m240l-muzzle"
+              "attachmentId": "linear-comp-m240l-muzzle"
             },
             {
               "slotId": "ergonomics",
@@ -104,7 +138,7 @@
         },
         {
           "level": 5,
-          "totalPoints": 95,
+          "totalPoints": 65,
           "attachments": [
             {
               "slotId": "magazine",
@@ -120,19 +154,19 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m240l-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "classic-grip-pod-m240l-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-m240l-muzzle"
+              "attachmentId": "osa-7-100x-m240l-scope"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-red-m240l-right-accessory"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-m240l-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-m240l-muzzle"
             },
             {
               "slotId": "ergonomics",
@@ -142,7 +176,7 @@
         },
         {
           "level": 8,
-          "totalPoints": 100,
+          "totalPoints": 75,
           "attachments": [
             {
               "slotId": "magazine",
@@ -158,15 +192,7 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m240l-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "classic-grip-pod-m240l-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-m240l-muzzle"
+              "attachmentId": "osa-7-100x-m240l-scope"
             },
             {
               "slotId": "right-accessory",
@@ -175,6 +201,18 @@
             {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-m240l-left-accessory"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-m240l-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-m240l-muzzle"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-m240l-ergonomics"
             }
           ]
         },
@@ -203,10 +241,6 @@
               "attachmentId": "folding-stubby-m240l-underbarrel"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-m240l-muzzle"
-            },
-            {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-red-m240l-right-accessory"
             },
@@ -215,60 +249,18 @@
               "attachmentId": "flashlight-m240l-left-accessory"
             },
             {
-              "slotId": "ergonomics",
-              "attachmentId": "rail-cover-m240l-ergonomics"
-            }
-          ]
-        },
-        {
-          "level": 10,
-          "totalPoints": 90,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "ro-m-175x-m240l-scope"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "50-rnd-m240l-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-m240l-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ext-m240l-barrel"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "folding-stubby-m240l-underbarrel"
-            },
-            {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-m240l-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-m240l-right-accessory"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-m240l-left-accessory"
+              "attachmentId": "linear-comp-m240l-muzzle"
             },
             {
               "slotId": "ergonomics",
               "attachmentId": "rail-cover-m240l-ergonomics"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-m240l-optic-accessory"
             }
           ]
         },
         {
           "level": 12,
-          "totalPoints": 90,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "scope",
@@ -295,20 +287,16 @@
               "attachmentId": "5-mw-green-m240l-right-accessory"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-m240l-muzzle"
-            },
-            {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-m240l-left-accessory"
             },
             {
-              "slotId": "ergonomics",
-              "attachmentId": "rail-cover-m240l-ergonomics"
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-m240l-muzzle"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-m240l-optic-accessory"
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-m240l-ergonomics"
             }
           ]
         },
@@ -416,8 +404,12 @@
         },
         {
           "level": 1,
-          "totalPoints": 85,
+          "totalPoints": 55,
           "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-m240l-scope"
+            },
             {
               "slotId": "barrel",
               "attachmentId": "heavy-m240l-barrel"
@@ -431,16 +423,46 @@
               "attachmentId": "fmj-m240l-ammunition"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m240l-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "classic-grip-pod-m240l-underbarrel"
+              "attachmentId": "folding-vertical-m240l-underbarrel"
             },
             {
               "slotId": "muzzle",
               "attachmentId": "flash-hider-m240l-muzzle"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-m240l-ergonomics"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "totalPoints": 55,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-m240l-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-m240l-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "50-rnd-m240l-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m240l-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-m240l-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-m240l-muzzle"
             },
             {
               "slotId": "ergonomics",
@@ -450,11 +472,15 @@
         },
         {
           "level": 4,
-          "totalPoints": 85,
+          "totalPoints": 55,
           "attachments": [
             {
               "slotId": "barrel",
               "attachmentId": "heavy-ext-m240l-barrel"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-m240l-scope"
             },
             {
               "slotId": "magazine",
@@ -465,16 +491,12 @@
               "attachmentId": "fmj-m240l-ammunition"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m240l-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "classic-grip-pod-m240l-underbarrel"
+              "attachmentId": "folding-vertical-m240l-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-m240l-muzzle"
+              "attachmentId": "linear-comp-m240l-muzzle"
             },
             {
               "slotId": "ergonomics",
@@ -484,11 +506,15 @@
         },
         {
           "level": 5,
-          "totalPoints": 95,
+          "totalPoints": 65,
           "attachments": [
             {
               "slotId": "barrel",
               "attachmentId": "heavy-ext-m240l-barrel"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-m240l-scope"
             },
             {
               "slotId": "magazine",
@@ -499,34 +525,34 @@
               "attachmentId": "fmj-m240l-ammunition"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m240l-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "classic-grip-pod-m240l-underbarrel"
+              "attachmentId": "folding-vertical-m240l-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-m240l-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-m240l-right-accessory"
+              "attachmentId": "linear-comp-m240l-muzzle"
             },
             {
               "slotId": "ergonomics",
               "attachmentId": "rail-cover-m240l-ergonomics"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m240l-right-accessory"
             }
           ]
         },
         {
           "level": 8,
-          "totalPoints": 100,
+          "totalPoints": 75,
           "attachments": [
             {
               "slotId": "barrel",
               "attachmentId": "heavy-ext-m240l-barrel"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-m240l-scope"
             },
             {
               "slotId": "magazine",
@@ -537,16 +563,16 @@
               "attachmentId": "fmj-m240l-ammunition"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m240l-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "classic-grip-pod-m240l-underbarrel"
+              "attachmentId": "folding-vertical-m240l-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-m240l-muzzle"
+              "attachmentId": "linear-comp-m240l-muzzle"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-m240l-ergonomics"
             },
             {
               "slotId": "right-accessory",
@@ -560,7 +586,7 @@
         },
         {
           "level": 9,
-          "totalPoints": 95,
+          "totalPoints": 75,
           "attachments": [
             {
               "slotId": "scope",
@@ -580,11 +606,15 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "classic-grip-pod-m240l-underbarrel"
+              "attachmentId": "folding-vertical-m240l-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-m240l-muzzle"
+              "attachmentId": "linear-comp-m240l-muzzle"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-m240l-ergonomics"
             },
             {
               "slotId": "right-accessory",
@@ -593,62 +623,12 @@
             {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-m240l-left-accessory"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "rail-cover-m240l-ergonomics"
-            }
-          ]
-        },
-        {
-          "level": 10,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "ro-m-175x-m240l-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ext-m240l-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "50-rnd-m240l-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-m240l-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "classic-grip-pod-m240l-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-m240l-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-m240l-right-accessory"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-m240l-left-accessory"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "rail-cover-m240l-ergonomics"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-m240l-optic-accessory"
             }
           ]
         },
         {
           "level": 15,
-          "totalPoints": 100,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -672,7 +652,11 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "classic-grip-pod-m240l-underbarrel"
+              "attachmentId": "folding-vertical-m240l-underbarrel"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-m240l-ergonomics"
             },
             {
               "slotId": "right-accessory",
@@ -686,7 +670,7 @@
         },
         {
           "level": 17,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -710,21 +694,25 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "classic-grip-pod-m240l-underbarrel"
+              "attachmentId": "folding-vertical-m240l-underbarrel"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-m240l-ergonomics"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-red-m240l-right-accessory"
             },
             {
-              "slotId": "ergonomics",
-              "attachmentId": "rail-cover-m240l-ergonomics"
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-m240l-left-accessory"
             }
           ]
         },
         {
           "level": 18,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -749,10 +737,6 @@
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-m240l-ammunition"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-m240l-right-accessory"
             },
             {
               "slotId": "ergonomics",

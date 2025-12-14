@@ -142,7 +142,7 @@
         },
         {
           "level": 7,
-          "totalPoints": 85,
+          "totalPoints": 80,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -173,12 +173,12 @@
               "attachmentId": "basic-sv-98-barrel"
             },
             {
-              "slotId": "left-accessory",
-              "attachmentId": "range-finder-sv-98-left-accessory"
+              "slotId": "underbarrel",
+              "attachmentId": "full-angled-sv-98-underbarrel"
             },
             {
-              "slotId": "underbarrel",
-              "attachmentId": "low-profile-stubby-sv-98-underbarrel"
+              "slotId": "left-accessory",
+              "attachmentId": "range-finder-sv-98-left-accessory"
             }
           ]
         },

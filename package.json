@@ -8,7 +8,9 @@
     "start": "next start",
     "lint": "eslint",
     "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build"
+    "build-storybook": "storybook build",
+    "refresh": "npx ts-node scripts/refresh-cache.ts",
+    "precompute": "npx ts-node scripts/precompute-builds.ts"
   },
   "dependencies": {
     "@radix-ui/react-slider": "^1.3.6",
@@ -17,7 +19,7 @@
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^0.555.0",
-    "next": "16.0.7",
+    "next": "^16.0.10",
     "react": "19.2.0",
     "react-dom": "19.2.0",
     "tailwind-merge": "^3.4.0",

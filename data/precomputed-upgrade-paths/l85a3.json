@@ -36,7 +36,7 @@
         },
         {
           "level": 1,
-          "totalPoints": 65,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "magazine",
@@ -47,16 +47,16 @@
               "attachmentId": "fmj-l85a3-ammunition"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-l85a3-scope"
+            },
+            {
               "slotId": "barrel",
               "attachmentId": "basic-l85a3-barrel"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-l85a3-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-l85a3-underbarrel"
+              "attachmentId": "folding-vertical-l85a3-underbarrel"
             },
             {
               "slotId": "muzzle",
@@ -66,7 +66,7 @@
         },
         {
           "level": 2,
-          "totalPoints": 70,
+          "totalPoints": 60,
           "attachments": [
             {
               "slotId": "underbarrel",
@@ -81,12 +81,12 @@
               "attachmentId": "fmj-l85a3-ammunition"
             },
             {
-              "slotId": "barrel",
-              "attachmentId": "basic-l85a3-barrel"
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-l85a3-scope"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-l85a3-scope"
+              "slotId": "barrel",
+              "attachmentId": "basic-l85a3-barrel"
             },
             {
               "slotId": "muzzle",
@@ -96,7 +96,7 @@
         },
         {
           "level": 3,
-          "totalPoints": 70,
+          "totalPoints": 60,
           "attachments": [
             {
               "slotId": "barrel",
@@ -116,7 +116,7 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "su-230-lpvo-l85a3-scope"
+              "attachmentId": "osa-7-100x-l85a3-scope"
             },
             {
               "slotId": "muzzle",
@@ -149,12 +149,12 @@
               "attachmentId": "osa-7-100x-l85a3-scope"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-l85a3-muzzle"
-            },
-            {
               "slotId": "right-accessory",
               "attachmentId": "flashlight-l85a3-right-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-l85a3-muzzle"
             }
           ]
         },
@@ -296,11 +296,15 @@
         },
         {
           "level": 1,
-          "totalPoints": 65,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-l85a3-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-l85a3-scope"
             },
             {
               "slotId": "barrel",
@@ -311,12 +315,8 @@
               "attachmentId": "30-rnd-l85a3-magazine"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-l85a3-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-l85a3-underbarrel"
+              "attachmentId": "folding-vertical-l85a3-underbarrel"
             },
             {
               "slotId": "muzzle",
@@ -325,28 +325,28 @@
           ]
         },
         {
-          "level": 2,
-          "totalPoints": 70,
+          "level": 3,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-l85a3-ammunition"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-l85a3-scope"
+            },
+            {
               "slotId": "barrel",
-              "attachmentId": "basic-l85a3-barrel"
+              "attachmentId": "heavy-l85a3-barrel"
             },
             {
               "slotId": "magazine",
               "attachmentId": "30-rnd-l85a3-magazine"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-l85a3-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-l85a3-underbarrel"
+              "attachmentId": "folding-vertical-l85a3-underbarrel"
             },
             {
               "slotId": "muzzle",
@@ -356,31 +356,65 @@
         },
         {
           "level": 4,
-          "totalPoints": 80,
+          "totalPoints": 60,
           "attachments": [
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-l85a3-ammunition"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-l85a3-scope"
+            },
+            {
               "slotId": "barrel",
-              "attachmentId": "basic-l85a3-barrel"
+              "attachmentId": "heavy-l85a3-barrel"
             },
             {
               "slotId": "magazine",
               "attachmentId": "30-rnd-l85a3-magazine"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-l85a3-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-l85a3-underbarrel"
+              "attachmentId": "folding-vertical-l85a3-underbarrel"
             },
             {
               "slotId": "muzzle",
               "attachmentId": "flash-hider-l85a3-muzzle"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-l85a3-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 7,
+          "totalPoints": 55,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-l85a3-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-l85a3-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-l85a3-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-l85a3-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-l85a3-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-l85a3-muzzle"
             },
             {
               "slotId": "right-accessory",
@@ -390,31 +424,31 @@
         },
         {
           "level": 8,
-          "totalPoints": 90,
+          "totalPoints": 65,
           "attachments": [
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-l85a3-ammunition"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-l85a3-scope"
+            },
+            {
               "slotId": "barrel",
-              "attachmentId": "basic-l85a3-barrel"
+              "attachmentId": "heavy-l85a3-barrel"
             },
             {
               "slotId": "magazine",
               "attachmentId": "30-rnd-l85a3-magazine"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-l85a3-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-l85a3-underbarrel"
+              "attachmentId": "folding-vertical-l85a3-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-l85a3-muzzle"
+              "attachmentId": "single-port-brake-l85a3-muzzle"
             },
             {
               "slotId": "right-accessory",
@@ -423,182 +457,12 @@
             {
               "slotId": "top-accessory",
               "attachmentId": "5-mw-red-l85a3-top-accessory"
-            }
-          ]
-        },
-        {
-          "level": 9,
-          "totalPoints": 95,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-l85a3-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-l85a3-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-l85a3-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-l85a3-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-l85a3-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-l85a3-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "flashlight-l85a3-right-accessory"
-            },
-            {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-red-l85a3-top-accessory"
-            }
-          ]
-        },
-        {
-          "level": 10,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-l85a3-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "extended-l85a3-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-l85a3-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-l85a3-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-l85a3-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-l85a3-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "flashlight-l85a3-right-accessory"
-            },
-            {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-red-l85a3-top-accessory"
-            }
-          ]
-        },
-        {
-          "level": 12,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-l85a3-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "extended-l85a3-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "36-rnd-l85a3-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-l85a3-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-l85a3-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-l85a3-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "flashlight-l85a3-right-accessory"
-            }
-          ]
-        },
-        {
-          "level": 16,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-l85a3-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "extended-l85a3-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "36-rnd-l85a3-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-l85a3-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-l85a3-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "standard-suppressor-l85a3-muzzle"
-            }
-          ]
-        },
-        {
-          "level": 17,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-l85a3-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "extended-l85a3-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "36-rnd-l85a3-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-l85a3-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-l85a3-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-l85a3-muzzle"
             }
           ]
         },
         {
           "level": 18,
-          "totalPoints": 100,
+          "totalPoints": 65,
           "attachments": [
             {
               "slotId": "scope",
@@ -610,25 +474,33 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "extended-l85a3-barrel"
+              "attachmentId": "heavy-l85a3-barrel"
             },
             {
               "slotId": "magazine",
-              "attachmentId": "36-rnd-l85a3-magazine"
+              "attachmentId": "30-rnd-l85a3-magazine"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-l85a3-underbarrel"
+              "attachmentId": "folding-vertical-l85a3-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "standard-suppressor-l85a3-muzzle"
+              "attachmentId": "single-port-brake-l85a3-muzzle"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-l85a3-right-accessory"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-l85a3-top-accessory"
             }
           ]
         },
         {
           "level": 21,
-          "totalPoints": 100,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "scope",
@@ -644,47 +516,29 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "extended-l85a3-barrel"
+              "attachmentId": "heavy-l85a3-barrel"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-l85a3-underbarrel"
+              "attachmentId": "folding-vertical-l85a3-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-l85a3-muzzle"
-            }
-          ]
-        },
-        {
-          "level": 26,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "ro-m-175x-l85a3-scope"
+              "attachmentId": "single-port-brake-l85a3-muzzle"
             },
             {
-              "slotId": "magazine",
-              "attachmentId": "40-rnd-l85a3-magazine"
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-l85a3-right-accessory"
             },
             {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-l85a3-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "extended-l85a3-barrel"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "low-profile-stubby-l85a3-underbarrel"
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-l85a3-top-accessory"
             }
           ]
         },
         {
           "level": 28,
-          "totalPoints": 100,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "scope",
@@ -704,17 +558,17 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "extended-l85a3-barrel"
+              "attachmentId": "heavy-l85a3-barrel"
             },
             {
-              "slotId": "ergonomics",
-              "attachmentId": "match-trigger-l85a3-ergonomics"
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-l85a3-muzzle"
             }
           ]
         },
         {
           "level": 30,
-          "totalPoints": 100,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "scope",
@@ -738,7 +592,7 @@
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "standard-suppressor-l85a3-muzzle"
+              "attachmentId": "single-port-brake-l85a3-muzzle"
             }
           ]
         },

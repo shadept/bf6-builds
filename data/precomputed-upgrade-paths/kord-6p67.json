@@ -36,11 +36,15 @@
         },
         {
           "level": 1,
-          "totalPoints": 60,
+          "totalPoints": 45,
           "attachments": [
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-kord-6p67-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "cco-200x-kord-6p67-scope"
             },
             {
               "slotId": "barrel",
@@ -51,12 +55,8 @@
               "attachmentId": "30-rnd-kord-6p67-magazine"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-kord-6p67-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-kord-6p67-underbarrel"
+              "attachmentId": "folding-vertical-kord-6p67-underbarrel"
             },
             {
               "slotId": "muzzle",
@@ -66,11 +66,15 @@
         },
         {
           "level": 2,
-          "totalPoints": 70,
+          "totalPoints": 55,
           "attachments": [
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-kord-6p67-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "cco-200x-kord-6p67-scope"
             },
             {
               "slotId": "barrel",
@@ -81,128 +85,22 @@
               "attachmentId": "30-rnd-kord-6p67-magazine"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-kord-6p67-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-kord-6p67-underbarrel"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "flashlight-kord-6p67-right-accessory"
+              "attachmentId": "folding-vertical-kord-6p67-underbarrel"
             },
             {
               "slotId": "muzzle",
               "attachmentId": "single-port-brake-kord-6p67-muzzle"
-            }
-          ]
-        },
-        {
-          "level": 3,
-          "totalPoints": 75,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-kord-6p67-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-kord-6p67-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-kord-6p67-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-kord-6p67-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-kord-6p67-underbarrel"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "flashlight-kord-6p67-right-accessory"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "single-port-brake-kord-6p67-muzzle"
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "totalPoints": 80,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-kord-6p67-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-kord-6p67-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-kord-6p67-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-kord-6p67-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-kord-6p67-underbarrel"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "flashlight-kord-6p67-right-accessory"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "single-port-brake-kord-6p67-muzzle"
-            }
-          ]
-        },
-        {
-          "level": 5,
-          "totalPoints": 85,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-kord-6p67-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-kord-6p67-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-kord-6p67-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-kord-6p67-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-kord-6p67-underbarrel"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "flashlight-kord-6p67-right-accessory"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-kord-6p67-muzzle"
             }
           ]
         },
         {
           "level": 7,
-          "totalPoints": 85,
+          "totalPoints": 55,
           "attachments": [
             {
               "slotId": "barrel",
@@ -213,30 +111,30 @@
               "attachmentId": "fmj-kord-6p67-ammunition"
             },
             {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-kord-6p67-magazine"
+              "slotId": "scope",
+              "attachmentId": "cco-200x-kord-6p67-scope"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-kord-6p67-scope"
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-kord-6p67-magazine"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-kord-6p67-underbarrel"
+              "attachmentId": "folding-vertical-kord-6p67-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-kord-6p67-muzzle"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "flashlight-kord-6p67-right-accessory"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-kord-6p67-muzzle"
             }
           ]
         },
         {
           "level": 8,
-          "totalPoints": 80,
+          "totalPoints": 70,
           "attachments": [
             {
               "slotId": "barrel",
@@ -256,20 +154,20 @@
             },
             {
               "slotId": "magazine",
-              "attachmentId": "30-fast-kord-6p67-magazine"
+              "attachmentId": "30-rnd-kord-6p67-magazine"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-kord-6p67-muzzle"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "flashlight-kord-6p67-right-accessory"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-kord-6p67-muzzle"
             }
           ]
         },
         {
-          "level": 13,
+          "level": 18,
           "totalPoints": 85,
           "attachments": [
             {
@@ -290,83 +188,15 @@
             },
             {
               "slotId": "magazine",
-              "attachmentId": "36-rnd-kord-6p67-magazine"
+              "attachmentId": "30-rnd-kord-6p67-magazine"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-kord-6p67-muzzle"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "flashlight-kord-6p67-right-accessory"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-kord-6p67-muzzle"
-            }
-          ]
-        },
-        {
-          "level": 18,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-kord-6p67-barrel"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "baker-300x-kord-6p67-scope"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-kord-6p67-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-kord-6p67-underbarrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "36-rnd-kord-6p67-magazine"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "match-trigger-kord-6p67-ergonomics"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "flashlight-kord-6p67-right-accessory"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-kord-6p67-muzzle"
-            }
-          ]
-        },
-        {
-          "level": 20,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-kord-6p67-barrel"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "baker-300x-kord-6p67-scope"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-kord-6p67-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-kord-6p67-underbarrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "36-rnd-kord-6p67-magazine"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-kord-6p67-muzzle"
             },
             {
               "slotId": "ergonomics",
@@ -376,7 +206,7 @@
         },
         {
           "level": 21,
-          "totalPoints": 95,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "barrel",
@@ -400,41 +230,11 @@
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "compensated-brake-kord-6p67-muzzle"
-            }
-          ]
-        },
-        {
-          "level": 23,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-kord-6p67-barrel"
+              "attachmentId": "single-port-brake-kord-6p67-muzzle"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "baker-300x-kord-6p67-scope"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "40-rnd-kord-6p67-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-kord-6p67-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-kord-6p67-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-kord-6p67-muzzle"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-kord-6p67-optic-accessory"
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-kord-6p67-right-accessory"
             }
           ]
         },
@@ -534,7 +334,7 @@
         },
         {
           "level": 1,
-          "totalPoints": 50,
+          "totalPoints": 45,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -558,13 +358,13 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-kord-6p67-underbarrel"
+              "attachmentId": "folding-vertical-kord-6p67-underbarrel"
             }
           ]
         },
         {
           "level": 2,
-          "totalPoints": 60,
+          "totalPoints": 55,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -587,46 +387,12 @@
               "attachmentId": "basic-kord-6p67-barrel"
             },
             {
-              "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-kord-6p67-underbarrel"
-            },
-            {
               "slotId": "right-accessory",
               "attachmentId": "flashlight-kord-6p67-right-accessory"
-            }
-          ]
-        },
-        {
-          "level": 3,
-          "totalPoints": 65,
-          "attachments": [
-            {
-              "slotId": "muzzle",
-              "attachmentId": "single-port-brake-kord-6p67-muzzle"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-kord-6p67-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-kord-6p67-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "osa-7-100x-kord-6p67-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-kord-6p67-barrel"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-kord-6p67-underbarrel"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "flashlight-kord-6p67-right-accessory"
+              "attachmentId": "folding-vertical-kord-6p67-underbarrel"
             }
           ]
         },
@@ -768,7 +534,7 @@
         },
         {
           "level": 1,
-          "totalPoints": 50,
+          "totalPoints": 45,
           "attachments": [
             {
               "slotId": "scope",
@@ -788,7 +554,7 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-kord-6p67-underbarrel"
+              "attachmentId": "folding-vertical-kord-6p67-underbarrel"
             },
             {
               "slotId": "muzzle",
@@ -798,7 +564,7 @@
         },
         {
           "level": 2,
-          "totalPoints": 60,
+          "totalPoints": 55,
           "attachments": [
             {
               "slotId": "scope",
@@ -818,123 +584,21 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-kord-6p67-underbarrel"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "flashlight-kord-6p67-right-accessory"
+              "attachmentId": "folding-vertical-kord-6p67-underbarrel"
             },
             {
               "slotId": "muzzle",
               "attachmentId": "single-port-brake-kord-6p67-muzzle"
-            }
-          ]
-        },
-        {
-          "level": 3,
-          "totalPoints": 65,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "osa-7-100x-kord-6p67-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-kord-6p67-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-kord-6p67-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-kord-6p67-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-kord-6p67-underbarrel"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "flashlight-kord-6p67-right-accessory"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "single-port-brake-kord-6p67-muzzle"
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "totalPoints": 70,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "osa-7-100x-kord-6p67-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-kord-6p67-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-kord-6p67-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-kord-6p67-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-kord-6p67-underbarrel"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "flashlight-kord-6p67-right-accessory"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "single-port-brake-kord-6p67-muzzle"
-            }
-          ]
-        },
-        {
-          "level": 5,
-          "totalPoints": 75,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "osa-7-100x-kord-6p67-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-kord-6p67-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-kord-6p67-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-kord-6p67-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-kord-6p67-underbarrel"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "flashlight-kord-6p67-right-accessory"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-kord-6p67-muzzle"
             }
           ]
         },
         {
           "level": 7,
-          "totalPoints": 75,
+          "totalPoints": 55,
           "attachments": [
             {
               "slotId": "barrel",
@@ -946,7 +610,7 @@
             },
             {
               "slotId": "magazine",
-              "attachmentId": "30-fast-kord-6p67-magazine"
+              "attachmentId": "30-rnd-kord-6p67-magazine"
             },
             {
               "slotId": "ammunition",
@@ -954,55 +618,21 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-kord-6p67-underbarrel"
+              "attachmentId": "folding-vertical-kord-6p67-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-kord-6p67-muzzle"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "flashlight-kord-6p67-right-accessory"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-kord-6p67-muzzle"
-            }
-          ]
-        },
-        {
-          "level": 8,
-          "totalPoints": 80,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-kord-6p67-barrel"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "osa-7-100x-kord-6p67-scope"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-kord-6p67-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-kord-6p67-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-kord-6p67-underbarrel"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "flashlight-kord-6p67-right-accessory"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-kord-6p67-muzzle"
             }
           ]
         },
         {
           "level": 9,
-          "totalPoints": 80,
+          "totalPoints": 60,
           "attachments": [
             {
               "slotId": "barrel",
@@ -1018,7 +648,7 @@
             },
             {
               "slotId": "magazine",
-              "attachmentId": "30-fast-kord-6p67-magazine"
+              "attachmentId": "30-rnd-kord-6p67-magazine"
             },
             {
               "slotId": "ammunition",
@@ -1026,7 +656,7 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-kord-6p67-underbarrel"
+              "attachmentId": "folding-vertical-kord-6p67-underbarrel"
             },
             {
               "slotId": "right-accessory",
@@ -1036,7 +666,7 @@
         },
         {
           "level": 13,
-          "totalPoints": 90,
+          "totalPoints": 70,
           "attachments": [
             {
               "slotId": "barrel",
@@ -1060,7 +690,7 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "ribbed-stubby-kord-6p67-underbarrel"
+              "attachmentId": "folding-vertical-kord-6p67-underbarrel"
             },
             {
               "slotId": "right-accessory",
@@ -1069,8 +699,8 @@
           ]
         },
         {
-          "level": 14,
-          "totalPoints": 95,
+          "level": 18,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "barrel",
@@ -1090,47 +720,25 @@
             },
             {
               "slotId": "ammunition",
-              "attachmentId": "frangible-kord-6p67-ammunition"
+              "attachmentId": "fmj-kord-6p67-ammunition"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "ribbed-stubby-kord-6p67-underbarrel"
-            }
-          ]
-        },
-        {
-          "level": 16,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-kord-6p67-barrel"
+              "attachmentId": "folding-vertical-kord-6p67-underbarrel"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "osa-7-100x-kord-6p67-scope"
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-kord-6p67-right-accessory"
             },
             {
-              "slotId": "magazine",
-              "attachmentId": "36-rnd-kord-6p67-magazine"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "linear-comp-kord-6p67-muzzle"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "frangible-kord-6p67-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-kord-6p67-underbarrel"
+              "slotId": "ergonomics",
+              "attachmentId": "match-trigger-kord-6p67-ergonomics"
             }
           ]
         },
         {
           "level": 38,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "barrel",
@@ -1154,11 +762,15 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-kord-6p67-underbarrel"
+              "attachmentId": "folding-vertical-kord-6p67-underbarrel"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "flashlight-kord-6p67-right-accessory"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "match-trigger-kord-6p67-ergonomics"
             }
           ]
         },

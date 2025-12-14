@@ -36,7 +36,7 @@
         },
         {
           "level": 1,
-          "totalPoints": 75,
+          "totalPoints": 65,
           "attachments": [
             {
               "slotId": "magazine",
@@ -47,12 +47,12 @@
               "attachmentId": "409mm-standard-1a6k1033mu7"
             },
             {
-              "slotId": "ammunition",
-              "attachmentId": "full-metal-jacket-n6acwo876ls"
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-5nryvc612p9"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-nvo-228e-scope"
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-n6acwo876ls"
             },
             {
               "slotId": "underbarrel",
@@ -69,8 +69,8 @@
           ]
         },
         {
-          "level": 5,
-          "totalPoints": 85,
+          "level": 2,
+          "totalPoints": 60,
           "attachments": [
             {
               "slotId": "magazine",
@@ -81,20 +81,88 @@
               "attachmentId": "409mm-standard-1a6k1033mu7"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-5nryvc612p9"
+            },
+            {
               "slotId": "ammunition",
               "attachmentId": "full-metal-jacket-n6acwo876ls"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-nvo-228e-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-nvo-228e-underbarrel"
+              "attachmentId": "folding-vertical-y41s3l9xj5"
             },
             {
               "slotId": "muzzle",
               "attachmentId": "flash-hider-cw3sl39nm5"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-nvo-228e-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "totalPoints": 55,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-magazine-zgbqvo8suai"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "409mm-standard-1a6k1033mu7"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-5nryvc612p9"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-n6acwo876ls"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-y41s3l9xj5"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-giuxz7fiexd"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-nvo-228e-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "totalPoints": 65,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-magazine-zgbqvo8suai"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "409mm-standard-1a6k1033mu7"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-5nryvc612p9"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-n6acwo876ls"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-y41s3l9xj5"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-giuxz7fiexd"
             },
             {
               "slotId": "right-accessory",
@@ -108,6 +176,44 @@
         },
         {
           "level": 7,
+          "totalPoints": 70,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-magazine-zgbqvo8suai"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "409mm-standard-1a6k1033mu7"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-nvo-228e-muzzle"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-5nryvc612p9"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-n6acwo876ls"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-y41s3l9xj5"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-nvo-228e-right-accessory"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-nvo-228e-left-accessory"
+            }
+          ]
+        },
+        {
+          "level": 15,
           "totalPoints": 85,
           "attachments": [
             {
@@ -119,170 +225,6 @@
               "attachmentId": "409mm-standard-1a6k1033mu7"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "linear-comp-nvo-228e-muzzle"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "full-metal-jacket-n6acwo876ls"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-nvo-228e-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-nvo-228e-underbarrel"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-nvo-228e-right-accessory"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-nvo-228e-left-accessory"
-            }
-          ]
-        },
-        {
-          "level": 8,
-          "totalPoints": 90,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "30rnd-magazine-zgbqvo8suai"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "409mm-standard-1a6k1033mu7"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "linear-comp-nvo-228e-muzzle"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "full-metal-jacket-n6acwo876ls"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-nvo-228e-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-nvo-228e-underbarrel"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-nvo-228e-right-accessory"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-nvo-228e-left-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-nvo-228e-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 9,
-          "totalPoints": 95,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "30rnd-magazine-zgbqvo8suai"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "409mm-standard-1a6k1033mu7"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "linear-comp-nvo-228e-muzzle"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "full-metal-jacket-n6acwo876ls"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-nvo-228e-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-nvo-228e-underbarrel"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-nvo-228e-right-accessory"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-nvo-228e-left-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-nvo-228e-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 11,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "30rnd-magazine-zgbqvo8suai"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "409mm-standard-1a6k1033mu7"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "linear-comp-nvo-228e-muzzle"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "full-metal-jacket-n6acwo876ls"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-nvo-228e-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "slim-angled-nvo-228e-underbarrel"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-nvo-228e-right-accessory"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-nvo-228e-left-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-nvo-228e-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 15,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "30rnd-magazine-zgbqvo8suai"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "409mm-standard-1a6k1033mu7"
-            },
-            {
               "slotId": "ammunition",
               "attachmentId": "hollow-point-nvo-228e-ammunition"
             },
@@ -292,81 +234,25 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "su-230-lpvo-nvo-228e-scope"
+              "attachmentId": "osa-7-100x-5nryvc612p9"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-angled-nvo-228e-underbarrel"
+              "attachmentId": "folding-vertical-y41s3l9xj5"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-red-nvo-228e-right-accessory"
-            }
-          ]
-        },
-        {
-          "level": 21,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "30rnd-magazine-zgbqvo8suai"
             },
             {
-              "slotId": "barrel",
-              "attachmentId": "409mm-standard-1a6k1033mu7"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "hollow-point-nvo-228e-ammunition"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "linear-comp-nvo-228e-muzzle"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-nvo-228e-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-sds1qkccytk"
-            }
-          ]
-        },
-        {
-          "level": 31,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "30rnd-magazine-zgbqvo8suai"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "409mm-standard-1a6k1033mu7"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "hollow-point-nvo-228e-ammunition"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "linear-comp-nvo-228e-muzzle"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "grim-150x-nvo-228e-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "ribbed-stubby-nvo-228e-underbarrel"
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-nvo-228e-left-accessory"
             }
           ]
         },
         {
           "level": 34,
-          "totalPoints": 115,
+          "totalPoints": 100,
           "attachments": [
             {
               "slotId": "underbarrel",
@@ -390,7 +276,7 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "grim-150x-nvo-228e-scope"
+              "attachmentId": "osa-7-100x-5nryvc612p9"
             }
           ]
         },
@@ -490,11 +376,15 @@
         },
         {
           "level": 1,
-          "totalPoints": 75,
+          "totalPoints": 65,
           "attachments": [
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-nvo-228e-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "cco-200x-r1s3xv0u0k"
             },
             {
               "slotId": "barrel",
@@ -505,8 +395,8 @@
               "attachmentId": "30rnd-magazine-zgbqvo8suai"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-nvo-228e-scope"
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-nvo-228e-right-accessory"
             },
             {
               "slotId": "underbarrel",
@@ -515,16 +405,46 @@
             {
               "slotId": "muzzle",
               "attachmentId": "flash-hider-cw3sl39nm5"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "totalPoints": 60,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-nvo-228e-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "cco-200x-r1s3xv0u0k"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-nvo-228e-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30rnd-magazine-zgbqvo8suai"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-red-nvo-228e-right-accessory"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-y41s3l9xj5"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-cw3sl39nm5"
             }
           ]
         },
         {
           "level": 3,
-          "totalPoints": 80,
+          "totalPoints": 65,
           "attachments": [
             {
               "slotId": "ammunition",
@@ -535,30 +455,64 @@
               "attachmentId": "30-fast-nvo-228e-magazine"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "cco-200x-r1s3xv0u0k"
+            },
+            {
               "slotId": "barrel",
               "attachmentId": "basic-nvo-228e-barrel"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-nvo-228e-scope"
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-nvo-228e-right-accessory"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-nvo-228e-underbarrel"
+              "attachmentId": "folding-vertical-y41s3l9xj5"
             },
             {
               "slotId": "muzzle",
               "attachmentId": "flash-hider-cw3sl39nm5"
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "totalPoints": 60,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-nvo-228e-ammunition"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-fast-nvo-228e-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "cco-200x-r1s3xv0u0k"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-nvo-228e-barrel"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-red-nvo-228e-right-accessory"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-y41s3l9xj5"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-giuxz7fiexd"
             }
           ]
         },
         {
           "level": 5,
-          "totalPoints": 90,
+          "totalPoints": 70,
           "attachments": [
             {
               "slotId": "ammunition",
@@ -569,20 +523,12 @@
               "attachmentId": "30-fast-nvo-228e-magazine"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "cco-200x-r1s3xv0u0k"
+            },
+            {
               "slotId": "barrel",
               "attachmentId": "basic-nvo-228e-barrel"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-nvo-228e-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-nvo-228e-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-cw3sl39nm5"
             },
             {
               "slotId": "right-accessory",
@@ -591,12 +537,20 @@
             {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-nvo-228e-left-accessory"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-y41s3l9xj5"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-giuxz7fiexd"
             }
           ]
         },
         {
           "level": 6,
-          "totalPoints": 90,
+          "totalPoints": 70,
           "attachments": [
             {
               "slotId": "right-accessory",
@@ -611,30 +565,30 @@
               "attachmentId": "30-fast-nvo-228e-magazine"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "cco-200x-r1s3xv0u0k"
+            },
+            {
               "slotId": "barrel",
               "attachmentId": "basic-nvo-228e-barrel"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-nvo-228e-scope"
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-nvo-228e-left-accessory"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-nvo-228e-underbarrel"
+              "attachmentId": "folding-vertical-y41s3l9xj5"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-cw3sl39nm5"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-nvo-228e-left-accessory"
+              "attachmentId": "single-port-brake-giuxz7fiexd"
             }
           ]
         },
         {
           "level": 8,
-          "totalPoints": 85,
+          "totalPoints": 70,
           "attachments": [
             {
               "slotId": "right-accessory",
@@ -657,26 +611,22 @@
               "attachmentId": "basic-nvo-228e-barrel"
             },
             {
-              "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-nvo-228e-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-cw3sl39nm5"
-            },
-            {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-nvo-228e-left-accessory"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-nvo-228e-optic-accessory"
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-y41s3l9xj5"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-giuxz7fiexd"
             }
           ]
         },
         {
           "level": 9,
-          "totalPoints": 90,
+          "totalPoints": 80,
           "attachments": [
             {
               "slotId": "underbarrel",
@@ -703,64 +653,18 @@
               "attachmentId": "basic-nvo-228e-barrel"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-cw3sl39nm5"
-            },
-            {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-nvo-228e-left-accessory"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-nvo-228e-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 10,
-          "totalPoints": 95,
-          "attachments": [
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-nvo-228e-underbarrel"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-green-nvo-228e-right-accessory"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-nvo-228e-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "r4t-200x-nvo-228e-scope"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-nvo-228e-magazine"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "extended-nvo-228e-barrel"
-            },
-            {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-cw3sl39nm5"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-nvo-228e-left-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-nvo-228e-optic-accessory"
+              "attachmentId": "single-port-brake-giuxz7fiexd"
             }
           ]
         },
         {
           "level": 11,
-          "totalPoints": 95,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "underbarrel",
@@ -788,99 +692,11 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "extended-nvo-228e-barrel"
+              "attachmentId": "basic-nvo-228e-barrel"
             },
             {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-nvo-228e-left-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-nvo-228e-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 17,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-nvo-228e-underbarrel"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-green-nvo-228e-right-accessory"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "double-port-brake-6ij3hzwrd9i"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-nvo-228e-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "r4t-200x-nvo-228e-scope"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-nvo-228e-magazine"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "extended-nvo-228e-barrel"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-nvo-228e-left-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-reflex-sight-idffvfdm8s"
-            }
-          ]
-        },
-        {
-          "level": 21,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-nvo-228e-underbarrel"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-green-nvo-228e-right-accessory"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "double-port-brake-6ij3hzwrd9i"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-nvo-228e-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "r4t-200x-nvo-228e-scope"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-nvo-228e-magazine"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "extended-nvo-228e-barrel"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "match-trigger-q7o62a3vggg"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-nvo-228e-optic-accessory"
             }
           ]
         },

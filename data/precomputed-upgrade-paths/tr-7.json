@@ -36,13 +36,47 @@
         },
         {
           "level": 1,
-          "totalPoints": 0,
-          "attachments": []
+          "totalPoints": 25,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-tr-7-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-rnd-tr-7-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-tr-7-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "iron-sights-tr-7-scope"
+            }
+          ]
         },
         {
           "level": 40,
-          "totalPoints": 0,
-          "attachments": []
+          "totalPoints": 25,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-tr-7-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-rnd-tr-7-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-tr-7-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "iron-sights-tr-7-scope"
+            }
+          ]
         }
       ]
     },
@@ -133,46 +167,12 @@
               "attachmentId": "basic-tr-7-barrel"
             },
             {
-              "slotId": "underbarrel",
-              "attachmentId": "folding-vertical-tr-7-underbarrel"
-            },
-            {
               "slotId": "right-accessory",
               "attachmentId": "flashlight-tr-7-right-accessory"
-            }
-          ]
-        },
-        {
-          "level": 3,
-          "totalPoints": 70,
-          "attachments": [
-            {
-              "slotId": "muzzle",
-              "attachmentId": "double-port-brake-tr-7-muzzle"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "20-rnd-tr-7-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-tr-7-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "osa-7-100x-tr-7-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-tr-7-barrel"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-tr-7-underbarrel"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "flashlight-tr-7-right-accessory"
+              "attachmentId": "folding-vertical-tr-7-underbarrel"
             }
           ]
         },

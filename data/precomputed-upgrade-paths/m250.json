@@ -36,7 +36,7 @@
         },
         {
           "level": 1,
-          "totalPoints": 100,
+          "totalPoints": 80,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -51,16 +51,16 @@
               "attachmentId": "fmj-m250-ammunition"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-m250-scope"
+            },
+            {
               "slotId": "barrel",
               "attachmentId": "heavy-m250-barrel"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "ngfc-lpvo-m250-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-m250-underbarrel"
+              "attachmentId": "folding-vertical-m250-underbarrel"
             },
             {
               "slotId": "right-accessory",
@@ -70,7 +70,7 @@
         },
         {
           "level": 3,
-          "totalPoints": 100,
+          "totalPoints": 80,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -90,11 +90,11 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "ngfc-lpvo-m250-scope"
+              "attachmentId": "osa-7-100x-m250-scope"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-m250-underbarrel"
+              "attachmentId": "folding-vertical-m250-underbarrel"
             },
             {
               "slotId": "right-accessory",
@@ -103,8 +103,8 @@
           ]
         },
         {
-          "level": 4,
-          "totalPoints": 95,
+          "level": 5,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -124,17 +124,25 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "ngfc-lpvo-m250-scope"
+              "attachmentId": "osa-7-100x-m250-scope"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m250-underbarrel"
+              "attachmentId": "folding-vertical-m250-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-m250-right-accessory"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-m250-top-accessory"
             }
           ]
         },
         {
           "level": 7,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -155,44 +163,18 @@
             {
               "slotId": "scope",
               "attachmentId": "a-p2-175x-m250-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-m250-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-m250-right-accessory"
             },
             {
               "slotId": "top-accessory",
-              "attachmentId": "120-mw-blue-m250-top-accessory"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "bipod-m250-underbarrel"
-            }
-          ]
-        },
-        {
-          "level": 34,
-          "totalPoints": 95,
-          "attachments": [
-            {
-              "slotId": "muzzle",
-              "attachmentId": "lightened-suppressor-m250-muzzle"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ext-m250-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "50-rnd-m250-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-m250-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "a-p2-175x-m250-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-m250-underbarrel"
+              "attachmentId": "5-mw-red-m250-top-accessory"
             }
           ]
         },
@@ -292,7 +274,7 @@
         },
         {
           "level": 1,
-          "totalPoints": 100,
+          "totalPoints": 80,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -312,11 +294,11 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "ngfc-lpvo-m250-scope"
+              "attachmentId": "cco-200x-m250-scope"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-m250-underbarrel"
+              "attachmentId": "folding-vertical-m250-underbarrel"
             },
             {
               "slotId": "right-accessory",
@@ -325,8 +307,8 @@
           ]
         },
         {
-          "level": 4,
-          "totalPoints": 95,
+          "level": 2,
+          "totalPoints": 80,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -346,17 +328,21 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "ngfc-lpvo-m250-scope"
+              "attachmentId": "baker-300x-m250-scope"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m250-underbarrel"
+              "attachmentId": "folding-vertical-m250-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-m250-right-accessory"
             }
           ]
         },
         {
           "level": 5,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -380,17 +366,21 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "ngfc-lpvo-m250-scope"
+              "attachmentId": "baker-300x-m250-scope"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-m250-underbarrel"
+              "attachmentId": "folding-vertical-m250-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-m250-right-accessory"
             }
           ]
         },
         {
           "level": 9,
-          "totalPoints": 105,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -418,7 +408,7 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "ngfc-lpvo-m250-scope"
+              "attachmentId": "baker-300x-m250-scope"
             }
           ]
         },

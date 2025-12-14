@@ -36,7 +36,7 @@
         },
         {
           "level": 1,
-          "totalPoints": 55,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -60,13 +60,13 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-sg-553r-underbarrel"
+              "attachmentId": "folding-vertical-sg-553r-underbarrel"
             }
           ]
         },
         {
           "level": 2,
-          "totalPoints": 60,
+          "totalPoints": 55,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -90,13 +90,13 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-sg-553r-underbarrel"
+              "attachmentId": "folding-vertical-sg-553r-underbarrel"
             }
           ]
         },
         {
           "level": 3,
-          "totalPoints": 65,
+          "totalPoints": 60,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -124,7 +124,7 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-sg-553r-underbarrel"
+              "attachmentId": "folding-vertical-sg-553r-underbarrel"
             }
           ]
         },
@@ -274,6 +274,70 @@
         },
         {
           "level": 1,
+          "totalPoints": 50,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sg-553r-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sg-553r-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "baker-300x-sg-553r-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-sg-553r-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-sg-553r-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-sg-553r-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "totalPoints": 55,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-sg-553r-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-sg-553r-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "baker-300x-sg-553r-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-sg-553r-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-sg-553r-underbarrel"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-sg-553r-ergonomics"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-sg-553r-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 5,
           "totalPoints": 65,
           "attachments": [
             {
@@ -285,16 +349,24 @@
               "attachmentId": "fmj-sg-553r-ammunition"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "baker-300x-sg-553r-scope"
+            },
+            {
               "slotId": "barrel",
               "attachmentId": "basic-sg-553r-barrel"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-sg-553r-scope"
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-sg-553r-underbarrel"
             },
             {
-              "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-sg-553r-underbarrel"
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-sg-553r-ergonomics"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-sg-553r-right-accessory"
             },
             {
               "slotId": "muzzle",
@@ -303,37 +375,7 @@
           ]
         },
         {
-          "level": 2,
-          "totalPoints": 70,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-sg-553r-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-sg-553r-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "extended-sg-553r-barrel"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-sg-553r-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-sg-553r-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-sg-553r-muzzle"
-            }
-          ]
-        },
-        {
-          "level": 3,
+          "level": 8,
           "totalPoints": 75,
           "attachments": [
             {
@@ -345,126 +387,20 @@
               "attachmentId": "fmj-sg-553r-ammunition"
             },
             {
-              "slotId": "barrel",
-              "attachmentId": "extended-sg-553r-barrel"
+              "slotId": "scope",
+              "attachmentId": "baker-300x-sg-553r-scope"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-sg-553r-scope"
+              "slotId": "barrel",
+              "attachmentId": "basic-sg-553r-barrel"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-sg-553r-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-sg-553r-muzzle"
+              "attachmentId": "folding-vertical-sg-553r-underbarrel"
             },
             {
               "slotId": "ergonomics",
               "attachmentId": "improved-mag-catch-sg-553r-ergonomics"
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "totalPoints": 80,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-sg-553r-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-sg-553r-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "extended-sg-553r-barrel"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-sg-553r-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-sg-553r-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-sg-553r-muzzle"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "improved-mag-catch-sg-553r-ergonomics"
-            }
-          ]
-        },
-        {
-          "level": 5,
-          "totalPoints": 90,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-sg-553r-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-sg-553r-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "extended-sg-553r-barrel"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-sg-553r-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-sg-553r-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-sg-553r-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-sg-553r-right-accessory"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "improved-mag-catch-sg-553r-ergonomics"
-            }
-          ]
-        },
-        {
-          "level": 8,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-sg-553r-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-sg-553r-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "extended-sg-553r-barrel"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-sg-553r-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-sg-553r-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-sg-553r-muzzle"
             },
             {
               "slotId": "right-accessory",
@@ -475,14 +411,14 @@
               "attachmentId": "flashlight-sg-553r-left-accessory"
             },
             {
-              "slotId": "ergonomics",
-              "attachmentId": "improved-mag-catch-sg-553r-ergonomics"
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-sg-553r-muzzle"
             }
           ]
         },
         {
-          "level": 14,
-          "totalPoints": 100,
+          "level": 9,
+          "totalPoints": 75,
           "attachments": [
             {
               "slotId": "magazine",
@@ -493,20 +429,24 @@
               "attachmentId": "fmj-sg-553r-ammunition"
             },
             {
-              "slotId": "barrel",
-              "attachmentId": "extended-sg-553r-barrel"
+              "slotId": "scope",
+              "attachmentId": "baker-300x-sg-553r-scope"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-sg-553r-scope"
+              "slotId": "barrel",
+              "attachmentId": "basic-sg-553r-barrel"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-sg-553r-underbarrel"
+              "attachmentId": "folding-vertical-sg-553r-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-sg-553r-muzzle"
+              "attachmentId": "linear-comp-sg-553r-muzzle"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-sg-553r-ergonomics"
             },
             {
               "slotId": "right-accessory",
@@ -515,80 +455,12 @@
             {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-sg-553r-left-accessory"
-            }
-          ]
-        },
-        {
-          "level": 16,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-sg-553r-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-sg-553r-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "extended-sg-553r-barrel"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-sg-553r-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-sg-553r-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-sg-553r-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-sg-553r-right-accessory"
-            }
-          ]
-        },
-        {
-          "level": 18,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-sg-553r-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-sg-553r-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "extended-sg-553r-barrel"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "grim-150x-sg-553r-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-sg-553r-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-sg-553r-muzzle"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "improved-mag-catch-sg-553r-ergonomics"
             }
           ]
         },
         {
           "level": 21,
-          "totalPoints": 100,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "underbarrel",
@@ -603,22 +475,30 @@
               "attachmentId": "fmj-sg-553r-ammunition"
             },
             {
-              "slotId": "barrel",
-              "attachmentId": "extended-sg-553r-barrel"
+              "slotId": "scope",
+              "attachmentId": "baker-300x-sg-553r-scope"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "grim-150x-sg-553r-scope"
+              "slotId": "barrel",
+              "attachmentId": "basic-sg-553r-barrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "compensated-brake-sg-553r-muzzle"
+              "attachmentId": "linear-comp-sg-553r-muzzle"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-sg-553r-ergonomics"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-sg-553r-right-accessory"
             }
           ]
         },
         {
           "level": 24,
-          "totalPoints": 100,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "barrel",
@@ -638,11 +518,11 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "grim-150x-sg-553r-scope"
+              "attachmentId": "baker-300x-sg-553r-scope"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-sg-553r-muzzle"
+              "attachmentId": "linear-comp-sg-553r-muzzle"
             },
             {
               "slotId": "ergonomics",
@@ -651,38 +531,8 @@
           ]
         },
         {
-          "level": 31,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "light-sg-553r-barrel"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "ribbed-stubby-sg-553r-underbarrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-sg-553r-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-sg-553r-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "grim-150x-sg-553r-scope"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "match-trigger-sg-553r-ergonomics"
-            }
-          ]
-        },
-        {
           "level": 34,
-          "totalPoints": 100,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "barrel",
@@ -706,7 +556,11 @@
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "cqb-suppressor-sg-553r-muzzle"
+              "attachmentId": "linear-comp-sg-553r-muzzle"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-sg-553r-ergonomics"
             }
           ]
         },

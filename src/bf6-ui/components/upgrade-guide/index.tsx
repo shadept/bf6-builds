@@ -317,7 +317,7 @@ export function UpgradeGuide({ weapon, progression }: UpgradeGuideProps) {
                                 name={att.name}
                                 description={att.description}
                                 slot={att.slot?.name || att.slotId}
-                                points={att.status === "removed" ? 0 : att.point ?? 0}
+                                points={att.point ?? 0}
                                 unlockLevel={att.unlockAtWeaponLevel ?? level}
                                 status={status}
                             />

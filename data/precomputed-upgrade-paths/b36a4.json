@@ -36,13 +36,47 @@
         },
         {
           "level": 1,
-          "totalPoints": 0,
-          "attachments": []
+          "totalPoints": 25,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-b36a4-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-b36a4-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-ns0rua4ta1k"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "iron-sights-k02xgzwcoh"
+            }
+          ]
         },
         {
           "level": 40,
-          "totalPoints": 0,
-          "attachments": []
+          "totalPoints": 25,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-b36a4-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-b36a4-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-ns0rua4ta1k"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "iron-sights-k02xgzwcoh"
+            }
+          ]
         }
       ]
     },
@@ -80,11 +114,15 @@
         },
         {
           "level": 1,
-          "totalPoints": 65,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-b36a4-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-s66w5wtdxpf"
             },
             {
               "slotId": "barrel",
@@ -95,42 +133,8 @@
               "attachmentId": "30-rnd-b36a4-magazine"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-b36a4-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-b36a4-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-2ulm4fbdnf6"
-            }
-          ]
-        },
-        {
-          "level": 2,
-          "totalPoints": 70,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-b36a4-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-b36a4-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-b36a4-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-b36a4-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-b36a4-underbarrel"
+              "attachmentId": "folding-vertical-rbleixsqyc"
             },
             {
               "slotId": "muzzle",
@@ -140,11 +144,15 @@
         },
         {
           "level": 3,
-          "totalPoints": 80,
+          "totalPoints": 60,
           "attachments": [
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-b36a4-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-s66w5wtdxpf"
             },
             {
               "slotId": "barrel",
@@ -155,12 +163,8 @@
               "attachmentId": "30-rnd-b36a4-magazine"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-b36a4-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-b36a4-underbarrel"
+              "attachmentId": "folding-vertical-rbleixsqyc"
             },
             {
               "slotId": "muzzle",
@@ -173,148 +177,42 @@
           ]
         },
         {
-          "level": 5,
-          "totalPoints": 90,
+          "level": 4,
+          "totalPoints": 60,
           "attachments": [
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-b36a4-ammunition"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-s66w5wtdxpf"
+            },
+            {
               "slotId": "barrel",
-              "attachmentId": "510mm-fluted-xra0l1wrwr8"
+              "attachmentId": "basic-b36a4-barrel"
             },
             {
               "slotId": "magazine",
-              "attachmentId": "30-fast-b36a4-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-b36a4-scope"
+              "attachmentId": "30-rnd-b36a4-magazine"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-b36a4-underbarrel"
+              "attachmentId": "folding-vertical-rbleixsqyc"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-2ulm4fbdnf6"
+              "attachmentId": "linear-comp-b36a4-muzzle"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "flashlight-b36a4-right-accessory"
-            }
-          ]
-        },
-        {
-          "level": 6,
-          "totalPoints": 95,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-b36a4-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "510mm-fluted-xra0l1wrwr8"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-b36a4-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-b36a4-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-b36a4-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-2ulm4fbdnf6"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "flashlight-b36a4-right-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-s615rzs1o7"
-            }
-          ]
-        },
-        {
-          "level": 8,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-b36a4-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "510mm-fluted-xra0l1wrwr8"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-b36a4-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-b36a4-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-b36a4-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-2ulm4fbdnf6"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "flashlight-b36a4-right-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-s615rzs1o7"
-            }
-          ]
-        },
-        {
-          "level": 12,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-b36a4-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "510mm-fluted-xra0l1wrwr8"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "40-rnd-b36a4-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-b36a4-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-b36a4-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-2ulm4fbdnf6"
             }
           ]
         },
         {
           "level": 13,
-          "totalPoints": 100,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "ammunition",
@@ -325,22 +223,64 @@
               "attachmentId": "classic-vertical-b36a4-underbarrel"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-s66w5wtdxpf"
+            },
+            {
               "slotId": "barrel",
-              "attachmentId": "510mm-fluted-xra0l1wrwr8"
+              "attachmentId": "basic-b36a4-barrel"
             },
             {
               "slotId": "magazine",
-              "attachmentId": "40-rnd-b36a4-magazine"
+              "attachmentId": "30-rnd-b36a4-magazine"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-b36a4-muzzle"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-b36a4-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 14,
+          "totalPoints": 85,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-b36a4-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "classic-vertical-b36a4-underbarrel"
             },
             {
               "slotId": "scope",
-              "attachmentId": "su-230-lpvo-b36a4-scope"
+              "attachmentId": "osa-7-100x-s66w5wtdxpf"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "480mm-mg-wvgmhcvsw4"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-b36a4-magazine"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-b36a4-muzzle"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-b36a4-right-accessory"
             }
           ]
         },
         {
           "level": 15,
-          "totalPoints": 120,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -355,52 +295,22 @@
               "attachmentId": "classic-vertical-b36a4-underbarrel"
             },
             {
-              "slotId": "barrel",
-              "attachmentId": "510mm-fluted-xra0l1wrwr8"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "40-rnd-b36a4-magazine"
-            },
-            {
               "slotId": "scope",
-              "attachmentId": "su-230-lpvo-b36a4-scope"
-            }
-          ]
-        },
-        {
-          "level": 16,
-          "totalPoints": 130,
-          "attachments": [
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-b36a4-muzzle"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-b36a4-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-b36a4-underbarrel"
+              "attachmentId": "osa-7-100x-s66w5wtdxpf"
             },
             {
               "slotId": "barrel",
-              "attachmentId": "510mm-fluted-xra0l1wrwr8"
+              "attachmentId": "480mm-mg-wvgmhcvsw4"
             },
             {
               "slotId": "magazine",
-              "attachmentId": "45-rnd-b36a4-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-b36a4-scope"
+              "attachmentId": "30-rnd-b36a4-magazine"
             }
           ]
         },
         {
           "level": 18,
-          "totalPoints": 115,
+          "totalPoints": 95,
           "attachments": [
             {
               "slotId": "magazine",
@@ -419,48 +329,18 @@
               "attachmentId": "classic-vertical-b36a4-underbarrel"
             },
             {
-              "slotId": "barrel",
-              "attachmentId": "510mm-fluted-xra0l1wrwr8"
-            },
-            {
               "slotId": "scope",
-              "attachmentId": "mars-f-lpvo-b36a4-scope"
-            }
-          ]
-        },
-        {
-          "level": 21,
-          "totalPoints": 120,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "36-rnd-b36a4-magazine"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-b36a4-muzzle"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-b36a4-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-b36a4-underbarrel"
+              "attachmentId": "osa-7-100x-s66w5wtdxpf"
             },
             {
               "slotId": "barrel",
-              "attachmentId": "light-b36a4-barrel"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "mars-f-lpvo-b36a4-scope"
+              "attachmentId": "480mm-mg-wvgmhcvsw4"
             }
           ]
         },
         {
           "level": 26,
-          "totalPoints": 110,
+          "totalPoints": 95,
           "attachments": [
             {
               "slotId": "magazine",
@@ -484,7 +364,7 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "mars-f-lpvo-b36a4-scope"
+              "attachmentId": "osa-7-100x-s66w5wtdxpf"
             }
           ]
         },
@@ -584,11 +464,15 @@
         },
         {
           "level": 1,
-          "totalPoints": 65,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-b36a4-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-s66w5wtdxpf"
             },
             {
               "slotId": "barrel",
@@ -599,12 +483,8 @@
               "attachmentId": "30-rnd-b36a4-magazine"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-b36a4-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-b36a4-underbarrel"
+              "attachmentId": "folding-vertical-rbleixsqyc"
             },
             {
               "slotId": "muzzle",
@@ -614,7 +494,7 @@
         },
         {
           "level": 2,
-          "totalPoints": 70,
+          "totalPoints": 60,
           "attachments": [
             {
               "slotId": "underbarrel",
@@ -625,16 +505,16 @@
               "attachmentId": "fmj-b36a4-ammunition"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-s66w5wtdxpf"
+            },
+            {
               "slotId": "barrel",
               "attachmentId": "basic-b36a4-barrel"
             },
             {
               "slotId": "magazine",
               "attachmentId": "30-rnd-b36a4-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-b36a4-scope"
             },
             {
               "slotId": "muzzle",
@@ -667,18 +547,18 @@
               "attachmentId": "30-rnd-b36a4-magazine"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-2ulm4fbdnf6"
-            },
-            {
               "slotId": "right-accessory",
               "attachmentId": "flashlight-b36a4-right-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-2ulm4fbdnf6"
             }
           ]
         },
         {
-          "level": 5,
-          "totalPoints": 80,
+          "level": 4,
+          "totalPoints": 70,
           "attachments": [
             {
               "slotId": "scope",
@@ -694,63 +574,25 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "510mm-fluted-xra0l1wrwr8"
+              "attachmentId": "basic-b36a4-barrel"
             },
             {
               "slotId": "magazine",
-              "attachmentId": "30-fast-b36a4-magazine"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-2ulm4fbdnf6"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "flashlight-b36a4-right-accessory"
-            }
-          ]
-        },
-        {
-          "level": 6,
-          "totalPoints": 85,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "osa-7-100x-s66w5wtdxpf"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-b36a4-underbarrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-b36a4-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "510mm-fluted-xra0l1wrwr8"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-b36a4-magazine"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-2ulm4fbdnf6"
+              "attachmentId": "30-rnd-b36a4-magazine"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "flashlight-b36a4-right-accessory"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-s615rzs1o7"
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-b36a4-muzzle"
             }
           ]
         },
         {
           "level": 12,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "scope",
@@ -770,59 +612,21 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "510mm-fluted-xra0l1wrwr8"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-2ulm4fbdnf6"
+              "attachmentId": "basic-b36a4-barrel"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "flashlight-b36a4-right-accessory"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-s615rzs1o7"
-            }
-          ]
-        },
-        {
-          "level": 13,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "osa-7-100x-s66w5wtdxpf"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-b36a4-underbarrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "40-rnd-b36a4-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-b36a4-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "510mm-fluted-xra0l1wrwr8"
-            },
-            {
               "slotId": "muzzle",
-              "attachmentId": "standard-suppressor-b36a4-muzzle"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-s615rzs1o7"
+              "attachmentId": "linear-comp-b36a4-muzzle"
             }
           ]
         },
         {
           "level": 14,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "scope",
@@ -845,12 +649,12 @@
               "attachmentId": "fmj-b36a4-ammunition"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "standard-suppressor-b36a4-muzzle"
-            },
-            {
               "slotId": "right-accessory",
               "attachmentId": "flashlight-b36a4-right-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-b36a4-muzzle"
             }
           ]
         },

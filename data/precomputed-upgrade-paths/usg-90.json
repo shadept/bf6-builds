@@ -36,7 +36,7 @@
         },
         {
           "level": 1,
-          "totalPoints": 50,
+          "totalPoints": 35,
           "attachments": [
             {
               "slotId": "magazine",
@@ -47,22 +47,48 @@
               "attachmentId": "fmj-usg-90-ammunition"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-usg-90-scope"
+            },
+            {
               "slotId": "barrel",
               "attachmentId": "basic-usg-90-barrel"
             },
             {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-usg-90-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "totalPoints": 35,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "50-rnd-usg-90-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-usg-90-ammunition"
+            },
+            {
               "slotId": "scope",
-              "attachmentId": "su-230-lpvo-usg-90-scope"
+              "attachmentId": "osa-7-100x-usg-90-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-usg-90-barrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-usg-90-muzzle"
+              "attachmentId": "single-port-brake-usg-90-muzzle"
             }
           ]
         },
         {
           "level": 5,
-          "totalPoints": 60,
+          "totalPoints": 45,
           "attachments": [
             {
               "slotId": "magazine",
@@ -73,26 +99,26 @@
               "attachmentId": "fmj-usg-90-ammunition"
             },
             {
-              "slotId": "barrel",
-              "attachmentId": "basic-usg-90-barrel"
-            },
-            {
               "slotId": "scope",
-              "attachmentId": "su-230-lpvo-usg-90-scope"
+              "attachmentId": "osa-7-100x-usg-90-scope"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-usg-90-muzzle"
+              "slotId": "barrel",
+              "attachmentId": "heavy-usg-90-barrel"
             },
             {
               "slotId": "left-accessory",
               "attachmentId": "5-mw-red-usg-90-left-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-usg-90-muzzle"
             }
           ]
         },
         {
           "level": 8,
-          "totalPoints": 50,
+          "totalPoints": 45,
           "attachments": [
             {
               "slotId": "magazine",
@@ -108,55 +134,21 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "basic-usg-90-barrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-usg-90-muzzle"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "5-mw-red-usg-90-left-accessory"
-            }
-          ]
-        },
-        {
-          "level": 10,
-          "totalPoints": 55,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "50-rnd-usg-90-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-usg-90-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "a-p2-175x-usg-90-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-usg-90-barrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-usg-90-muzzle"
+              "attachmentId": "heavy-usg-90-barrel"
             },
             {
               "slotId": "left-accessory",
               "attachmentId": "5-mw-red-usg-90-left-accessory"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-usg-90-optic-accessory"
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-usg-90-muzzle"
             }
           ]
         },
         {
           "level": 11,
-          "totalPoints": 55,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -176,21 +168,17 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "basic-usg-90-barrel"
+              "attachmentId": "heavy-usg-90-barrel"
             },
             {
               "slotId": "left-accessory",
               "attachmentId": "5-mw-red-usg-90-left-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-usg-90-optic-accessory"
             }
           ]
         },
         {
           "level": 12,
-          "totalPoints": 55,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -214,17 +202,13 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "basic-usg-90-barrel"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-usg-90-optic-accessory"
+              "attachmentId": "heavy-usg-90-barrel"
             }
           ]
         },
         {
           "level": 13,
-          "totalPoints": 60,
+          "totalPoints": 55,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -252,11 +236,7 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "basic-usg-90-barrel"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-usg-90-optic-accessory"
+              "attachmentId": "heavy-usg-90-barrel"
             }
           ]
         },
@@ -364,11 +344,15 @@
         },
         {
           "level": 1,
-          "totalPoints": 50,
+          "totalPoints": 35,
           "attachments": [
             {
               "slotId": "magazine",
               "attachmentId": "50-rnd-usg-90-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-usg-90-scope"
             },
             {
               "slotId": "barrel",
@@ -379,48 +363,70 @@
               "attachmentId": "fmj-usg-90-ammunition"
             },
             {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-usg-90-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "totalPoints": 35,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "50-rnd-usg-90-magazine"
+            },
+            {
               "slotId": "scope",
-              "attachmentId": "su-230-lpvo-usg-90-scope"
+              "attachmentId": "osa-7-100x-usg-90-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-usg-90-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-usg-90-ammunition"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-usg-90-muzzle"
+              "attachmentId": "single-port-brake-usg-90-muzzle"
             }
           ]
         },
         {
           "level": 5,
-          "totalPoints": 60,
+          "totalPoints": 45,
           "attachments": [
             {
               "slotId": "magazine",
               "attachmentId": "50-rnd-usg-90-magazine"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-usg-90-scope"
+            },
+            {
               "slotId": "barrel",
-              "attachmentId": "basic-usg-90-barrel"
+              "attachmentId": "heavy-usg-90-barrel"
             },
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-usg-90-ammunition"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-usg-90-scope"
+              "slotId": "left-accessory",
+              "attachmentId": "5-mw-red-usg-90-left-accessory"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-usg-90-muzzle"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "5-mw-red-usg-90-left-accessory"
+              "attachmentId": "single-port-brake-usg-90-muzzle"
             }
           ]
         },
         {
           "level": 8,
-          "totalPoints": 50,
+          "totalPoints": 45,
           "attachments": [
             {
               "slotId": "magazine",
@@ -432,59 +438,25 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "basic-usg-90-barrel"
+              "attachmentId": "heavy-usg-90-barrel"
             },
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-usg-90-ammunition"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-usg-90-muzzle"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "5-mw-red-usg-90-left-accessory"
-            }
-          ]
-        },
-        {
-          "level": 10,
-          "totalPoints": 55,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "50-rnd-usg-90-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "a-p2-175x-usg-90-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-usg-90-barrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-usg-90-ammunition"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-usg-90-muzzle"
-            },
-            {
               "slotId": "left-accessory",
               "attachmentId": "5-mw-red-usg-90-left-accessory"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-usg-90-optic-accessory"
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-usg-90-muzzle"
             }
           ]
         },
         {
           "level": 13,
-          "totalPoints": 60,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "magazine",
@@ -500,29 +472,25 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "basic-usg-90-barrel"
+              "attachmentId": "heavy-usg-90-barrel"
             },
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-usg-90-ammunition"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-usg-90-muzzle"
-            },
-            {
               "slotId": "left-accessory",
               "attachmentId": "5-mw-red-usg-90-left-accessory"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-usg-90-optic-accessory"
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-usg-90-muzzle"
             }
           ]
         },
         {
           "level": 15,
-          "totalPoints": 60,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "barrel",
@@ -545,22 +513,18 @@
               "attachmentId": "fmj-usg-90-ammunition"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-usg-90-muzzle"
-            },
-            {
               "slotId": "left-accessory",
               "attachmentId": "5-mw-red-usg-90-left-accessory"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-usg-90-optic-accessory"
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-usg-90-muzzle"
             }
           ]
         },
         {
           "level": 16,
-          "totalPoints": 70,
+          "totalPoints": 65,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -589,15 +553,11 @@
             {
               "slotId": "left-accessory",
               "attachmentId": "5-mw-red-usg-90-left-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-usg-90-optic-accessory"
             }
           ]
         },
         {
-          "level": 17,
+          "level": 23,
           "totalPoints": 75,
           "attachments": [
             {
@@ -622,129 +582,11 @@
             },
             {
               "slotId": "ammunition",
-              "attachmentId": "lightweight-usg-90-ammunition"
+              "attachmentId": "fmj-usg-90-ammunition"
             },
             {
               "slotId": "left-accessory",
               "attachmentId": "5-mw-red-usg-90-left-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-usg-90-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 18,
-          "totalPoints": 85,
-          "attachments": [
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-usg-90-muzzle"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ext-usg-90-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "50-rnd-usg-90-magazine"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "improved-mag-catch-usg-90-ergonomics"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "a-p2-175x-usg-90-scope"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "lightweight-usg-90-ammunition"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "50-mw-green-usg-90-left-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-usg-90-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 20,
-          "totalPoints": 90,
-          "attachments": [
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-usg-90-muzzle"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ext-usg-90-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "50-rnd-usg-90-magazine"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "improved-mag-catch-usg-90-ergonomics"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "a-p2-175x-usg-90-scope"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "lightweight-usg-90-ammunition"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "50-mw-green-usg-90-left-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-reflex-usg-90-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 23,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-usg-90-muzzle"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ext-usg-90-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "50-rnd-usg-90-magazine"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "improved-mag-catch-usg-90-ergonomics"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "a-p2-175x-usg-90-scope"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "lightweight-usg-90-ammunition"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "50-mw-green-usg-90-left-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-reflex-usg-90-optic-accessory"
             },
             {
               "slotId": "right-accessory",
@@ -753,46 +595,8 @@
           ]
         },
         {
-          "level": 28,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-usg-90-muzzle"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ext-usg-90-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "50-rnd-usg-90-magazine"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "improved-mag-catch-usg-90-ergonomics"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "a-p2-175x-usg-90-scope"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "frangible-usg-90-ammunition"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "50-mw-green-usg-90-left-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-reflex-usg-90-optic-accessory"
-            }
-          ]
-        },
-        {
           "level": 36,
-          "totalPoints": 100,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -820,7 +624,7 @@
             },
             {
               "slotId": "ammunition",
-              "attachmentId": "frangible-usg-90-ammunition"
+              "attachmentId": "fmj-usg-90-ammunition"
             }
           ]
         },

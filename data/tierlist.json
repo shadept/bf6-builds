@@ -1,19 +1,19 @@
 {
   "ranking": {
     "A": [
+      "b36a4",
+      "l85a3",
+      "nvo-228e",
+      "sor-300sc",
       "sor-556-mk2",
       "rpkm",
-      "sor-300sc",
       "l110",
-      "ak-205",
-      "b36a4",
       "m433",
-      "nvo-228e",
+      "ak-205",
       "mini-scout",
       "pw7a2",
-      "sg-553r",
-      "l85a3",
       "kts100-mk8",
+      "tr-7",
       "ak4d",
       "m417-a2",
       "psr",
@@ -24,7 +24,6 @@
       "m60",
       "m123k",
       "m1014",
-      "tr-7",
       "m277",
       "grt-bc",
       "svdm",
@@ -51,14 +50,15 @@
       "kord-6p67",
       "pw5a3",
       "sgx",
+      "drs-iar",
       "m4a1",
-      "umg-40",
       "m87a1",
       "m2010-esr",
       "qbz-192",
       "scw-10",
       "sl9",
-      "drs-iar"
+      "umg-40",
+      "sg-553r"
     ]
   }
 }

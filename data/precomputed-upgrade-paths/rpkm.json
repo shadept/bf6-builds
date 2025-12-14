@@ -36,7 +36,7 @@
         },
         {
           "level": 1,
-          "totalPoints": 85,
+          "totalPoints": 70,
           "attachments": [
             {
               "slotId": "magazine",
@@ -47,26 +47,56 @@
               "attachmentId": "heavy-ext-rpkm-barrel"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-rpkm-scope"
+            },
+            {
               "slotId": "ammunition",
               "attachmentId": "fmj-rpkm-ammunition"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-rpkm-scope"
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-rpkm-underbarrel"
             },
             {
               "slotId": "muzzle",
               "attachmentId": "lightened-suppressor-rpkm-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "totalPoints": 45,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "40-rnd-rpkm-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-ext-rpkm-barrel"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-rpkm-scope"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-rpkm-ammunition"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-rpkm-underbarrel"
+              "attachmentId": "folding-vertical-rpkm-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "slant-brake-wpffjfxj12p"
             }
           ]
         },
         {
           "level": 4,
-          "totalPoints": 100,
+          "totalPoints": 55,
           "attachments": [
             {
               "slotId": "magazine",
@@ -77,20 +107,20 @@
               "attachmentId": "heavy-ext-rpkm-barrel"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-rpkm-scope"
+            },
+            {
               "slotId": "ammunition",
               "attachmentId": "fmj-rpkm-ammunition"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-rpkm-scope"
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-rpkm-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "lightened-suppressor-rpkm-muzzle"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-rpkm-underbarrel"
+              "attachmentId": "slant-brake-wpffjfxj12p"
             },
             {
               "slotId": "ergonomics",
@@ -99,42 +129,8 @@
           ]
         },
         {
-          "level": 9,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "40-rnd-rpkm-magazine"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ext-rpkm-barrel"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "folding-stubby-rpkm-underbarrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-rpkm-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-rpkm-scope"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "lightened-suppressor-rpkm-muzzle"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "magwell-flare-rpkm-ergonomics"
-            }
-          ]
-        },
-        {
-          "level": 17,
-          "totalPoints": 100,
+          "level": 5,
+          "totalPoints": 65,
           "attachments": [
             {
               "slotId": "magazine",
@@ -146,19 +142,19 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "a-p2-175x-rpkm-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "folding-stubby-rpkm-underbarrel"
+              "attachmentId": "mini-flex-100x-rpkm-scope"
             },
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-rpkm-ammunition"
             },
             {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-rpkm-underbarrel"
+            },
+            {
               "slotId": "muzzle",
-              "attachmentId": "lightened-suppressor-rpkm-muzzle"
+              "attachmentId": "slant-brake-wpffjfxj12p"
             },
             {
               "slotId": "ergonomics",
@@ -171,8 +167,8 @@
           ]
         },
         {
-          "level": 18,
-          "totalPoints": 100,
+          "level": 8,
+          "totalPoints": 75,
           "attachments": [
             {
               "slotId": "magazine",
@@ -184,67 +180,79 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "a-p2-175x-rpkm-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "folding-stubby-rpkm-underbarrel"
+              "attachmentId": "mini-flex-100x-rpkm-scope"
             },
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-rpkm-ammunition"
             },
             {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-rpkm-underbarrel"
+            },
+            {
               "slotId": "muzzle",
-              "attachmentId": "lightened-suppressor-rpkm-muzzle"
+              "attachmentId": "slant-brake-wpffjfxj12p"
             },
             {
               "slotId": "ergonomics",
-              "attachmentId": "match-trigger-rpkm-ergonomics"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-rpkm-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 19,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "40-rnd-rpkm-magazine"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ext-rpkm-barrel"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "a-p2-175x-rpkm-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "folding-stubby-rpkm-underbarrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-rpkm-ammunition"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "lightened-suppressor-rpkm-muzzle"
+              "attachmentId": "magwell-flare-rpkm-ergonomics"
             },
             {
               "slotId": "right-accessory",
-              "attachmentId": "50-mw-green-rpkm-right-accessory"
+              "attachmentId": "5-mw-red-rpkm-right-accessory"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-rpkm-left-accessory"
             }
           ]
         },
         {
-          "level": 25,
-          "totalPoints": 100,
+          "level": 9,
+          "totalPoints": 85,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "40-rnd-rpkm-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-ext-rpkm-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-stubby-rpkm-underbarrel"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-rpkm-scope"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-rpkm-ammunition"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "slant-brake-wpffjfxj12p"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "magwell-flare-rpkm-ergonomics"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-rpkm-right-accessory"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-rpkm-left-accessory"
+            }
+          ]
+        },
+        {
+          "level": 17,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "magazine",
@@ -264,21 +272,29 @@
             },
             {
               "slotId": "ammunition",
-              "attachmentId": "polymer-case-rpkm-ammunition"
+              "attachmentId": "fmj-rpkm-ammunition"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "lightened-suppressor-rpkm-muzzle"
+              "attachmentId": "slant-brake-wpffjfxj12p"
             },
             {
               "slotId": "ergonomics",
-              "attachmentId": "match-trigger-rpkm-ergonomics"
+              "attachmentId": "magwell-flare-rpkm-ergonomics"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-rpkm-right-accessory"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-rpkm-left-accessory"
             }
           ]
         },
         {
           "level": 27,
-          "totalPoints": 100,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "magazine",
@@ -302,41 +318,7 @@
             },
             {
               "slotId": "ammunition",
-              "attachmentId": "polymer-case-rpkm-ammunition"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "50-mw-green-rpkm-right-accessory"
-            }
-          ]
-        },
-        {
-          "level": 29,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "40-rnd-rpkm-magazine"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ext-rpkm-barrel"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "a-p2-175x-rpkm-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "folding-stubby-rpkm-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "long-suppressor-rpkm-muzzle"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "hollow-point-rpkm-ammunition"
+              "attachmentId": "fmj-rpkm-ammunition"
             },
             {
               "slotId": "ergonomics",
@@ -440,7 +422,7 @@
         },
         {
           "level": 1,
-          "totalPoints": 65,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "barrel",
@@ -460,17 +442,17 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "su-230-lpvo-rpkm-scope"
+              "attachmentId": "mini-flex-100x-rpkm-scope"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-rpkm-underbarrel"
+              "attachmentId": "folding-vertical-rpkm-underbarrel"
             }
           ]
         },
         {
           "level": 2,
-          "totalPoints": 55,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "barrel",
@@ -494,13 +476,13 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-rpkm-underbarrel"
+              "attachmentId": "folding-vertical-rpkm-underbarrel"
             }
           ]
         },
         {
           "level": 4,
-          "totalPoints": 70,
+          "totalPoints": 60,
           "attachments": [
             {
               "slotId": "barrel",
@@ -528,12 +510,50 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-rpkm-underbarrel"
+              "attachmentId": "folding-vertical-rpkm-underbarrel"
             }
           ]
         },
         {
           "level": 5,
+          "totalPoints": 70,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-ext-rpkm-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "40-rnd-rpkm-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-rpkm-ammunition"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "magwell-flare-rpkm-ergonomics"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-rpkm-right-accessory"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "ro-m-175x-rpkm-scope"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-rpkm-muzzle"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-rpkm-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 8,
           "totalPoints": 80,
           "attachments": [
             {
@@ -565,50 +585,12 @@
               "attachmentId": "flash-hider-rpkm-muzzle"
             },
             {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-rpkm-underbarrel"
-            }
-          ]
-        },
-        {
-          "level": 8,
-          "totalPoints": 90,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ext-rpkm-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "40-rnd-rpkm-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-rpkm-ammunition"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "magwell-flare-rpkm-ergonomics"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-rpkm-right-accessory"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "ro-m-175x-rpkm-scope"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-rpkm-muzzle"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-rpkm-underbarrel"
-            },
-            {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-rpkm-left-accessory"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-rpkm-underbarrel"
             }
           ]
         },

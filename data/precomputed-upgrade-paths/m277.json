@@ -36,8 +36,12 @@
         },
         {
           "level": 1,
-          "totalPoints": 85,
+          "totalPoints": 70,
           "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-m277-scope"
+            },
             {
               "slotId": "barrel",
               "attachmentId": "basic-m277-barrel"
@@ -51,22 +55,48 @@
               "attachmentId": "fmj-m277-ammunition"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "ngfc-lpvo-mx3ibcymua"
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-m277-underbarrel"
             },
             {
               "slotId": "muzzle",
               "attachmentId": "lightened-suppressor-m277-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "totalPoints": 50,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-m277-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-m277-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-rnd-m277-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m277-ammunition"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "mount-m277-underbarrel"
+              "attachmentId": "folding-vertical-m277-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-m277-muzzle"
             }
           ]
         },
         {
           "level": 3,
-          "totalPoints": 70,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "scope",
@@ -74,7 +104,7 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "basic-m277-barrel"
+              "attachmentId": "heavy-m277-barrel"
             },
             {
               "slotId": "magazine",
@@ -85,18 +115,18 @@
               "attachmentId": "fmj-m277-ammunition"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "lightened-suppressor-m277-muzzle"
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-m277-underbarrel"
             },
             {
-              "slotId": "underbarrel",
-              "attachmentId": "mount-m277-underbarrel"
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-m277-muzzle"
             }
           ]
         },
         {
           "level": 4,
-          "totalPoints": 75,
+          "totalPoints": 55,
           "attachments": [
             {
               "slotId": "ergonomics",
@@ -108,7 +138,7 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "basic-m277-barrel"
+              "attachmentId": "heavy-m277-barrel"
             },
             {
               "slotId": "magazine",
@@ -119,18 +149,18 @@
               "attachmentId": "fmj-m277-ammunition"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "lightened-suppressor-m277-muzzle"
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-m277-underbarrel"
             },
             {
-              "slotId": "underbarrel",
-              "attachmentId": "mount-m277-underbarrel"
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-m277-muzzle"
             }
           ]
         },
         {
           "level": 5,
-          "totalPoints": 95,
+          "totalPoints": 65,
           "attachments": [
             {
               "slotId": "ergonomics",
@@ -142,7 +172,7 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "basic-m277-barrel"
+              "attachmentId": "heavy-m277-barrel"
             },
             {
               "slotId": "magazine",
@@ -153,12 +183,12 @@
               "attachmentId": "fmj-m277-ammunition"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "lightened-suppressor-m277-muzzle"
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-m277-underbarrel"
             },
             {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m277-underbarrel"
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-m277-muzzle"
             },
             {
               "slotId": "top-accessory",
@@ -168,7 +198,7 @@
         },
         {
           "level": 7,
-          "totalPoints": 95,
+          "totalPoints": 65,
           "attachments": [
             {
               "slotId": "barrel",
@@ -191,12 +221,12 @@
               "attachmentId": "fmj-m277-ammunition"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "lightened-suppressor-m277-muzzle"
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-m277-underbarrel"
             },
             {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m277-underbarrel"
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-m277-muzzle"
             },
             {
               "slotId": "top-accessory",
@@ -205,8 +235,8 @@
           ]
         },
         {
-          "level": 15,
-          "totalPoints": 100,
+          "level": 8,
+          "totalPoints": 75,
           "attachments": [
             {
               "slotId": "barrel",
@@ -229,90 +259,26 @@
               "attachmentId": "fmj-m277-ammunition"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "lightened-suppressor-m277-muzzle"
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-m277-underbarrel"
             },
             {
-              "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-m277-underbarrel"
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-m277-muzzle"
             },
             {
               "slotId": "top-accessory",
               "attachmentId": "5-mw-red-m277-top-accessory"
-            }
-          ]
-        },
-        {
-          "level": 16,
-          "totalPoints": 95,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ext-m277-barrel"
             },
             {
-              "slotId": "ergonomics",
-              "attachmentId": "improved-mag-catch-m277-ergonomics"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "ro-m-175x-m277-scope"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "20-fast-m277-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-m277-ammunition"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "lightened-suppressor-m277-muzzle"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-m277-underbarrel"
-            }
-          ]
-        },
-        {
-          "level": 21,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ext-m277-barrel"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "improved-mag-catch-m277-ergonomics"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "ro-m-175x-m277-scope"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "20-fast-m277-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "hollow-point-m277-ammunition"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "lightened-suppressor-m277-muzzle"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "adjustable-angled-m277-underbarrel"
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-m277-right-accessory"
             }
           ]
         },
         {
           "level": 25,
-          "totalPoints": 95,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "barrel",
@@ -332,17 +298,29 @@
             },
             {
               "slotId": "ammunition",
-              "attachmentId": "hollow-point-m277-ammunition"
+              "attachmentId": "fmj-m277-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-m277-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "lightened-suppressor-m277-muzzle"
+              "attachmentId": "single-port-brake-m277-muzzle"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-m277-top-accessory"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-m277-right-accessory"
             }
           ]
         },
         {
           "level": 28,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "barrel",
@@ -366,17 +344,21 @@
             },
             {
               "slotId": "ammunition",
-              "attachmentId": "hollow-point-m277-ammunition"
+              "attachmentId": "fmj-m277-ammunition"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "adjustable-angled-m277-underbarrel"
+              "attachmentId": "folding-vertical-m277-underbarrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-m277-top-accessory"
             }
           ]
         },
         {
           "level": 37,
-          "totalPoints": 100,
+          "totalPoints": 105,
           "attachments": [
             {
               "slotId": "barrel",
@@ -401,12 +383,16 @@
             {
               "slotId": "scope",
               "attachmentId": "ro-m-175x-m277-scope"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m277-ammunition"
             }
           ]
         },
         {
           "level": 40,
-          "totalPoints": 100,
+          "totalPoints": 105,
           "attachments": [
             {
               "slotId": "barrel",
@@ -431,6 +417,10 @@
             {
               "slotId": "scope",
               "attachmentId": "ro-m-175x-m277-scope"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m277-ammunition"
             }
           ]
         }
@@ -470,7 +460,7 @@
         },
         {
           "level": 1,
-          "totalPoints": 85,
+          "totalPoints": 70,
           "attachments": [
             {
               "slotId": "magazine",
@@ -481,26 +471,26 @@
               "attachmentId": "fmj-m277-ammunition"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-m277-scope"
+            },
+            {
               "slotId": "barrel",
               "attachmentId": "basic-m277-barrel"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "ngfc-lpvo-mx3ibcymua"
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-m277-underbarrel"
             },
             {
               "slotId": "muzzle",
               "attachmentId": "lightened-suppressor-m277-muzzle"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "mount-m277-underbarrel"
             }
           ]
         },
         {
           "level": 2,
-          "totalPoints": 65,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "magazine",
@@ -515,16 +505,16 @@
               "attachmentId": "single-port-brake-m277-muzzle"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-m277-scope"
+            },
+            {
               "slotId": "barrel",
               "attachmentId": "basic-m277-barrel"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "ngfc-lpvo-mx3ibcymua"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "mount-m277-underbarrel"
+              "attachmentId": "folding-vertical-m277-underbarrel"
             }
           ]
         },
@@ -550,11 +540,11 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "basic-m277-barrel"
+              "attachmentId": "heavy-m277-barrel"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "mount-m277-underbarrel"
+              "attachmentId": "folding-vertical-m277-underbarrel"
             }
           ]
         },
@@ -584,17 +574,17 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "basic-m277-barrel"
+              "attachmentId": "heavy-m277-barrel"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "mount-m277-underbarrel"
+              "attachmentId": "folding-vertical-m277-underbarrel"
             }
           ]
         },
         {
           "level": 5,
-          "totalPoints": 75,
+          "totalPoints": 65,
           "attachments": [
             {
               "slotId": "magazine",
@@ -622,16 +612,54 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "basic-m277-barrel"
+              "attachmentId": "heavy-m277-barrel"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m277-underbarrel"
+              "attachmentId": "folding-vertical-m277-underbarrel"
             }
           ]
         },
         {
           "level": 7,
+          "totalPoints": 65,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "20-rnd-m277-magazine"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-ext-m277-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m277-ammunition"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-m277-ergonomics"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-m277-top-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-m277-muzzle"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "ro-m-175x-m277-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-m277-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 8,
           "totalPoints": 75,
           "attachments": [
             {
@@ -663,50 +691,12 @@
               "attachmentId": "ro-m-175x-m277-scope"
             },
             {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m277-underbarrel"
-            }
-          ]
-        },
-        {
-          "level": 8,
-          "totalPoints": 85,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "20-rnd-m277-magazine"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ext-m277-barrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-m277-ammunition"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "improved-mag-catch-m277-ergonomics"
-            },
-            {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-red-m277-top-accessory"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "single-port-brake-m277-muzzle"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "ro-m-175x-m277-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m277-underbarrel"
-            },
-            {
               "slotId": "right-accessory",
               "attachmentId": "flashlight-m277-right-accessory"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-m277-underbarrel"
             }
           ]
         },

@@ -36,11 +36,15 @@
         },
         {
           "level": 1,
-          "totalPoints": 65,
+          "totalPoints": 55,
           "attachments": [
             {
               "slotId": "muzzle",
               "attachmentId": "triple-port-brake-fcrbnffvw"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "cco-200x-vmhsjkdn83"
             },
             {
               "slotId": "barrel",
@@ -51,10 +55,6 @@
               "attachmentId": "10-rnd-svk-86-magazine"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-svk-86-scope"
-            },
-            {
               "slotId": "underbarrel",
               "attachmentId": "slim-handstop-svk-86-underbarrel"
             }
@@ -62,7 +62,7 @@
         },
         {
           "level": 2,
-          "totalPoints": 60,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -73,22 +73,22 @@
               "attachmentId": "folding-vertical-5or6goag70w"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "cco-200x-vmhsjkdn83"
+            },
+            {
               "slotId": "barrel",
               "attachmentId": "extended-svk-86-barrel"
             },
             {
               "slotId": "magazine",
               "attachmentId": "10-rnd-svk-86-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-svk-86-scope"
             }
           ]
         },
         {
           "level": 3,
-          "totalPoints": 70,
+          "totalPoints": 60,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -103,21 +103,55 @@
               "attachmentId": "5-mw-red-4d3w94t5cm6"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "cco-200x-vmhsjkdn83"
+            },
+            {
               "slotId": "barrel",
               "attachmentId": "extended-svk-86-barrel"
             },
             {
               "slotId": "magazine",
               "attachmentId": "10-rnd-svk-86-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-svk-86-scope"
             }
           ]
         },
         {
           "level": 4,
+          "totalPoints": 65,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "triple-port-brake-fcrbnffvw"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-5or6goag70w"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-iron-sights-9co072tqyvs"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-4d3w94t5cm6"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "cco-200x-vmhsjkdn83"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-svk-86-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "10-rnd-svk-86-magazine"
+            }
+          ]
+        },
+        {
+          "level": 6,
           "totalPoints": 75,
           "attachments": [
             {
@@ -137,38 +171,8 @@
               "attachmentId": "5-mw-red-4d3w94t5cm6"
             },
             {
-              "slotId": "barrel",
-              "attachmentId": "extended-svk-86-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "10-rnd-svk-86-magazine"
-            },
-            {
               "slotId": "scope",
-              "attachmentId": "su-230-lpvo-svk-86-scope"
-            }
-          ]
-        },
-        {
-          "level": 6,
-          "totalPoints": 85,
-          "attachments": [
-            {
-              "slotId": "muzzle",
-              "attachmentId": "triple-port-brake-fcrbnffvw"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "folding-vertical-5or6goag70w"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-9co072tqyvs"
-            },
-            {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-red-4d3w94t5cm6"
+              "attachmentId": "baker-300x-svk-86-scope"
             },
             {
               "slotId": "barrel",
@@ -177,10 +181,6 @@
             {
               "slotId": "magazine",
               "attachmentId": "10-rnd-svk-86-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-svk-86-scope"
             },
             {
               "slotId": "left-accessory",
@@ -190,7 +190,7 @@
         },
         {
           "level": 10,
-          "totalPoints": 80,
+          "totalPoints": 70,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -213,12 +213,12 @@
               "attachmentId": "5-mw-red-4d3w94t5cm6"
             },
             {
-              "slotId": "magazine",
-              "attachmentId": "10-rnd-svk-86-magazine"
+              "slotId": "scope",
+              "attachmentId": "baker-300x-svk-86-scope"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-svk-86-scope"
+              "slotId": "magazine",
+              "attachmentId": "10-rnd-svk-86-magazine"
             },
             {
               "slotId": "left-accessory",
@@ -460,117 +460,109 @@
         },
         {
           "level": 1,
-          "totalPoints": 75,
+          "totalPoints": 55,
           "attachments": [
             {
               "slotId": "magazine",
               "attachmentId": "10rnd-magazine-nnfaq3jv47"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "pvq-31-400x-3p29kndrppj"
+            },
+            {
               "slotId": "barrel",
               "attachmentId": "extended-svk-86-barrel"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-svk-86-scope"
+              "slotId": "underbarrel",
+              "attachmentId": "slim-handstop-svk-86-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "standard-suppressor-svk-86-muzzle"
+              "attachmentId": "single-port-brake-svk-86-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "totalPoints": 50,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "10rnd-magazine-nnfaq3jv47"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "pvq-31-400x-3p29kndrppj"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-svk-86-barrel"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-svk-86-underbarrel"
+              "attachmentId": "folding-vertical-5or6goag70w"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-svk-86-muzzle"
             }
           ]
         },
         {
           "level": 3,
-          "totalPoints": 85,
+          "totalPoints": 60,
           "attachments": [
             {
               "slotId": "magazine",
               "attachmentId": "10rnd-magazine-nnfaq3jv47"
             },
             {
-              "slotId": "barrel",
-              "attachmentId": "extended-svk-86-barrel"
-            },
-            {
               "slotId": "scope",
-              "attachmentId": "su-230-lpvo-svk-86-scope"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "standard-suppressor-svk-86-muzzle"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-svk-86-underbarrel"
-            },
-            {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-red-4d3w94t5cm6"
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "totalPoints": 95,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "10rnd-magazine-nnfaq3jv47"
+              "attachmentId": "pvq-31-400x-3p29kndrppj"
             },
             {
               "slotId": "barrel",
               "attachmentId": "extended-svk-86-barrel"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-svk-86-scope"
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-5or6goag70w"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "standard-suppressor-svk-86-muzzle"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-svk-86-underbarrel"
+              "attachmentId": "single-port-brake-svk-86-muzzle"
             },
             {
               "slotId": "top-accessory",
               "attachmentId": "5-mw-red-4d3w94t5cm6"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-9co072tqyvs"
             }
           ]
         },
         {
           "level": 6,
-          "totalPoints": 100,
+          "totalPoints": 70,
           "attachments": [
             {
               "slotId": "magazine",
               "attachmentId": "10rnd-magazine-nnfaq3jv47"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "pvq-31-400x-3p29kndrppj"
+            },
+            {
               "slotId": "barrel",
               "attachmentId": "extended-svk-86-barrel"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-svk-86-scope"
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-5or6goag70w"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "standard-suppressor-svk-86-muzzle"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-svk-86-underbarrel"
+              "attachmentId": "single-port-brake-svk-86-muzzle"
             },
             {
               "slotId": "top-accessory",
@@ -584,7 +576,7 @@
         },
         {
           "level": 9,
-          "totalPoints": 95,
+          "totalPoints": 70,
           "attachments": [
             {
               "slotId": "magazine",
@@ -599,12 +591,12 @@
               "attachmentId": "extended-svk-86-barrel"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "standard-suppressor-svk-86-muzzle"
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-5or6goag70w"
             },
             {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-svk-86-underbarrel"
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-svk-86-muzzle"
             },
             {
               "slotId": "top-accessory",
@@ -613,16 +605,12 @@
             {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-svk-86-left-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-9co072tqyvs"
             }
           ]
         },
         {
           "level": 10,
-          "totalPoints": 90,
+          "totalPoints": 65,
           "attachments": [
             {
               "slotId": "barrel",
@@ -637,12 +625,12 @@
               "attachmentId": "st-prisim-250x-itectirrds"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "standard-suppressor-svk-86-muzzle"
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-5or6goag70w"
             },
             {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-svk-86-underbarrel"
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-svk-86-muzzle"
             },
             {
               "slotId": "top-accessory",
@@ -651,118 +639,12 @@
             {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-svk-86-left-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-9co072tqyvs"
-            }
-          ]
-        },
-        {
-          "level": 11,
-          "totalPoints": 95,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "560mm-cut-5thplbjqpwc"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "10rnd-magazine-nnfaq3jv47"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "st-prisim-250x-itectirrds"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-svk-86-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "standard-suppressor-svk-86-muzzle"
-            },
-            {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-red-4d3w94t5cm6"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-svk-86-left-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-9co072tqyvs"
-            }
-          ]
-        },
-        {
-          "level": 13,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "560mm-cut-5thplbjqpwc"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "10rnd-magazine-nnfaq3jv47"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "st-prisim-250x-itectirrds"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-svk-86-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "standard-suppressor-svk-86-muzzle"
-            },
-            {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-red-4d3w94t5cm6"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-svk-86-left-accessory"
-            }
-          ]
-        },
-        {
-          "level": 14,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "560mm-cut-5thplbjqpwc"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "10rnd-magazine-nnfaq3jv47"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "st-prisim-250x-itectirrds"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-svk-86-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "cqb-suppressor-svk-86-muzzle"
-            },
-            {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-red-4d3w94t5cm6"
             }
           ]
         },
         {
           "level": 15,
-          "totalPoints": 100,
+          "totalPoints": 70,
           "attachments": [
             {
               "slotId": "barrel",
@@ -782,21 +664,25 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-svk-86-underbarrel"
+              "attachmentId": "folding-vertical-5or6goag70w"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "cqb-suppressor-svk-86-muzzle"
+              "attachmentId": "single-port-brake-svk-86-muzzle"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-9co072tqyvs"
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-4d3w94t5cm6"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-svk-86-left-accessory"
             }
           ]
         },
         {
           "level": 20,
-          "totalPoints": 100,
+          "totalPoints": 70,
           "attachments": [
             {
               "slotId": "barrel",
@@ -816,21 +702,63 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-svk-86-underbarrel"
+              "attachmentId": "folding-vertical-5or6goag70w"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "cqb-suppressor-svk-86-muzzle"
+              "attachmentId": "single-port-brake-svk-86-muzzle"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-9co072tqyvs"
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-4d3w94t5cm6"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-svk-86-left-accessory"
+            }
+          ]
+        },
+        {
+          "level": 21,
+          "totalPoints": 85,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "560mm-cut-5thplbjqpwc"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "10rnd-magazine-nnfaq3jv47"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-3jwi29ore0w"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "st-prisim-250x-itectirrds"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-5or6goag70w"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "long-suppressor-svk-86-muzzle"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-4d3w94t5cm6"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-svk-86-left-accessory"
             }
           ]
         },
         {
           "level": 23,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "barrel",
@@ -854,11 +782,7 @@
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "cqb-suppressor-svk-86-muzzle"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-9co072tqyvs"
+              "attachmentId": "long-suppressor-svk-86-muzzle"
             }
           ]
         },

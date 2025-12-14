@@ -36,11 +36,15 @@
         },
         {
           "level": 1,
-          "totalPoints": 85,
+          "totalPoints": 55,
           "attachments": [
             {
               "slotId": "barrel",
               "attachmentId": "508mm-mk8-q29vnfcmbyf"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-kts100-mk8-scope"
             },
             {
               "slotId": "magazine",
@@ -51,16 +55,46 @@
               "attachmentId": "fmj-kts100-mk8-ammunition"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-kts100-mk8-scope"
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-gha4a9cqzck"
             },
             {
-              "slotId": "underbarrel",
-              "attachmentId": "qd-grip-pod-kxvfctwtk9e"
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-kts100-mk8-ergonomics"
             },
             {
               "slotId": "muzzle",
               "attachmentId": "flash-hider-sau2ar1nq17"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "totalPoints": 50,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "508mm-mk8-q29vnfcmbyf"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-kts100-mk8-scope"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "60rnd-drum-mag-8vgk8op8s1n"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-kts100-mk8-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-gha4a9cqzck"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-azhbpgwqc5k"
             },
             {
               "slotId": "ergonomics",
@@ -70,11 +104,15 @@
         },
         {
           "level": 5,
-          "totalPoints": 95,
+          "totalPoints": 60,
           "attachments": [
             {
               "slotId": "barrel",
               "attachmentId": "508mm-mk8-q29vnfcmbyf"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-kts100-mk8-scope"
             },
             {
               "slotId": "magazine",
@@ -85,208 +123,26 @@
               "attachmentId": "fmj-kts100-mk8-ammunition"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-kts100-mk8-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "qd-grip-pod-kxvfctwtk9e"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-sau2ar1nq17"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-q06ot1nlvus"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "rail-cover-kts100-mk8-ergonomics"
-            }
-          ]
-        },
-        {
-          "level": 10,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "508mm-mk8-q29vnfcmbyf"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "60rnd-drum-mag-8vgk8op8s1n"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-kts100-mk8-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-kts100-mk8-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "qd-grip-pod-kxvfctwtk9e"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-sau2ar1nq17"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-q06ot1nlvus"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "rail-cover-kts100-mk8-ergonomics"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-kts100-mk8-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 13,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "508mm-mk8-q29vnfcmbyf"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "60rnd-drum-mag-8vgk8op8s1n"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-kts100-mk8-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "mars-f-lpvo-kts100-mk8-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "qd-grip-pod-kxvfctwtk9e"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-sau2ar1nq17"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-q06ot1nlvus"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "rail-cover-kts100-mk8-ergonomics"
-            }
-          ]
-        },
-        {
-          "level": 15,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "508mm-mk8-q29vnfcmbyf"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "60rnd-drum-mag-8vgk8op8s1n"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "polymer-case-zhoit0goqhf"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "mars-f-lpvo-kts100-mk8-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "qd-grip-pod-kxvfctwtk9e"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-sau2ar1nq17"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-q06ot1nlvus"
-            }
-          ]
-        },
-        {
-          "level": 16,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "508mm-mk8-q29vnfcmbyf"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "60rnd-drum-mag-8vgk8op8s1n"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "polymer-case-zhoit0goqhf"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "mars-f-lpvo-kts100-mk8-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "qd-grip-pod-kxvfctwtk9e"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "match-trigger-txn4qtn41yl"
+              "attachmentId": "folding-vertical-gha4a9cqzck"
             },
             {
               "slotId": "muzzle",
               "attachmentId": "single-port-brake-azhbpgwqc5k"
-            }
-          ]
-        },
-        {
-          "level": 17,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "508mm-mk8-q29vnfcmbyf"
             },
             {
-              "slotId": "magazine",
-              "attachmentId": "60rnd-drum-mag-8vgk8op8s1n"
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-kts100-mk8-ergonomics"
             },
             {
-              "slotId": "ammunition",
-              "attachmentId": "polymer-case-zhoit0goqhf"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "mars-f-lpvo-kts100-mk8-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "qd-grip-pod-kxvfctwtk9e"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-kts100-mk8-muzzle"
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-q06ot1nlvus"
             }
           ]
         },
         {
           "level": 21,
-          "totalPoints": 100,
+          "totalPoints": 75,
           "attachments": [
             {
               "slotId": "barrel",
@@ -297,56 +153,34 @@
               "attachmentId": "slim-angled-kts100-mk8-underbarrel"
             },
             {
-              "slotId": "magazine",
-              "attachmentId": "60rnd-magazine-l6evsyf7khg"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "polymer-case-zhoit0goqhf"
-            },
-            {
               "slotId": "scope",
-              "attachmentId": "mars-f-lpvo-kts100-mk8-scope"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-kts100-mk8-muzzle"
-            }
-          ]
-        },
-        {
-          "level": 25,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "508mm-mk8-q29vnfcmbyf"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "slim-angled-kts100-mk8-underbarrel"
+              "attachmentId": "mini-flex-100x-kts100-mk8-scope"
             },
             {
               "slotId": "magazine",
-              "attachmentId": "60rnd-magazine-l6evsyf7khg"
+              "attachmentId": "60rnd-drum-mag-8vgk8op8s1n"
             },
             {
               "slotId": "ammunition",
-              "attachmentId": "hollow-point-kts100-mk8-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "mars-f-lpvo-kts100-mk8-scope"
+              "attachmentId": "fmj-kts100-mk8-ammunition"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-sau2ar1nq17"
+              "attachmentId": "single-port-brake-azhbpgwqc5k"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-kts100-mk8-ergonomics"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-q06ot1nlvus"
             }
           ]
         },
         {
           "level": 27,
-          "totalPoints": 115,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "barrel",
@@ -361,22 +195,26 @@
               "attachmentId": "long-suppressor-hsf9b9983um"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-kts100-mk8-scope"
+            },
+            {
               "slotId": "magazine",
-              "attachmentId": "60rnd-magazine-l6evsyf7khg"
+              "attachmentId": "60rnd-drum-mag-8vgk8op8s1n"
             },
             {
               "slotId": "ammunition",
-              "attachmentId": "hollow-point-kts100-mk8-ammunition"
+              "attachmentId": "fmj-kts100-mk8-ammunition"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "mars-f-lpvo-kts100-mk8-scope"
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-kts100-mk8-ergonomics"
             }
           ]
         },
         {
           "level": 35,
-          "totalPoints": 135,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "barrel",
@@ -396,17 +234,21 @@
             },
             {
               "slotId": "magazine",
-              "attachmentId": "100-rnd-kts100-mk8-magazine"
+              "attachmentId": "60rnd-drum-mag-8vgk8op8s1n"
             },
             {
               "slotId": "ammunition",
-              "attachmentId": "hollow-point-kts100-mk8-ammunition"
+              "attachmentId": "fmj-kts100-mk8-ammunition"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-kts100-mk8-ergonomics"
             }
           ]
         },
         {
           "level": 38,
-          "totalPoints": 100,
+          "totalPoints": 105,
           "attachments": [
             {
               "slotId": "ammunition",
@@ -427,12 +269,16 @@
             {
               "slotId": "muzzle",
               "attachmentId": "long-suppressor-hsf9b9983um"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "60rnd-drum-mag-8vgk8op8s1n"
             }
           ]
         },
         {
           "level": 40,
-          "totalPoints": 100,
+          "totalPoints": 105,
           "attachments": [
             {
               "slotId": "ammunition",
@@ -453,6 +299,10 @@
             {
               "slotId": "muzzle",
               "attachmentId": "long-suppressor-hsf9b9983um"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "60rnd-drum-mag-8vgk8op8s1n"
             }
           ]
         }
@@ -492,7 +342,7 @@
         },
         {
           "level": 1,
-          "totalPoints": 85,
+          "totalPoints": 65,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -501,6 +351,10 @@
             {
               "slotId": "barrel",
               "attachmentId": "508mm-mk8-q29vnfcmbyf"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-kts100-mk8-scope"
             },
             {
               "slotId": "magazine",
@@ -511,12 +365,8 @@
               "attachmentId": "fmj-kts100-mk8-ammunition"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-kts100-mk8-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "qd-grip-pod-kxvfctwtk9e"
+              "attachmentId": "folding-vertical-gha4a9cqzck"
             },
             {
               "slotId": "ergonomics",
@@ -526,7 +376,7 @@
         },
         {
           "level": 4,
-          "totalPoints": 85,
+          "totalPoints": 65,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -541,16 +391,16 @@
               "attachmentId": "45-rnd-kts100-mk8-magazine"
             },
             {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-kts100-mk8-ammunition"
-            },
-            {
               "slotId": "scope",
               "attachmentId": "su-230-lpvo-kts100-mk8-scope"
             },
             {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-kts100-mk8-ammunition"
+            },
+            {
               "slotId": "underbarrel",
-              "attachmentId": "qd-grip-pod-kxvfctwtk9e"
+              "attachmentId": "folding-vertical-gha4a9cqzck"
             },
             {
               "slotId": "ergonomics",
@@ -560,7 +410,7 @@
         },
         {
           "level": 5,
-          "totalPoints": 95,
+          "totalPoints": 75,
           "attachments": [
             {
               "slotId": "right-accessory",
@@ -577,98 +427,18 @@
             {
               "slotId": "magazine",
               "attachmentId": "45-rnd-kts100-mk8-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-kts100-mk8-ammunition"
             },
             {
               "slotId": "scope",
               "attachmentId": "su-230-lpvo-kts100-mk8-scope"
             },
             {
-              "slotId": "underbarrel",
-              "attachmentId": "qd-grip-pod-kxvfctwtk9e"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "rail-cover-kts100-mk8-ergonomics"
-            }
-          ]
-        },
-        {
-          "level": 10,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-q06ot1nlvus"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-sau2ar1nq17"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "508mm-mk8-q29vnfcmbyf"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "45-rnd-kts100-mk8-magazine"
-            },
-            {
               "slotId": "ammunition",
               "attachmentId": "fmj-kts100-mk8-ammunition"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-kts100-mk8-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "qd-grip-pod-kxvfctwtk9e"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "rail-cover-kts100-mk8-ergonomics"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-kts100-mk8-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 13,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-q06ot1nlvus"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-sau2ar1nq17"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "508mm-mk8-q29vnfcmbyf"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "45-rnd-kts100-mk8-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-kts100-mk8-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "mars-f-lpvo-kts100-mk8-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "qd-grip-pod-kxvfctwtk9e"
+              "attachmentId": "folding-vertical-gha4a9cqzck"
             },
             {
               "slotId": "ergonomics",
@@ -678,7 +448,7 @@
         },
         {
           "level": 14,
-          "totalPoints": 55,
+          "totalPoints": 65,
           "attachments": [
             {
               "slotId": "right-accessory",
@@ -699,12 +469,20 @@
             {
               "slotId": "magazine",
               "attachmentId": "45-rnd-kts100-mk8-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-kts100-mk8-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "iron-sights-lan8f9kfd8i"
             }
           ]
         },
         {
           "level": 40,
-          "totalPoints": 55,
+          "totalPoints": 65,
           "attachments": [
             {
               "slotId": "right-accessory",
@@ -725,6 +503,14 @@
             {
               "slotId": "magazine",
               "attachmentId": "45-rnd-kts100-mk8-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-kts100-mk8-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "iron-sights-lan8f9kfd8i"
             }
           ]
         }

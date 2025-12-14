@@ -36,6 +36,112 @@
         },
         {
           "level": 1,
+          "totalPoints": 55,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-drs-iar-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-drs-iar-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-drs-iar-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-drs-iar-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-drs-iar-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-drs-iar-muzzle"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-drs-iar-ergonomics"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "totalPoints": 50,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-drs-iar-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-drs-iar-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-drs-iar-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-drs-iar-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-drs-iar-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-drs-iar-muzzle"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-drs-iar-ergonomics"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "totalPoints": 60,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-drs-iar-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-drs-iar-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-drs-iar-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-drs-iar-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-drs-iar-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-drs-iar-muzzle"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-drs-iar-ergonomics"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-drs-iar-top-accessory"
+            }
+          ]
+        },
+        {
+          "level": 8,
           "totalPoints": 70,
           "attachments": [
             {
@@ -43,6 +149,10 @@
               "attachmentId": "fmj-drs-iar-ammunition"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-drs-iar-scope"
+            },
+            {
               "slotId": "barrel",
               "attachmentId": "heavy-drs-iar-barrel"
             },
@@ -51,250 +161,30 @@
               "attachmentId": "30-rnd-drs-iar-magazine"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-drs-iar-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-drs-iar-underbarrel"
+              "attachmentId": "folding-vertical-drs-iar-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-drs-iar-muzzle"
+              "attachmentId": "single-port-brake-drs-iar-muzzle"
             },
             {
               "slotId": "ergonomics",
               "attachmentId": "rail-cover-drs-iar-ergonomics"
-            }
-          ]
-        },
-        {
-          "level": 3,
-          "totalPoints": 75,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-drs-iar-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-drs-iar-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-drs-iar-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-drs-iar-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-drs-iar-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-drs-iar-muzzle"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "rail-cover-drs-iar-ergonomics"
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "totalPoints": 80,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-drs-iar-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-drs-iar-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-drs-iar-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-drs-iar-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-drs-iar-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-drs-iar-muzzle"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "magwell-flare-drs-iar-ergonomics"
-            }
-          ]
-        },
-        {
-          "level": 5,
-          "totalPoints": 90,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-drs-iar-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-drs-iar-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-drs-iar-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-drs-iar-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-drs-iar-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-drs-iar-muzzle"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "magwell-flare-drs-iar-ergonomics"
-            },
-            {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-red-drs-iar-top-accessory"
-            }
-          ]
-        },
-        {
-          "level": 6,
-          "totalPoints": 95,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-drs-iar-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-drs-iar-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-drs-iar-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-drs-iar-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-drs-iar-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-drs-iar-muzzle"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "magwell-flare-drs-iar-ergonomics"
-            },
-            {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-red-drs-iar-top-accessory"
-            }
-          ]
-        },
-        {
-          "level": 10,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-drs-iar-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-drs-iar-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-drs-iar-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-drs-iar-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-drs-iar-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-drs-iar-muzzle"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "magwell-flare-drs-iar-ergonomics"
             },
             {
               "slotId": "top-accessory",
               "attachmentId": "5-mw-red-drs-iar-top-accessory"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-drs-iar-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 11,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-drs-iar-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "extended-drs-iar-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-drs-iar-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-drs-iar-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-drs-iar-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-drs-iar-muzzle"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "magwell-flare-drs-iar-ergonomics"
-            },
-            {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-red-drs-iar-top-accessory"
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-drs-iar-right-accessory"
             }
           ]
         },
         {
           "level": 12,
-          "totalPoints": 100,
+          "totalPoints": 80,
           "attachments": [
             {
               "slotId": "magazine",
@@ -305,60 +195,38 @@
               "attachmentId": "fmj-drs-iar-ammunition"
             },
             {
-              "slotId": "barrel",
-              "attachmentId": "extended-drs-iar-barrel"
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-drs-iar-scope"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-drs-iar-scope"
+              "slotId": "barrel",
+              "attachmentId": "heavy-drs-iar-barrel"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-drs-iar-underbarrel"
+              "attachmentId": "folding-vertical-drs-iar-underbarrel"
             },
             {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-green-drs-iar-top-accessory"
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-drs-iar-muzzle"
             },
             {
               "slotId": "ergonomics",
               "attachmentId": "rail-cover-drs-iar-ergonomics"
-            }
-          ]
-        },
-        {
-          "level": 13,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "36-rnd-drs-iar-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-drs-iar-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "extended-drs-iar-barrel"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-drs-iar-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-drs-iar-underbarrel"
             },
             {
               "slotId": "top-accessory",
-              "attachmentId": "5-mw-green-drs-iar-top-accessory"
+              "attachmentId": "5-mw-red-drs-iar-top-accessory"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-drs-iar-right-accessory"
             }
           ]
         },
         {
           "level": 14,
-          "totalPoints": 100,
+          "totalPoints": 80,
           "attachments": [
             {
               "slotId": "magazine",
@@ -374,25 +242,33 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "su-230-lpvo-drs-iar-scope"
+              "attachmentId": "osa-7-100x-drs-iar-scope"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-drs-iar-underbarrel"
+              "attachmentId": "folding-vertical-drs-iar-underbarrel"
             },
             {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-green-drs-iar-top-accessory"
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-drs-iar-muzzle"
             },
             {
               "slotId": "ergonomics",
               "attachmentId": "rail-cover-drs-iar-ergonomics"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-drs-iar-top-accessory"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-drs-iar-right-accessory"
             }
           ]
         },
         {
           "level": 18,
-          "totalPoints": 100,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "magazine",
@@ -412,81 +288,25 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "su-230-lpvo-drs-iar-scope"
+              "attachmentId": "osa-7-100x-drs-iar-scope"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-drs-iar-underbarrel"
+              "attachmentId": "folding-vertical-drs-iar-underbarrel"
             },
             {
               "slotId": "ergonomics",
               "attachmentId": "rail-cover-drs-iar-ergonomics"
-            }
-          ]
-        },
-        {
-          "level": 21,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "36-rnd-drs-iar-magazine"
             },
             {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ext-drs-iar-barrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-drs-iar-ammunition"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-drs-iar-muzzle"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-drs-iar-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "ribbed-stubby-drs-iar-underbarrel"
-            }
-          ]
-        },
-        {
-          "level": 22,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "36-rnd-drs-iar-magazine"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ext-drs-iar-barrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-drs-iar-ammunition"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-drs-iar-muzzle"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "grim-150x-drs-iar-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-drs-iar-underbarrel"
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-drs-iar-top-accessory"
             }
           ]
         },
         {
           "level": 29,
-          "totalPoints": 100,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "magazine",
@@ -510,11 +330,15 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "ribbed-stubby-drs-iar-underbarrel"
+              "attachmentId": "folding-vertical-drs-iar-underbarrel"
             },
             {
               "slotId": "ergonomics",
-              "attachmentId": "magwell-flare-drs-iar-ergonomics"
+              "attachmentId": "rail-cover-drs-iar-ergonomics"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-drs-iar-top-accessory"
             }
           ]
         },
@@ -614,8 +438,12 @@
         },
         {
           "level": 1,
-          "totalPoints": 70,
+          "totalPoints": 55,
           "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-drs-iar-scope"
+            },
             {
               "slotId": "barrel",
               "attachmentId": "heavy-drs-iar-barrel"
@@ -629,12 +457,8 @@
               "attachmentId": "fmj-drs-iar-ammunition"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-drs-iar-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-drs-iar-underbarrel"
+              "attachmentId": "folding-vertical-drs-iar-underbarrel"
             },
             {
               "slotId": "muzzle",
@@ -648,7 +472,7 @@
         },
         {
           "level": 2,
-          "totalPoints": 60,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "scope",
@@ -668,11 +492,11 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-drs-iar-underbarrel"
+              "attachmentId": "folding-vertical-drs-iar-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-drs-iar-muzzle"
+              "attachmentId": "single-port-brake-drs-iar-muzzle"
             },
             {
               "slotId": "ergonomics",
@@ -682,7 +506,7 @@
         },
         {
           "level": 3,
-          "totalPoints": 65,
+          "totalPoints": 60,
           "attachments": [
             {
               "slotId": "scope",
@@ -706,7 +530,7 @@
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-drs-iar-muzzle"
+              "attachmentId": "single-port-brake-drs-iar-muzzle"
             },
             {
               "slotId": "ergonomics",
@@ -716,7 +540,7 @@
         },
         {
           "level": 4,
-          "totalPoints": 70,
+          "totalPoints": 65,
           "attachments": [
             {
               "slotId": "scope",
@@ -744,13 +568,13 @@
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-drs-iar-muzzle"
+              "attachmentId": "single-port-brake-drs-iar-muzzle"
             }
           ]
         },
         {
           "level": 5,
-          "totalPoints": 80,
+          "totalPoints": 75,
           "attachments": [
             {
               "slotId": "scope",
@@ -782,12 +606,12 @@
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-drs-iar-muzzle"
+              "attachmentId": "single-port-brake-drs-iar-muzzle"
             }
           ]
         },
         {
-          "level": 6,
+          "level": 8,
           "totalPoints": 85,
           "attachments": [
             {
@@ -812,151 +636,25 @@
             },
             {
               "slotId": "magazine",
-              "attachmentId": "30-fast-drs-iar-magazine"
+              "attachmentId": "30-rnd-drs-iar-magazine"
             },
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-drs-iar-ammunition"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-drs-iar-muzzle"
-            }
-          ]
-        },
-        {
-          "level": 8,
-          "totalPoints": 95,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "ro-m-175x-drs-iar-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-drs-iar-underbarrel"
-            },
-            {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-red-drs-iar-top-accessory"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "magwell-flare-drs-iar-ergonomics"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-drs-iar-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-drs-iar-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-drs-iar-ammunition"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-drs-iar-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "flashlight-drs-iar-right-accessory"
-            }
-          ]
-        },
-        {
-          "level": 10,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "ro-m-175x-drs-iar-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-drs-iar-underbarrel"
-            },
-            {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-red-drs-iar-top-accessory"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "magwell-flare-drs-iar-ergonomics"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-drs-iar-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-drs-iar-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-drs-iar-ammunition"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-drs-iar-muzzle"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "flashlight-drs-iar-right-accessory"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-drs-iar-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 11,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "ro-m-175x-drs-iar-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-drs-iar-underbarrel"
-            },
-            {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-red-drs-iar-top-accessory"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "magwell-flare-drs-iar-ergonomics"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "extended-drs-iar-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-drs-iar-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-drs-iar-ammunition"
-            },
-            {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-drs-iar-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "flashlight-drs-iar-right-accessory"
+              "attachmentId": "single-port-brake-drs-iar-muzzle"
             }
           ]
         },
         {
           "level": 12,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "scope",
@@ -980,25 +678,21 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "extended-drs-iar-barrel"
+              "attachmentId": "heavy-drs-iar-barrel"
             },
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-drs-iar-ammunition"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-drs-iar-muzzle"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-drs-iar-optic-accessory"
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-drs-iar-right-accessory"
             }
           ]
         },
         {
           "level": 13,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "scope",
@@ -1026,21 +720,17 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "extended-drs-iar-barrel"
+              "attachmentId": "heavy-drs-iar-barrel"
             },
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-drs-iar-ammunition"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-drs-iar-optic-accessory"
             }
           ]
         },
         {
           "level": 14,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "barrel",
@@ -1073,10 +763,6 @@
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-drs-iar-ammunition"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "flashlight-drs-iar-right-accessory"
             }
           ]
         },
@@ -1192,6 +878,112 @@
         },
         {
           "level": 1,
+          "totalPoints": 55,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-drs-iar-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-drs-iar-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-drs-iar-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-drs-iar-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-drs-iar-underbarrel"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-drs-iar-ergonomics"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-drs-iar-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "totalPoints": 50,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-drs-iar-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-drs-iar-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-drs-iar-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-drs-iar-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-drs-iar-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-drs-iar-muzzle"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-drs-iar-ergonomics"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "totalPoints": 60,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-drs-iar-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-drs-iar-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-drs-iar-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-drs-iar-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-drs-iar-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-drs-iar-muzzle"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "rail-cover-drs-iar-ergonomics"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-drs-iar-top-accessory"
+            }
+          ]
+        },
+        {
+          "level": 8,
           "totalPoints": 70,
           "attachments": [
             {
@@ -1199,38 +991,8 @@
               "attachmentId": "fmj-drs-iar-ammunition"
             },
             {
-              "slotId": "barrel",
-              "attachmentId": "heavy-drs-iar-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-drs-iar-magazine"
-            },
-            {
               "slotId": "scope",
-              "attachmentId": "su-230-lpvo-drs-iar-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-drs-iar-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-drs-iar-muzzle"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "rail-cover-drs-iar-ergonomics"
-            }
-          ]
-        },
-        {
-          "level": 3,
-          "totalPoints": 75,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-drs-iar-ammunition"
+              "attachmentId": "osa-7-100x-drs-iar-scope"
             },
             {
               "slotId": "barrel",
@@ -1241,25 +1003,29 @@
               "attachmentId": "30-rnd-drs-iar-magazine"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-drs-iar-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-drs-iar-underbarrel"
+              "attachmentId": "folding-vertical-drs-iar-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-drs-iar-muzzle"
+              "attachmentId": "single-port-brake-drs-iar-muzzle"
             },
             {
               "slotId": "ergonomics",
               "attachmentId": "rail-cover-drs-iar-ergonomics"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-drs-iar-top-accessory"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-drs-iar-right-accessory"
             }
           ]
         },
         {
-          "level": 4,
+          "level": 12,
           "totalPoints": 80,
           "attachments": [
             {
@@ -1267,254 +1033,42 @@
               "attachmentId": "fmj-drs-iar-ammunition"
             },
             {
-              "slotId": "barrel",
-              "attachmentId": "heavy-drs-iar-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-drs-iar-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-drs-iar-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-drs-iar-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-drs-iar-muzzle"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "magwell-flare-drs-iar-ergonomics"
-            }
-          ]
-        },
-        {
-          "level": 5,
-          "totalPoints": 90,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-drs-iar-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-drs-iar-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-drs-iar-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-drs-iar-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-drs-iar-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-drs-iar-muzzle"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "magwell-flare-drs-iar-ergonomics"
-            },
-            {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-red-drs-iar-top-accessory"
-            }
-          ]
-        },
-        {
-          "level": 6,
-          "totalPoints": 95,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-drs-iar-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-drs-iar-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-drs-iar-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-drs-iar-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-drs-iar-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-drs-iar-muzzle"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "magwell-flare-drs-iar-ergonomics"
-            },
-            {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-red-drs-iar-top-accessory"
-            }
-          ]
-        },
-        {
-          "level": 10,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-drs-iar-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-drs-iar-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-drs-iar-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-drs-iar-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-drs-iar-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-drs-iar-muzzle"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "magwell-flare-drs-iar-ergonomics"
-            },
-            {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-red-drs-iar-top-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-drs-iar-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 11,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-drs-iar-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "extended-drs-iar-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-drs-iar-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-drs-iar-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-drs-iar-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-drs-iar-muzzle"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "magwell-flare-drs-iar-ergonomics"
-            },
-            {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-red-drs-iar-top-accessory"
-            }
-          ]
-        },
-        {
-          "level": 12,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-drs-iar-ammunition"
-            },
-            {
               "slotId": "magazine",
               "attachmentId": "36-rnd-drs-iar-magazine"
             },
             {
-              "slotId": "barrel",
-              "attachmentId": "extended-drs-iar-barrel"
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-drs-iar-scope"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-drs-iar-scope"
+              "slotId": "barrel",
+              "attachmentId": "heavy-drs-iar-barrel"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-drs-iar-underbarrel"
+              "attachmentId": "folding-vertical-drs-iar-underbarrel"
             },
             {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-green-drs-iar-top-accessory"
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-drs-iar-muzzle"
             },
             {
               "slotId": "ergonomics",
               "attachmentId": "rail-cover-drs-iar-ergonomics"
-            }
-          ]
-        },
-        {
-          "level": 13,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-drs-iar-ammunition"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "36-rnd-drs-iar-magazine"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "extended-drs-iar-barrel"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-drs-iar-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-drs-iar-underbarrel"
             },
             {
               "slotId": "top-accessory",
-              "attachmentId": "5-mw-green-drs-iar-top-accessory"
+              "attachmentId": "5-mw-red-drs-iar-top-accessory"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-drs-iar-right-accessory"
             }
           ]
         },
         {
           "level": 14,
-          "totalPoints": 100,
+          "totalPoints": 80,
           "attachments": [
             {
               "slotId": "barrel",
@@ -1534,93 +1088,29 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-drs-iar-underbarrel"
-            },
-            {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-green-drs-iar-top-accessory"
+              "attachmentId": "folding-vertical-drs-iar-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-drs-iar-muzzle"
+              "attachmentId": "single-port-brake-drs-iar-muzzle"
             },
             {
               "slotId": "ergonomics",
               "attachmentId": "rail-cover-drs-iar-ergonomics"
-            }
-          ]
-        },
-        {
-          "level": 16,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ext-drs-iar-barrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-drs-iar-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "a-p2-175x-drs-iar-scope"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "36-rnd-drs-iar-magazine"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-drs-iar-underbarrel"
             },
             {
               "slotId": "top-accessory",
-              "attachmentId": "5-mw-green-drs-iar-top-accessory"
+              "attachmentId": "5-mw-red-drs-iar-top-accessory"
             },
             {
-              "slotId": "ergonomics",
-              "attachmentId": "match-trigger-drs-iar-ergonomics"
-            }
-          ]
-        },
-        {
-          "level": 21,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ext-drs-iar-barrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-drs-iar-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "a-p2-175x-drs-iar-scope"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "36-rnd-drs-iar-magazine"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "ribbed-stubby-drs-iar-underbarrel"
-            },
-            {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-green-drs-iar-top-accessory"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-drs-iar-muzzle"
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-drs-iar-right-accessory"
             }
           ]
         },
         {
           "level": 29,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "barrel",
@@ -1644,41 +1134,15 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "ribbed-stubby-drs-iar-underbarrel"
+              "attachmentId": "folding-vertical-drs-iar-underbarrel"
             },
             {
               "slotId": "ergonomics",
               "attachmentId": "rail-cover-drs-iar-ergonomics"
-            }
-          ]
-        },
-        {
-          "level": 33,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ext-drs-iar-barrel"
             },
             {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-drs-iar-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "a-p2-175x-drs-iar-scope"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "long-suppressor-drs-iar-muzzle"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "36-rnd-drs-iar-magazine"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-drs-iar-underbarrel"
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-drs-iar-top-accessory"
             }
           ]
         },

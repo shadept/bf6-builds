@@ -36,7 +36,7 @@
         },
         {
           "level": 1,
-          "totalPoints": 75,
+          "totalPoints": 60,
           "attachments": [
             {
               "slotId": "barrel",
@@ -52,11 +52,11 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m39-emr-scope"
+              "attachmentId": "pvq-31-400x-6kmnpmr01e4"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-m39-emr-underbarrel"
+              "attachmentId": "folding-vertical-m39-emr-underbarrel"
             },
             {
               "slotId": "right-accessory",
@@ -70,7 +70,7 @@
         },
         {
           "level": 2,
-          "totalPoints": 85,
+          "totalPoints": 70,
           "attachments": [
             {
               "slotId": "barrel",
@@ -86,11 +86,11 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m39-emr-scope"
+              "attachmentId": "pvq-31-400x-6kmnpmr01e4"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-m39-emr-underbarrel"
+              "attachmentId": "folding-vertical-m39-emr-underbarrel"
             },
             {
               "slotId": "right-accessory",
@@ -107,8 +107,8 @@
           ]
         },
         {
-          "level": 3,
-          "totalPoints": 90,
+          "level": 4,
+          "totalPoints": 65,
           "attachments": [
             {
               "slotId": "barrel",
@@ -124,93 +124,29 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m39-emr-scope"
+              "attachmentId": "pvq-31-400x-6kmnpmr01e4"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m39-emr-underbarrel"
+              "attachmentId": "folding-vertical-m39-emr-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-m39-emr-muzzle"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-red-m39-emr-right-accessory"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-39hn3z91qi5"
             },
             {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-m39-emr-left-accessory"
-            }
-          ]
-        },
-        {
-          "level": 6,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "18-ebr-vnf80788h3l"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "20rnd-magazine-2qm6q66vprm"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "full-metal-jacket-m0m9vi8d31"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m39-emr-scope"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "lightened-suppressor-m39-emr-muzzle"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m39-emr-underbarrel"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-m39-emr-right-accessory"
-            }
-          ]
-        },
-        {
-          "level": 8,
-          "totalPoints": 95,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "18-ebr-vnf80788h3l"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "20rnd-magazine-2qm6q66vprm"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "full-metal-jacket-m0m9vi8d31"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "mars-f-lpvo-m39-emr-scope"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "lightened-suppressor-m39-emr-muzzle"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m39-emr-underbarrel"
             }
           ]
         },
         {
           "level": 9,
-          "totalPoints": 100,
+          "totalPoints": 70,
           "attachments": [
             {
               "slotId": "barrel",
@@ -226,15 +162,23 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "mars-f-lpvo-m39-emr-scope"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "lightened-suppressor-m39-emr-muzzle"
+              "attachmentId": "s-vps-600x-21gkd4gcq87"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m39-emr-underbarrel"
+              "attachmentId": "folding-vertical-m39-emr-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-m39-emr-muzzle"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m39-emr-right-accessory"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-m39-emr-left-accessory"
             },
             {
               "slotId": "optic-accessory",
@@ -244,7 +188,7 @@
         },
         {
           "level": 14,
-          "totalPoints": 100,
+          "totalPoints": 75,
           "attachments": [
             {
               "slotId": "barrel",
@@ -264,60 +208,30 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "mars-f-lpvo-m39-emr-scope"
+              "attachmentId": "s-vps-600x-21gkd4gcq87"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-m39-emr-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "lightened-suppressor-m39-emr-muzzle"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-m39-emr-underbarrel"
-            }
-          ]
-        },
-        {
-          "level": 21,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "18-ebr-vnf80788h3l"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "20rnd-magazine-2qm6q66vprm"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-reflex-sight-6ffor31hiw6"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "full-metal-jacket-m0m9vi8d31"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "mars-f-lpvo-m39-emr-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-m39-emr-underbarrel"
+              "attachmentId": "single-port-brake-m39-emr-muzzle"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-red-m39-emr-right-accessory"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-m39-emr-left-accessory"
             }
           ]
         },
         {
-          "level": 26,
-          "totalPoints": 100,
+          "level": 19,
+          "totalPoints": 80,
           "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "st-prisim-250x-6whk1tg9rn2"
-            },
             {
               "slotId": "barrel",
               "attachmentId": "18-ebr-vnf80788h3l"
@@ -335,12 +249,24 @@
               "attachmentId": "full-metal-jacket-m0m9vi8d31"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "s-vps-600x-21gkd4gcq87"
+            },
+            {
               "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-m39-emr-underbarrel"
+              "attachmentId": "folding-vertical-m39-emr-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "standard-suppressor-m39-emr-muzzle"
+              "attachmentId": "single-port-brake-m39-emr-muzzle"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m39-emr-right-accessory"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-m39-emr-left-accessory"
             },
             {
               "slotId": "ergonomics",
@@ -349,8 +275,8 @@
           ]
         },
         {
-          "level": 28,
-          "totalPoints": 100,
+          "level": 26,
+          "totalPoints": 80,
           "attachments": [
             {
               "slotId": "scope",
@@ -374,17 +300,29 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-m39-emr-underbarrel"
+              "attachmentId": "folding-vertical-m39-emr-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "long-suppressor-m39-emr-muzzle"
+              "attachmentId": "single-port-brake-m39-emr-muzzle"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m39-emr-right-accessory"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-m39-emr-left-accessory"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-m39-emr-ergonomics"
             }
           ]
         },
         {
           "level": 29,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "scope",
@@ -412,7 +350,11 @@
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "long-suppressor-m39-emr-muzzle"
+              "attachmentId": "single-port-brake-m39-emr-muzzle"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m39-emr-right-accessory"
             }
           ]
         },
@@ -520,6 +462,158 @@
         },
         {
           "level": 1,
+          "totalPoints": 60,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "18-ebr-vnf80788h3l"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20rnd-magazine-2qm6q66vprm"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-m0m9vi8d31"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "pvq-31-400x-6kmnpmr01e4"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-m39-emr-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m39-emr-right-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-39hn3z91qi5"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "totalPoints": 70,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "18-ebr-vnf80788h3l"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20rnd-magazine-2qm6q66vprm"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-m0m9vi8d31"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "pvq-31-400x-6kmnpmr01e4"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-m39-emr-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m39-emr-right-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-39hn3z91qi5"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-m39-emr-left-accessory"
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "totalPoints": 65,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "18-ebr-vnf80788h3l"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20rnd-magazine-2qm6q66vprm"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-m0m9vi8d31"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "pvq-31-400x-6kmnpmr01e4"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-m39-emr-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-m39-emr-muzzle"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m39-emr-right-accessory"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-m39-emr-left-accessory"
+            }
+          ]
+        },
+        {
+          "level": 9,
+          "totalPoints": 70,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "18-ebr-vnf80788h3l"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20rnd-magazine-2qm6q66vprm"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-m0m9vi8d31"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "s-vps-600x-21gkd4gcq87"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-m39-emr-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-m39-emr-muzzle"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m39-emr-right-accessory"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-m39-emr-left-accessory"
+            },
+            {
+              "slotId": "optic-accessory",
+              "attachmentId": "canted-iron-sights-m39-emr-optic-accessory"
+            }
+          ]
+        },
+        {
+          "level": 14,
           "totalPoints": 75,
           "attachments": [
             {
@@ -535,200 +629,34 @@
               "attachmentId": "full-metal-jacket-m0m9vi8d31"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m39-emr-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-m39-emr-underbarrel"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-m39-emr-right-accessory"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-39hn3z91qi5"
-            }
-          ]
-        },
-        {
-          "level": 2,
-          "totalPoints": 85,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "18-ebr-vnf80788h3l"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "20rnd-magazine-2qm6q66vprm"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "full-metal-jacket-m0m9vi8d31"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m39-emr-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-m39-emr-underbarrel"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-m39-emr-right-accessory"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-39hn3z91qi5"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-m39-emr-left-accessory"
-            }
-          ]
-        },
-        {
-          "level": 3,
-          "totalPoints": 90,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "18-ebr-vnf80788h3l"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "20rnd-magazine-2qm6q66vprm"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "full-metal-jacket-m0m9vi8d31"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m39-emr-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m39-emr-underbarrel"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-m39-emr-right-accessory"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-39hn3z91qi5"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-m39-emr-left-accessory"
-            }
-          ]
-        },
-        {
-          "level": 6,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "18-ebr-vnf80788h3l"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "20rnd-magazine-2qm6q66vprm"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "full-metal-jacket-m0m9vi8d31"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m39-emr-scope"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "lightened-suppressor-m39-emr-muzzle"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m39-emr-underbarrel"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-m39-emr-right-accessory"
-            }
-          ]
-        },
-        {
-          "level": 8,
-          "totalPoints": 95,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "18-ebr-vnf80788h3l"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "20rnd-magazine-2qm6q66vprm"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "full-metal-jacket-m0m9vi8d31"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "mars-f-lpvo-m39-emr-scope"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "lightened-suppressor-m39-emr-muzzle"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m39-emr-underbarrel"
-            }
-          ]
-        },
-        {
-          "level": 9,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "18-ebr-vnf80788h3l"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "20rnd-magazine-2qm6q66vprm"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "full-metal-jacket-m0m9vi8d31"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "mars-f-lpvo-m39-emr-scope"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "lightened-suppressor-m39-emr-muzzle"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m39-emr-underbarrel"
-            },
-            {
               "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-m39-emr-optic-accessory"
+              "attachmentId": "canted-reflex-sight-6ffor31hiw6"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "s-vps-600x-21gkd4gcq87"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-m39-emr-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-m39-emr-muzzle"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m39-emr-right-accessory"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-m39-emr-left-accessory"
             }
           ]
         },
         {
-          "level": 14,
-          "totalPoints": 100,
+          "level": 19,
+          "totalPoints": 80,
           "attachments": [
             {
               "slotId": "barrel",
@@ -748,55 +676,33 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "mars-f-lpvo-m39-emr-scope"
+              "attachmentId": "s-vps-600x-21gkd4gcq87"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-m39-emr-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "lightened-suppressor-m39-emr-muzzle"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-m39-emr-underbarrel"
-            }
-          ]
-        },
-        {
-          "level": 21,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "18-ebr-vnf80788h3l"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "20rnd-magazine-2qm6q66vprm"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "full-metal-jacket-m0m9vi8d31"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-reflex-sight-6ffor31hiw6"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "mars-f-lpvo-m39-emr-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-m39-emr-underbarrel"
+              "attachmentId": "single-port-brake-m39-emr-muzzle"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-red-m39-emr-right-accessory"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-m39-emr-left-accessory"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-m39-emr-ergonomics"
             }
           ]
         },
         {
           "level": 26,
-          "totalPoints": 100,
+          "totalPoints": 80,
           "attachments": [
             {
               "slotId": "barrel",
@@ -820,11 +726,19 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-m39-emr-underbarrel"
+              "attachmentId": "folding-vertical-m39-emr-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "standard-suppressor-m39-emr-muzzle"
+              "attachmentId": "single-port-brake-m39-emr-muzzle"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m39-emr-right-accessory"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-m39-emr-left-accessory"
             },
             {
               "slotId": "ergonomics",
@@ -834,7 +748,7 @@
         },
         {
           "level": 27,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "barrel",
@@ -862,7 +776,15 @@
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "lightened-suppressor-m39-emr-muzzle"
+              "attachmentId": "single-port-brake-m39-emr-muzzle"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-m39-emr-right-accessory"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-m39-emr-ergonomics"
             }
           ]
         },

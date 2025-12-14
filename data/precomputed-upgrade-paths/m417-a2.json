@@ -36,36 +36,6 @@
         },
         {
           "level": 1,
-          "totalPoints": 65,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "20rnd-magazine-adp4dccmhw4"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-m417-a2-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-m417-a2-barrel"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m417-a2-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-m417-a2-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "linear-comp-m417-a2-muzzle"
-            }
-          ]
-        },
-        {
-          "level": 2,
           "totalPoints": 55,
           "attachments": [
             {
@@ -78,25 +48,25 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "mini-flex-100x-m417-a2-scope"
+              "attachmentId": "osa-7-100x-1dvt8k6w3f"
             },
             {
               "slotId": "barrel",
               "attachmentId": "basic-m417-a2-barrel"
             },
             {
-              "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-m417-a2-underbarrel"
-            },
-            {
               "slotId": "muzzle",
               "attachmentId": "linear-comp-m417-a2-muzzle"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "slim-handstop-m417-a2-underbarrel"
             }
           ]
         },
         {
-          "level": 3,
-          "totalPoints": 65,
+          "level": 2,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "magazine",
@@ -116,7 +86,37 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-m417-a2-underbarrel"
+              "attachmentId": "folding-vertical-nl0w3802ebl"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-m417-a2-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "totalPoints": 60,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "20rnd-magazine-adp4dccmhw4"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m417-a2-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-m417-a2-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-m417-a2-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-nl0w3802ebl"
             },
             {
               "slotId": "muzzle",
@@ -130,7 +130,7 @@
         },
         {
           "level": 4,
-          "totalPoints": 75,
+          "totalPoints": 70,
           "attachments": [
             {
               "slotId": "magazine",
@@ -154,7 +154,7 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-m417-a2-underbarrel"
+              "attachmentId": "folding-vertical-nl0w3802ebl"
             },
             {
               "slotId": "muzzle",
@@ -168,7 +168,7 @@
         },
         {
           "level": 5,
-          "totalPoints": 80,
+          "totalPoints": 75,
           "attachments": [
             {
               "slotId": "magazine",
@@ -192,7 +192,7 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-m417-a2-underbarrel"
+              "attachmentId": "folding-vertical-nl0w3802ebl"
             },
             {
               "slotId": "muzzle",
@@ -205,7 +205,7 @@
           ]
         },
         {
-          "level": 6,
+          "level": 7,
           "totalPoints": 85,
           "attachments": [
             {
@@ -229,8 +229,12 @@
               "attachmentId": "mini-flex-100x-m417-a2-scope"
             },
             {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-m417-a2-right-accessory"
+            },
+            {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m417-a2-underbarrel"
+              "attachmentId": "folding-vertical-nl0w3802ebl"
             },
             {
               "slotId": "muzzle",
@@ -239,136 +243,6 @@
             {
               "slotId": "ergonomics",
               "attachmentId": "magwell-flare-qwfjfuk2vjh"
-            }
-          ]
-        },
-        {
-          "level": 7,
-          "totalPoints": 95,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "20rnd-magazine-adp4dccmhw4"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "165-rifle-lx6ahcromik"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-m417-a2-ammunition"
-            },
-            {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-red-m417-a2-top-accessory"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "mini-flex-100x-m417-a2-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m417-a2-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "linear-comp-m417-a2-muzzle"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "magwell-flare-qwfjfuk2vjh"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "flashlight-m417-a2-right-accessory"
-            }
-          ]
-        },
-        {
-          "level": 10,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "20rnd-magazine-adp4dccmhw4"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "165-rifle-lx6ahcromik"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-m417-a2-ammunition"
-            },
-            {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-red-m417-a2-top-accessory"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "mini-flex-100x-m417-a2-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m417-a2-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "linear-comp-m417-a2-muzzle"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "magwell-flare-qwfjfuk2vjh"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "flashlight-m417-a2-right-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-m417-a2-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 13,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "20rnd-magazine-adp4dccmhw4"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "165-rifle-lx6ahcromik"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-m417-a2-ammunition"
-            },
-            {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-red-m417-a2-top-accessory"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "mini-flex-100x-m417-a2-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m417-a2-underbarrel"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "match-trigger-m417-a2-ergonomics"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "linear-comp-m417-a2-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "flashlight-m417-a2-right-accessory"
             }
           ]
         },
@@ -476,11 +350,15 @@
         },
         {
           "level": 1,
-          "totalPoints": 65,
+          "totalPoints": 55,
           "attachments": [
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-m417-a2-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-1dvt8k6w3f"
             },
             {
               "slotId": "barrel",
@@ -489,10 +367,6 @@
             {
               "slotId": "magazine",
               "attachmentId": "20rnd-magazine-adp4dccmhw4"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m417-a2-scope"
             },
             {
               "slotId": "underbarrel",
@@ -505,12 +379,16 @@
           ]
         },
         {
-          "level": 3,
-          "totalPoints": 75,
+          "level": 2,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-m417-a2-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-m417-a2-scope"
             },
             {
               "slotId": "barrel",
@@ -521,12 +399,38 @@
               "attachmentId": "20rnd-magazine-adp4dccmhw4"
             },
             {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-nl0w3802ebl"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-m417-a2-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "totalPoints": 60,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-m417-a2-ammunition"
+            },
+            {
               "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m417-a2-scope"
+              "attachmentId": "mini-flex-100x-m417-a2-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-m417-a2-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "20rnd-magazine-adp4dccmhw4"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-m417-a2-underbarrel"
+              "attachmentId": "folding-vertical-nl0w3802ebl"
             },
             {
               "slotId": "muzzle",
@@ -540,11 +444,15 @@
         },
         {
           "level": 4,
-          "totalPoints": 85,
+          "totalPoints": 70,
           "attachments": [
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-m417-a2-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-m417-a2-scope"
             },
             {
               "slotId": "barrel",
@@ -555,12 +463,8 @@
               "attachmentId": "20rnd-magazine-adp4dccmhw4"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m417-a2-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-m417-a2-underbarrel"
+              "attachmentId": "folding-vertical-nl0w3802ebl"
             },
             {
               "slotId": "muzzle",
@@ -578,7 +482,7 @@
         },
         {
           "level": 5,
-          "totalPoints": 90,
+          "totalPoints": 75,
           "attachments": [
             {
               "slotId": "ammunition",
@@ -589,16 +493,16 @@
               "attachmentId": "165-rifle-lx6ahcromik"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-m417-a2-scope"
+            },
+            {
               "slotId": "magazine",
               "attachmentId": "20rnd-magazine-adp4dccmhw4"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m417-a2-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-m417-a2-underbarrel"
+              "attachmentId": "folding-vertical-nl0w3802ebl"
             },
             {
               "slotId": "muzzle",
@@ -615,8 +519,8 @@
           ]
         },
         {
-          "level": 6,
-          "totalPoints": 95,
+          "level": 7,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "ammunition",
@@ -627,54 +531,16 @@
               "attachmentId": "165-rifle-lx6ahcromik"
             },
             {
-              "slotId": "magazine",
-              "attachmentId": "20rnd-magazine-adp4dccmhw4"
-            },
-            {
               "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m417-a2-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m417-a2-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "linear-comp-m417-a2-muzzle"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "magwell-flare-qwfjfuk2vjh"
-            },
-            {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-red-m417-a2-top-accessory"
-            }
-          ]
-        },
-        {
-          "level": 10,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-m417-a2-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "165-rifle-lx6ahcromik"
+              "attachmentId": "mini-flex-100x-m417-a2-scope"
             },
             {
               "slotId": "magazine",
               "attachmentId": "20rnd-magazine-adp4dccmhw4"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m417-a2-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m417-a2-underbarrel"
+              "attachmentId": "folding-vertical-nl0w3802ebl"
             },
             {
               "slotId": "muzzle",
@@ -689,52 +555,14 @@
               "attachmentId": "5-mw-red-m417-a2-top-accessory"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-m417-a2-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 13,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-m417-a2-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "165-rifle-lx6ahcromik"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "20rnd-magazine-adp4dccmhw4"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m417-a2-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m417-a2-underbarrel"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "match-trigger-m417-a2-ergonomics"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "linear-comp-m417-a2-muzzle"
-            },
-            {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-red-m417-a2-top-accessory"
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-m417-a2-right-accessory"
             }
           ]
         },
         {
           "level": 14,
-          "totalPoints": 100,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "ammunition",
@@ -749,56 +577,30 @@
               "attachmentId": "compensated-brake-m417-a2-muzzle"
             },
             {
-              "slotId": "magazine",
-              "attachmentId": "20rnd-magazine-adp4dccmhw4"
-            },
-            {
               "slotId": "scope",
-              "attachmentId": "su-230-lpvo-m417-a2-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-m417-a2-underbarrel"
-            }
-          ]
-        },
-        {
-          "level": 17,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-m417-a2-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "165-rifle-lx6ahcromik"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-m417-a2-muzzle"
+              "attachmentId": "mini-flex-100x-m417-a2-scope"
             },
             {
               "slotId": "magazine",
               "attachmentId": "20rnd-magazine-adp4dccmhw4"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "grim-150x-m417-a2-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-m417-a2-underbarrel"
+              "attachmentId": "folding-vertical-nl0w3802ebl"
             },
             {
               "slotId": "ergonomics",
               "attachmentId": "magwell-flare-qwfjfuk2vjh"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-m417-a2-top-accessory"
             }
           ]
         },
         {
-          "level": 18,
-          "totalPoints": 100,
+          "level": 15,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "ammunition",
@@ -813,56 +615,30 @@
               "attachmentId": "compensated-brake-m417-a2-muzzle"
             },
             {
-              "slotId": "magazine",
-              "attachmentId": "20rnd-magazine-adp4dccmhw4"
-            },
-            {
               "slotId": "scope",
-              "attachmentId": "grim-150x-m417-a2-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-ah1ooevswhq"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-m417-a2-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 24,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-m417-a2-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "165-rifle-lx6ahcromik"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-m417-a2-muzzle"
+              "attachmentId": "mini-flex-100x-m417-a2-scope"
             },
             {
               "slotId": "magazine",
-              "attachmentId": "20-fast-m417-a2-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "grim-150x-m417-a2-scope"
+              "attachmentId": "10-rnd-m417-a2-magazine"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-ah1ooevswhq"
+              "attachmentId": "folding-vertical-nl0w3802ebl"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "magwell-flare-qwfjfuk2vjh"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-m417-a2-top-accessory"
             }
           ]
         },
         {
           "level": 25,
-          "totalPoints": 105,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "ammunition",
@@ -881,18 +657,18 @@
               "attachmentId": "ribbed-stubby-m417-a2-underbarrel"
             },
             {
-              "slotId": "magazine",
-              "attachmentId": "20-fast-m417-a2-magazine"
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-m417-a2-scope"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "grim-150x-m417-a2-scope"
+              "slotId": "magazine",
+              "attachmentId": "10-rnd-m417-a2-magazine"
             }
           ]
         },
         {
           "level": 29,
-          "totalPoints": 110,
+          "totalPoints": 95,
           "attachments": [
             {
               "slotId": "ammunition",
@@ -916,7 +692,7 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "grim-150x-m417-a2-scope"
+              "attachmentId": "mini-flex-100x-m417-a2-scope"
             }
           ]
         },

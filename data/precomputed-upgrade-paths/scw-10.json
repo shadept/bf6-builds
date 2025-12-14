@@ -36,7 +36,7 @@
         },
         {
           "level": 1,
-          "totalPoints": 45,
+          "totalPoints": 30,
           "attachments": [
             {
               "slotId": "barrel",
@@ -47,18 +47,18 @@
               "attachmentId": "fmj-scw-10-ammunition"
             },
             {
-              "slotId": "magazine",
-              "attachmentId": "15-rnd-scw-10-magazine"
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-scw-10-scope"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "mars-f-lpvo-scw-10-scope"
+              "slotId": "magazine",
+              "attachmentId": "15-rnd-scw-10-magazine"
             }
           ]
         },
         {
           "level": 2,
-          "totalPoints": 55,
+          "totalPoints": 40,
           "attachments": [
             {
               "slotId": "barrel",
@@ -69,12 +69,12 @@
               "attachmentId": "fmj-scw-10-ammunition"
             },
             {
-              "slotId": "magazine",
-              "attachmentId": "15-rnd-scw-10-magazine"
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-scw-10-scope"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "mars-f-lpvo-scw-10-scope"
+              "slotId": "magazine",
+              "attachmentId": "15-rnd-scw-10-magazine"
             },
             {
               "slotId": "underbarrel",
@@ -84,7 +84,7 @@
         },
         {
           "level": 4,
-          "totalPoints": 65,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "barrel",
@@ -95,12 +95,12 @@
               "attachmentId": "fmj-scw-10-ammunition"
             },
             {
-              "slotId": "magazine",
-              "attachmentId": "15-rnd-scw-10-magazine"
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-scw-10-scope"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "mars-f-lpvo-scw-10-scope"
+              "slotId": "magazine",
+              "attachmentId": "15-rnd-scw-10-magazine"
             },
             {
               "slotId": "underbarrel",
@@ -167,17 +167,131 @@
               "attachmentId": "folding-vertical-scw-10-underbarrel"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-scw-10-muzzle"
-            },
-            {
               "slotId": "top-accessory",
               "attachmentId": "5-mw-red-scw-10-top-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-scw-10-muzzle"
             }
           ]
         },
         {
-          "level": 8,
+          "level": 7,
+          "totalPoints": 60,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-scw-10-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-scw-10-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-scw-10-ammunition"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "15-rnd-scw-10-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-scw-10-underbarrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-scw-10-top-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-scw-10-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 12,
+          "totalPoints": 70,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-scw-10-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-scw-10-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-scw-10-ammunition"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "15-rnd-scw-10-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-scw-10-underbarrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-scw-10-top-accessory"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-scw-10-right-accessory"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-scw-10-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 21,
+          "totalPoints": 75,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-scw-10-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-scw-10-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-scw-10-ammunition"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "15-rnd-scw-10-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-scw-10-underbarrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-scw-10-top-accessory"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-scw-10-right-accessory"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-scw-10-ergonomics"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-scw-10-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 25,
           "totalPoints": 85,
           "attachments": [
             {
@@ -189,38 +303,8 @@
               "attachmentId": "basic-scw-10-barrel"
             },
             {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-scw-10-ammunition"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "15-rnd-scw-10-magazine"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-scw-10-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-scw-10-muzzle"
-            },
-            {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-red-scw-10-top-accessory"
-            }
-          ]
-        },
-        {
-          "level": 12,
-          "totalPoints": 95,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "mini-flex-100x-scw-10-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-scw-10-barrel"
+              "attachmentId": "ribbed-stubby-scw-10-underbarrel"
             },
             {
               "slotId": "ammunition",
@@ -229,14 +313,6 @@
             {
               "slotId": "magazine",
               "attachmentId": "15-rnd-scw-10-magazine"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-scw-10-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-scw-10-muzzle"
             },
             {
               "slotId": "top-accessory",
@@ -245,164 +321,10 @@
             {
               "slotId": "right-accessory",
               "attachmentId": "flashlight-scw-10-right-accessory"
-            }
-          ]
-        },
-        {
-          "level": 13,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "mini-flex-100x-scw-10-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-scw-10-barrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-scw-10-ammunition"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "15-fast-scw-10-magazine"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "low-profile-stubby-scw-10-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-scw-10-muzzle"
-            },
-            {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-red-scw-10-top-accessory"
-            }
-          ]
-        },
-        {
-          "level": 14,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "mini-flex-100x-scw-10-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-scw-10-barrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-scw-10-ammunition"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "15-fast-scw-10-magazine"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "low-profile-stubby-scw-10-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "standard-suppressor-scw-10-muzzle"
-            }
-          ]
-        },
-        {
-          "level": 22,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "mini-flex-100x-scw-10-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-scw-10-barrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-scw-10-ammunition"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "20-rnd-scw-10-magazine"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "low-profile-stubby-scw-10-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-scw-10-muzzle"
-            }
-          ]
-        },
-        {
-          "level": 25,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "mini-flex-100x-scw-10-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-scw-10-barrel"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "ribbed-stubby-scw-10-underbarrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-scw-10-ammunition"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "20-rnd-scw-10-magazine"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "standard-suppressor-scw-10-muzzle"
             },
             {
               "slotId": "ergonomics",
               "attachmentId": "improved-mag-catch-scw-10-ergonomics"
-            }
-          ]
-        },
-        {
-          "level": 26,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "mini-flex-100x-scw-10-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-scw-10-barrel"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "ribbed-stubby-scw-10-underbarrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-scw-10-ammunition"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "20-rnd-scw-10-magazine"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "long-suppressor-scw-10-muzzle"
             }
           ]
         },
@@ -494,7 +416,7 @@
         },
         {
           "level": 1,
-          "totalPoints": 50,
+          "totalPoints": 35,
           "attachments": [
             {
               "slotId": "barrel",
@@ -505,18 +427,18 @@
               "attachmentId": "fmj-scw-10-ammunition"
             },
             {
-              "slotId": "magazine",
-              "attachmentId": "15-rnd-scw-10-magazine"
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-scw-10-scope"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "mars-f-lpvo-scw-10-scope"
+              "slotId": "magazine",
+              "attachmentId": "15-rnd-scw-10-magazine"
             }
           ]
         },
         {
           "level": 2,
-          "totalPoints": 60,
+          "totalPoints": 45,
           "attachments": [
             {
               "slotId": "barrel",
@@ -527,51 +449,47 @@
               "attachmentId": "fmj-scw-10-ammunition"
             },
             {
-              "slotId": "magazine",
-              "attachmentId": "15-rnd-scw-10-magazine"
-            },
-            {
               "slotId": "scope",
-              "attachmentId": "mars-f-lpvo-scw-10-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "folding-vertical-scw-10-underbarrel"
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "totalPoints": 70,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "extended-scw-10-barrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-scw-10-ammunition"
+              "attachmentId": "osa-7-100x-scw-10-scope"
             },
             {
               "slotId": "magazine",
               "attachmentId": "15-rnd-scw-10-magazine"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "mars-f-lpvo-scw-10-scope"
-            },
-            {
               "slotId": "underbarrel",
               "attachmentId": "folding-vertical-scw-10-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-scw-10-muzzle"
             }
           ]
         },
         {
           "level": 5,
+          "totalPoints": 45,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "extended-scw-10-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-scw-10-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-scw-10-scope"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "15-rnd-scw-10-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-scw-10-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 6,
           "totalPoints": 55,
           "attachments": [
             {
@@ -595,13 +513,13 @@
               "attachmentId": "folding-vertical-scw-10-underbarrel"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-scw-10-muzzle"
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-scw-10-top-accessory"
             }
           ]
         },
         {
-          "level": 6,
+          "level": 7,
           "totalPoints": 65,
           "attachments": [
             {
@@ -626,41 +544,7 @@
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-scw-10-muzzle"
-            },
-            {
-              "slotId": "top-accessory",
-              "attachmentId": "5-mw-red-scw-10-top-accessory"
-            }
-          ]
-        },
-        {
-          "level": 8,
-          "totalPoints": 90,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "extended-scw-10-barrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-scw-10-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "mini-flex-100x-scw-10-scope"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "15-rnd-scw-10-magazine"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-scw-10-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-scw-10-muzzle"
+              "attachmentId": "linear-comp-scw-10-muzzle"
             },
             {
               "slotId": "top-accessory",
@@ -670,7 +554,7 @@
         },
         {
           "level": 12,
-          "totalPoints": 100,
+          "totalPoints": 75,
           "attachments": [
             {
               "slotId": "barrel",
@@ -690,11 +574,11 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-scw-10-underbarrel"
+              "attachmentId": "folding-vertical-scw-10-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-scw-10-muzzle"
+              "attachmentId": "linear-comp-scw-10-muzzle"
             },
             {
               "slotId": "top-accessory",
@@ -707,38 +591,8 @@
           ]
         },
         {
-          "level": 13,
-          "totalPoints": 95,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "extended-scw-10-barrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-scw-10-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "mini-flex-100x-scw-10-scope"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "15-fast-scw-10-magazine"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "low-profile-stubby-scw-10-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-scw-10-muzzle"
-            }
-          ]
-        },
-        {
           "level": 14,
-          "totalPoints": 95,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -758,17 +612,25 @@
             },
             {
               "slotId": "magazine",
-              "attachmentId": "15-fast-scw-10-magazine"
+              "attachmentId": "15-rnd-scw-10-magazine"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-scw-10-underbarrel"
+              "attachmentId": "folding-vertical-scw-10-underbarrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-scw-10-top-accessory"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-scw-10-right-accessory"
             }
           ]
         },
         {
           "level": 21,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -788,11 +650,19 @@
             },
             {
               "slotId": "magazine",
-              "attachmentId": "15-fast-scw-10-magazine"
+              "attachmentId": "15-rnd-scw-10-magazine"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-scw-10-underbarrel"
+              "attachmentId": "folding-vertical-scw-10-underbarrel"
+            },
+            {
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-scw-10-top-accessory"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "flashlight-scw-10-right-accessory"
             },
             {
               "slotId": "ergonomics",
@@ -802,7 +672,7 @@
         },
         {
           "level": 22,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "magazine",
@@ -826,41 +696,11 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-scw-10-underbarrel"
+              "attachmentId": "folding-vertical-scw-10-underbarrel"
             },
             {
-              "slotId": "ergonomics",
-              "attachmentId": "improved-mag-catch-scw-10-ergonomics"
-            }
-          ]
-        },
-        {
-          "level": 25,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "20-rnd-scw-10-magazine"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "standard-suppressor-scw-10-muzzle"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "extended-scw-10-barrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-scw-10-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "mini-flex-100x-scw-10-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "ribbed-stubby-scw-10-underbarrel"
+              "slotId": "top-accessory",
+              "attachmentId": "5-mw-red-scw-10-top-accessory"
             }
           ]
         },
@@ -960,7 +800,7 @@
         },
         {
           "level": 1,
-          "totalPoints": 50,
+          "totalPoints": 35,
           "attachments": [
             {
               "slotId": "barrel",
@@ -976,13 +816,13 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "mars-f-lpvo-scw-10-scope"
+              "attachmentId": "osa-7-100x-scw-10-scope"
             }
           ]
         },
         {
           "level": 2,
-          "totalPoints": 60,
+          "totalPoints": 45,
           "attachments": [
             {
               "slotId": "barrel",
@@ -998,7 +838,7 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "mars-f-lpvo-scw-10-scope"
+              "attachmentId": "osa-7-100x-scw-10-scope"
             },
             {
               "slotId": "underbarrel",
@@ -1008,7 +848,7 @@
         },
         {
           "level": 4,
-          "totalPoints": 70,
+          "totalPoints": 55,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -1028,7 +868,7 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "mars-f-lpvo-scw-10-scope"
+              "attachmentId": "osa-7-100x-scw-10-scope"
             },
             {
               "slotId": "underbarrel",

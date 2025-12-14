@@ -36,6 +36,28 @@
         },
         {
           "level": 1,
+          "totalPoints": 30,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "17-rnd-kv9-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-kv9-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-kv9-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-kv9-barrel"
+            }
+          ]
+        },
+        {
+          "level": 2,
           "totalPoints": 40,
           "attachments": [
             {
@@ -55,13 +77,13 @@
               "attachmentId": "basic-kv9-barrel"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-kv9-muzzle"
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-kv9-underbarrel"
             }
           ]
         },
         {
-          "level": 2,
+          "level": 4,
           "totalPoints": 50,
           "attachments": [
             {
@@ -79,40 +101,6 @@
             {
               "slotId": "barrel",
               "attachmentId": "basic-kv9-barrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-kv9-muzzle"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "folding-vertical-kv9-underbarrel"
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "totalPoints": 60,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "17-rnd-kv9-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-kv9-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "osa-7-100x-kv9-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-kv9-barrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-kv9-muzzle"
             },
             {
               "slotId": "underbarrel",

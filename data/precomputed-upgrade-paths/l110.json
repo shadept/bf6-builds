@@ -36,7 +36,7 @@
         },
         {
           "level": 1,
-          "totalPoints": 90,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "magazine",
@@ -47,30 +47,26 @@
               "attachmentId": "full-metal-jacket-50xx5hp3ck"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "cco-200x-l110-scope"
+            },
+            {
               "slotId": "barrel",
               "attachmentId": "349mm-sb-wnqjfsl0w3a"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-l110-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "classic-grip-pod-l110-underbarrel"
+              "attachmentId": "folding-vertical-vkekhzptfum"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-green-l110-right-accessory"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-i1aksc9y47m"
             }
           ]
         },
         {
           "level": 2,
-          "totalPoints": 80,
+          "totalPoints": 55,
           "attachments": [
             {
               "slotId": "magazine",
@@ -90,21 +86,21 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "classic-grip-pod-l110-underbarrel"
+              "attachmentId": "folding-vertical-vkekhzptfum"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-l110-muzzle"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-green-l110-right-accessory"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-i1aksc9y47m"
             }
           ]
         },
         {
           "level": 3,
-          "totalPoints": 80,
+          "totalPoints": 55,
           "attachments": [
             {
               "slotId": "barrel",
@@ -124,21 +120,21 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "classic-grip-pod-l110-underbarrel"
+              "attachmentId": "folding-vertical-vkekhzptfum"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-l110-muzzle"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-green-l110-right-accessory"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-i1aksc9y47m"
             }
           ]
         },
         {
           "level": 8,
-          "totalPoints": 90,
+          "totalPoints": 65,
           "attachments": [
             {
               "slotId": "barrel",
@@ -158,91 +154,11 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "classic-grip-pod-l110-underbarrel"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-green-l110-right-accessory"
+              "attachmentId": "folding-vertical-vkekhzptfum"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-i1aksc9y47m"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-l110-left-accessory"
-            }
-          ]
-        },
-        {
-          "level": 10,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ext-l110-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "100-rnd-l110-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "full-metal-jacket-50xx5hp3ck"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "baker-300x-l110-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "classic-grip-pod-l110-underbarrel"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-green-l110-right-accessory"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-i1aksc9y47m"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-l110-left-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-0dmn89bmo3g"
-            }
-          ]
-        },
-        {
-          "level": 17,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ext-l110-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "100-rnd-l110-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "full-metal-jacket-50xx5hp3ck"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "baker-300x-l110-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "classic-grip-pod-l110-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-l110-muzzle"
+              "attachmentId": "single-port-brake-l110-muzzle"
             },
             {
               "slotId": "right-accessory",
@@ -251,46 +167,12 @@
             {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-l110-left-accessory"
-            }
-          ]
-        },
-        {
-          "level": 18,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ext-l110-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "100-rnd-l110-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "full-metal-jacket-50xx5hp3ck"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "baker-300x-l110-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "classic-grip-pod-l110-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-l110-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "50-mw-green-l110-right-accessory"
             }
           ]
         },
         {
           "level": 28,
-          "totalPoints": 95,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "barrel",
@@ -310,7 +192,7 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "classic-grip-pod-l110-underbarrel"
+              "attachmentId": "folding-vertical-vkekhzptfum"
             },
             {
               "slotId": "muzzle",
@@ -319,80 +201,16 @@
             {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-green-l110-right-accessory"
-            }
-          ]
-        },
-        {
-          "level": 32,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ext-l110-barrel"
             },
             {
-              "slotId": "magazine",
-              "attachmentId": "100-rnd-l110-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "full-metal-jacket-50xx5hp3ck"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "baker-300x-l110-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-l110-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "long-suppressor-48sp7w58a3"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-green-l110-right-accessory"
-            }
-          ]
-        },
-        {
-          "level": 33,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ext-l110-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "100-rnd-l110-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "full-metal-jacket-50xx5hp3ck"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "baker-300x-l110-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "classic-vertical-l110-underbarrel"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "120-mw-blue-l110-right-accessory"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "single-port-brake-l110-muzzle"
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-l110-left-accessory"
             }
           ]
         },
         {
           "level": 35,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "barrel",
@@ -415,12 +233,8 @@
               "attachmentId": "stippled-stubby-qdj22oehpe"
             },
             {
-              "slotId": "right-accessory",
-              "attachmentId": "120-mw-blue-l110-right-accessory"
-            },
-            {
               "slotId": "muzzle",
-              "attachmentId": "single-port-brake-l110-muzzle"
+              "attachmentId": "long-suppressor-48sp7w58a3"
             }
           ]
         },
@@ -520,7 +334,7 @@
         },
         {
           "level": 1,
-          "totalPoints": 90,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "right-accessory",
@@ -535,26 +349,90 @@
               "attachmentId": "fmj-l110-ammunition"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-0uso2ayfeq9"
+            },
+            {
               "slotId": "barrel",
               "attachmentId": "349mm-sb-wnqjfsl0w3a"
             },
             {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-vkekhzptfum"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "totalPoints": 55,
+          "attachments": [
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-green-l110-right-accessory"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "100rnd-belt-pouch-h4qqqyry64"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-l110-ammunition"
+            },
+            {
               "slotId": "scope",
-              "attachmentId": "su-230-lpvo-l110-scope"
+              "attachmentId": "osa-7-100x-0uso2ayfeq9"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "349mm-sb-wnqjfsl0w3a"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "classic-grip-pod-l110-underbarrel"
+              "attachmentId": "folding-vertical-vkekhzptfum"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-i1aksc9y47m"
+              "attachmentId": "single-port-brake-l110-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "totalPoints": 55,
+          "attachments": [
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-green-l110-right-accessory"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "100rnd-belt-pouch-h4qqqyry64"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-l110-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-l110-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "349mm-sb-wnqjfsl0w3a"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-vkekhzptfum"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-l110-muzzle"
             }
           ]
         },
         {
           "level": 8,
-          "totalPoints": 100,
+          "totalPoints": 65,
           "attachments": [
             {
               "slotId": "right-accessory",
@@ -569,20 +447,20 @@
               "attachmentId": "fmj-l110-ammunition"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-l110-scope"
+            },
+            {
               "slotId": "barrel",
               "attachmentId": "349mm-sb-wnqjfsl0w3a"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-l110-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "classic-grip-pod-l110-underbarrel"
+              "attachmentId": "folding-vertical-vkekhzptfum"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-i1aksc9y47m"
+              "attachmentId": "single-port-brake-l110-muzzle"
             },
             {
               "slotId": "left-accessory",
@@ -592,7 +470,7 @@
         },
         {
           "level": 9,
-          "totalPoints": 90,
+          "totalPoints": 75,
           "attachments": [
             {
               "slotId": "right-accessory",
@@ -611,140 +489,26 @@
               "attachmentId": "fmj-l110-ammunition"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-l110-scope"
+            },
+            {
               "slotId": "barrel",
               "attachmentId": "349mm-sb-wnqjfsl0w3a"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-l110-scope"
-            },
-            {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-i1aksc9y47m"
+              "attachmentId": "single-port-brake-l110-muzzle"
             },
             {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-l110-left-accessory"
-            }
-          ]
-        },
-        {
-          "level": 10,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-green-l110-right-accessory"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "100rnd-belt-pouch-h4qqqyry64"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "folding-stubby-l110-underbarrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-l110-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "349mm-sb-wnqjfsl0w3a"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-l110-scope"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-i1aksc9y47m"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-l110-left-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-0dmn89bmo3g"
-            }
-          ]
-        },
-        {
-          "level": 17,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-green-l110-right-accessory"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "100rnd-belt-pouch-h4qqqyry64"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "folding-stubby-l110-underbarrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-l110-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "349mm-sb-wnqjfsl0w3a"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-l110-scope"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-l110-muzzle"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-l110-left-accessory"
-            }
-          ]
-        },
-        {
-          "level": 19,
-          "totalPoints": 95,
-          "attachments": [
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-green-l110-right-accessory"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "100rnd-belt-pouch-h4qqqyry64"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "folding-stubby-l110-underbarrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-l110-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "349mm-sb-wnqjfsl0w3a"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "grim-150x-l110-scope"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-l110-muzzle"
             }
           ]
         },
         {
           "level": 28,
-          "totalPoints": 100,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "right-accessory",
@@ -763,12 +527,12 @@
               "attachmentId": "fmj-l110-ammunition"
             },
             {
-              "slotId": "barrel",
-              "attachmentId": "349mm-sb-wnqjfsl0w3a"
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-l110-scope"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "grim-150x-l110-scope"
+              "slotId": "barrel",
+              "attachmentId": "349mm-sb-wnqjfsl0w3a"
             },
             {
               "slotId": "muzzle",
@@ -778,7 +542,7 @@
         },
         {
           "level": 32,
-          "totalPoints": 95,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "scope",
@@ -807,54 +571,12 @@
             {
               "slotId": "muzzle",
               "attachmentId": "long-suppressor-48sp7w58a3"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-l110-left-accessory"
-            }
-          ]
-        },
-        {
-          "level": 34,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "3vzr-175x-l110-scope"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-green-l110-right-accessory"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "100rnd-belt-pouch-h4qqqyry64"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "folding-stubby-l110-underbarrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-l110-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "349mm-sb-wnqjfsl0w3a"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "cqb-suppressor-mr2td67wdgr"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-l110-left-accessory"
             }
           ]
         },
         {
           "level": 37,
-          "totalPoints": 100,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "scope",
@@ -882,7 +604,11 @@
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "cqb-suppressor-mr2td67wdgr"
+              "attachmentId": "single-port-brake-l110-muzzle"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-l110-left-accessory"
             }
           ]
         },
@@ -990,7 +716,7 @@
         },
         {
           "level": 1,
-          "totalPoints": 90,
+          "totalPoints": 70,
           "attachments": [
             {
               "slotId": "magazine",
@@ -1003,28 +729,62 @@
             {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-green-l110-right-accessory"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-l110-scope"
             },
             {
               "slotId": "barrel",
               "attachmentId": "349mm-sb-wnqjfsl0w3a"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-l110-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "classic-grip-pod-l110-underbarrel"
+              "attachmentId": "folding-vertical-vkekhzptfum"
             },
             {
               "slotId": "muzzle",
               "attachmentId": "flash-hider-i1aksc9y47m"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "totalPoints": 65,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "100rnd-belt-pouch-h4qqqyry64"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-l110-ammunition"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-green-l110-right-accessory"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "su-230-lpvo-l110-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "349mm-sb-wnqjfsl0w3a"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-vkekhzptfum"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-l110-muzzle"
             }
           ]
         },
         {
           "level": 3,
-          "totalPoints": 90,
+          "totalPoints": 65,
           "attachments": [
             {
               "slotId": "barrel",
@@ -1048,17 +808,17 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "classic-grip-pod-l110-underbarrel"
+              "attachmentId": "folding-vertical-vkekhzptfum"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-i1aksc9y47m"
+              "attachmentId": "single-port-brake-l110-muzzle"
             }
           ]
         },
         {
           "level": 8,
-          "totalPoints": 100,
+          "totalPoints": 75,
           "attachments": [
             {
               "slotId": "barrel",
@@ -1081,22 +841,22 @@
               "attachmentId": "su-230-lpvo-l110-scope"
             },
             {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-l110-left-accessory"
+            },
+            {
               "slotId": "underbarrel",
-              "attachmentId": "classic-grip-pod-l110-underbarrel"
+              "attachmentId": "folding-vertical-vkekhzptfum"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-i1aksc9y47m"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-l110-left-accessory"
+              "attachmentId": "single-port-brake-l110-muzzle"
             }
           ]
         },
         {
           "level": 9,
-          "totalPoints": 90,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "barrel",
@@ -1123,60 +883,18 @@
               "attachmentId": "su-230-lpvo-l110-scope"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-i1aksc9y47m"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-l110-left-accessory"
-            }
-          ]
-        },
-        {
-          "level": 10,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "465mm-lb-2m2g3pww3bl"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "folding-stubby-l110-underbarrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "100rnd-belt-pouch-h4qqqyry64"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-l110-ammunition"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-green-l110-right-accessory"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-l110-scope"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-i1aksc9y47m"
-            },
-            {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-l110-left-accessory"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-0dmn89bmo3g"
+              "slotId": "muzzle",
+              "attachmentId": "single-port-brake-l110-muzzle"
             }
           ]
         },
         {
           "level": 13,
-          "totalPoints": 60,
+          "totalPoints": 65,
           "attachments": [
             {
               "slotId": "barrel",
@@ -1201,12 +919,16 @@
             {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-green-l110-right-accessory"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "iron-sights-97ojy79tz9"
             }
           ]
         },
         {
           "level": 40,
-          "totalPoints": 60,
+          "totalPoints": 65,
           "attachments": [
             {
               "slotId": "barrel",
@@ -1231,6 +953,10 @@
             {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-green-l110-right-accessory"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "iron-sights-97ojy79tz9"
             }
           ]
         }

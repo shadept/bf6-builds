@@ -36,11 +36,15 @@
         },
         {
           "level": 1,
-          "totalPoints": 65,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "barrel",
               "attachmentId": "314mm-standard-iw8wu6unx8"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-7b6k4hsikvs"
             },
             {
               "slotId": "magazine",
@@ -51,12 +55,8 @@
               "attachmentId": "fmj-ak-205-ammunition"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-ak-205-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-ak-205-underbarrel"
+              "attachmentId": "folding-vertical-qewek613c7e"
             },
             {
               "slotId": "muzzle",
@@ -66,7 +66,7 @@
         },
         {
           "level": 2,
-          "totalPoints": 55,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "scope",
@@ -86,16 +86,50 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-ak-205-underbarrel"
+              "attachmentId": "folding-vertical-qewek613c7e"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-693krtt894"
+              "attachmentId": "linear-comp-ak-205-muzzle"
             }
           ]
         },
         {
-          "level": 4,
+          "level": 5,
+          "totalPoints": 60,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "ro-m-150x-w85k63fa7rq"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "314mm-standard-iw8wu6unx8"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-ak-205-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-ak-205-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-qewek613c7e"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-ak-205-muzzle"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-dm3wvnykjdf"
+            }
+          ]
+        },
+        {
+          "level": 6,
           "totalPoints": 65,
           "attachments": [
             {
@@ -108,7 +142,7 @@
             },
             {
               "slotId": "magazine",
-              "attachmentId": "30rnd-fast-mag-ttafhmqhln"
+              "attachmentId": "30-rnd-ak-205-magazine"
             },
             {
               "slotId": "ammunition",
@@ -116,75 +150,11 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-ak-205-underbarrel"
+              "attachmentId": "folding-vertical-qewek613c7e"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-693krtt894"
-            }
-          ]
-        },
-        {
-          "level": 5,
-          "totalPoints": 75,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "ro-m-150x-w85k63fa7rq"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "314mm-standard-iw8wu6unx8"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30rnd-fast-mag-ttafhmqhln"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-ak-205-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-ak-205-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-693krtt894"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-dm3wvnykjdf"
-            }
-          ]
-        },
-        {
-          "level": 6,
-          "totalPoints": 80,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "ro-m-150x-w85k63fa7rq"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "314mm-standard-iw8wu6unx8"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30rnd-fast-mag-ttafhmqhln"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-ak-205-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-ak-205-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-693krtt894"
+              "attachmentId": "linear-comp-ak-205-muzzle"
             },
             {
               "slotId": "right-accessory",
@@ -198,7 +168,7 @@
         },
         {
           "level": 8,
-          "totalPoints": 90,
+          "totalPoints": 75,
           "attachments": [
             {
               "slotId": "scope",
@@ -210,7 +180,7 @@
             },
             {
               "slotId": "magazine",
-              "attachmentId": "30rnd-fast-mag-ttafhmqhln"
+              "attachmentId": "30-rnd-ak-205-magazine"
             },
             {
               "slotId": "ammunition",
@@ -218,189 +188,29 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-ak-205-underbarrel"
+              "attachmentId": "folding-vertical-qewek613c7e"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-693krtt894"
+              "attachmentId": "linear-comp-ak-205-muzzle"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-red-dm3wvnykjdf"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-ak-205-left-accessory"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "improved-mag-catch-7glihuwt3ok"
-            }
-          ]
-        },
-        {
-          "level": 10,
-          "totalPoints": 95,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "ro-m-150x-w85k63fa7rq"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "314mm-standard-iw8wu6unx8"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30rnd-fast-mag-ttafhmqhln"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-ak-205-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-ak-205-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-693krtt894"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-dm3wvnykjdf"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-ak-205-left-accessory"
             },
             {
               "slotId": "ergonomics",
               "attachmentId": "improved-mag-catch-7glihuwt3ok"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-ak-205-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 13,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "ro-m-150x-w85k63fa7rq"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "314mm-standard-iw8wu6unx8"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30rnd-fast-mag-ttafhmqhln"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-ak-205-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-ak-205-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-ak-205-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-dm3wvnykjdf"
-            },
-            {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-ak-205-left-accessory"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "improved-mag-catch-7glihuwt3ok"
-            }
-          ]
-        },
-        {
-          "level": 14,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "ro-m-150x-w85k63fa7rq"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "314mm-standard-iw8wu6unx8"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "36-rnd-ak-205-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-ak-205-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-ak-205-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-ak-205-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-dm3wvnykjdf"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-ak-205-left-accessory"
-            }
-          ]
-        },
-        {
-          "level": 15,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "ro-m-150x-w85k63fa7rq"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "314mm-standard-iw8wu6unx8"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "36-rnd-ak-205-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "polymer-case-ak-205-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-yt5zyxshry"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-ak-205-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-dm3wvnykjdf"
             }
           ]
         },
         {
           "level": 17,
-          "totalPoints": 100,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "scope",
@@ -416,71 +226,19 @@
             },
             {
               "slotId": "ammunition",
-              "attachmentId": "polymer-case-ak-205-ammunition"
+              "attachmentId": "fmj-ak-205-ammunition"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-yt5zyxshry"
+              "attachmentId": "folding-vertical-qewek613c7e"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "compensated-brake-ak-205-muzzle"
-            }
-          ]
-        },
-        {
-          "level": 22,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "ro-m-150x-w85k63fa7rq"
+              "attachmentId": "linear-comp-ak-205-muzzle"
             },
             {
-              "slotId": "barrel",
-              "attachmentId": "314mm-standard-iw8wu6unx8"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "40rnd-magazine-ogrd1ak8m4"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "polymer-case-ak-205-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "ribbed-stubby-uyhkf8dncq"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-reflex-sight-a07zus2tbc8"
-            }
-          ]
-        },
-        {
-          "level": 23,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "ro-m-150x-w85k63fa7rq"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "314mm-standard-iw8wu6unx8"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "40rnd-magazine-ogrd1ak8m4"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "hollow-point-ak-205-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "ribbed-stubby-uyhkf8dncq"
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-dm3wvnykjdf"
             },
             {
               "slotId": "ergonomics",
@@ -490,7 +248,7 @@
         },
         {
           "level": 24,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "scope",
@@ -510,11 +268,15 @@
             },
             {
               "slotId": "ammunition",
-              "attachmentId": "hollow-point-ak-205-ammunition"
+              "attachmentId": "fmj-ak-205-ammunition"
             },
             {
               "slotId": "underbarrel",
               "attachmentId": "folding-vertical-qewek613c7e"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-7glihuwt3ok"
             }
           ]
         },
@@ -606,7 +368,7 @@
         },
         {
           "level": 1,
-          "totalPoints": 55,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "scope",
@@ -626,7 +388,7 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-ak-205-underbarrel"
+              "attachmentId": "folding-vertical-qewek613c7e"
             },
             {
               "slotId": "muzzle",
@@ -636,7 +398,7 @@
         },
         {
           "level": 2,
-          "totalPoints": 65,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "scope",
@@ -644,7 +406,7 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "314mm-fluted-a0uz8chxswl"
+              "attachmentId": "314mm-standard-iw8wu6unx8"
             },
             {
               "slotId": "magazine",
@@ -656,17 +418,17 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-ak-205-underbarrel"
+              "attachmentId": "folding-vertical-qewek613c7e"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-693krtt894"
+              "attachmentId": "linear-comp-ak-205-muzzle"
             }
           ]
         },
         {
           "level": 3,
-          "totalPoints": 55,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "scope",
@@ -686,47 +448,17 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-ak-205-underbarrel"
+              "attachmentId": "folding-vertical-qewek613c7e"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-693krtt894"
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "totalPoints": 65,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "baker-300x-ak-205-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ak-205-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30rnd-fast-mag-ttafhmqhln"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-ak-205-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-ak-205-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-693krtt894"
+              "attachmentId": "linear-comp-ak-205-muzzle"
             }
           ]
         },
         {
           "level": 5,
-          "totalPoints": 75,
+          "totalPoints": 60,
           "attachments": [
             {
               "slotId": "scope",
@@ -738,7 +470,7 @@
             },
             {
               "slotId": "magazine",
-              "attachmentId": "30rnd-fast-mag-ttafhmqhln"
+              "attachmentId": "30-rnd-ak-205-magazine"
             },
             {
               "slotId": "ammunition",
@@ -746,11 +478,11 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-ak-205-underbarrel"
+              "attachmentId": "folding-vertical-qewek613c7e"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-693krtt894"
+              "attachmentId": "linear-comp-ak-205-muzzle"
             },
             {
               "slotId": "right-accessory",
@@ -760,7 +492,7 @@
         },
         {
           "level": 6,
-          "totalPoints": 80,
+          "totalPoints": 65,
           "attachments": [
             {
               "slotId": "scope",
@@ -772,7 +504,7 @@
             },
             {
               "slotId": "magazine",
-              "attachmentId": "30rnd-fast-mag-ttafhmqhln"
+              "attachmentId": "30-rnd-ak-205-magazine"
             },
             {
               "slotId": "ammunition",
@@ -780,11 +512,11 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-ak-205-underbarrel"
+              "attachmentId": "folding-vertical-qewek613c7e"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-693krtt894"
+              "attachmentId": "linear-comp-ak-205-muzzle"
             },
             {
               "slotId": "right-accessory",
@@ -798,7 +530,7 @@
         },
         {
           "level": 8,
-          "totalPoints": 90,
+          "totalPoints": 75,
           "attachments": [
             {
               "slotId": "scope",
@@ -810,7 +542,7 @@
             },
             {
               "slotId": "magazine",
-              "attachmentId": "30rnd-fast-mag-ttafhmqhln"
+              "attachmentId": "30-rnd-ak-205-magazine"
             },
             {
               "slotId": "ammunition",
@@ -818,189 +550,29 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-ak-205-underbarrel"
+              "attachmentId": "folding-vertical-qewek613c7e"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-693krtt894"
+              "attachmentId": "linear-comp-ak-205-muzzle"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-red-dm3wvnykjdf"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-ak-205-left-accessory"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "improved-mag-catch-7glihuwt3ok"
-            }
-          ]
-        },
-        {
-          "level": 10,
-          "totalPoints": 95,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "baker-300x-ak-205-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ak-205-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30rnd-fast-mag-ttafhmqhln"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-ak-205-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-ak-205-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-693krtt894"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-dm3wvnykjdf"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-ak-205-left-accessory"
             },
             {
               "slotId": "ergonomics",
               "attachmentId": "improved-mag-catch-7glihuwt3ok"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-ak-205-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 13,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "baker-300x-ak-205-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ak-205-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30rnd-fast-mag-ttafhmqhln"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-ak-205-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-ak-205-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-ak-205-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-dm3wvnykjdf"
-            },
-            {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-ak-205-left-accessory"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "improved-mag-catch-7glihuwt3ok"
-            }
-          ]
-        },
-        {
-          "level": 14,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "baker-300x-ak-205-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ak-205-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "36-rnd-ak-205-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-ak-205-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-ak-205-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-ak-205-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-dm3wvnykjdf"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-ak-205-left-accessory"
-            }
-          ]
-        },
-        {
-          "level": 15,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "baker-300x-ak-205-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ak-205-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "36-rnd-ak-205-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "polymer-case-ak-205-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-yt5zyxshry"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-ak-205-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-dm3wvnykjdf"
             }
           ]
         },
         {
           "level": 17,
-          "totalPoints": 100,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "scope",
@@ -1016,71 +588,19 @@
             },
             {
               "slotId": "ammunition",
-              "attachmentId": "polymer-case-ak-205-ammunition"
+              "attachmentId": "fmj-ak-205-ammunition"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-yt5zyxshry"
+              "attachmentId": "folding-vertical-qewek613c7e"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "compensated-brake-ak-205-muzzle"
-            }
-          ]
-        },
-        {
-          "level": 22,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "baker-300x-ak-205-scope"
+              "attachmentId": "linear-comp-ak-205-muzzle"
             },
             {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ak-205-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "40rnd-magazine-ogrd1ak8m4"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "polymer-case-ak-205-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "ribbed-stubby-uyhkf8dncq"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-reflex-sight-a07zus2tbc8"
-            }
-          ]
-        },
-        {
-          "level": 23,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "baker-300x-ak-205-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ak-205-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "40rnd-magazine-ogrd1ak8m4"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "hollow-point-ak-205-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "ribbed-stubby-uyhkf8dncq"
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-dm3wvnykjdf"
             },
             {
               "slotId": "ergonomics",
@@ -1090,7 +610,7 @@
         },
         {
           "level": 24,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "scope",
@@ -1110,11 +630,15 @@
             },
             {
               "slotId": "ammunition",
-              "attachmentId": "hollow-point-ak-205-ammunition"
+              "attachmentId": "fmj-ak-205-ammunition"
             },
             {
               "slotId": "underbarrel",
               "attachmentId": "folding-vertical-qewek613c7e"
+            },
+            {
+              "slotId": "ergonomics",
+              "attachmentId": "improved-mag-catch-7glihuwt3ok"
             }
           ]
         },
@@ -1206,11 +730,15 @@
         },
         {
           "level": 1,
-          "totalPoints": 65,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-ak-205-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "osa-7-100x-7b6k4hsikvs"
             },
             {
               "slotId": "barrel",
@@ -1221,12 +749,8 @@
               "attachmentId": "30-rnd-ak-205-magazine"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-ak-205-scope"
-            },
-            {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-ak-205-underbarrel"
+              "attachmentId": "folding-vertical-qewek613c7e"
             },
             {
               "slotId": "muzzle",
@@ -1236,7 +760,7 @@
         },
         {
           "level": 2,
-          "totalPoints": 65,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -1252,7 +776,7 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "314mm-fluted-a0uz8chxswl"
+              "attachmentId": "314mm-standard-iw8wu6unx8"
             },
             {
               "slotId": "magazine",
@@ -1260,13 +784,13 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-ak-205-underbarrel"
+              "attachmentId": "folding-vertical-qewek613c7e"
             }
           ]
         },
         {
           "level": 3,
-          "totalPoints": 55,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "barrel",
@@ -1290,13 +814,13 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-ak-205-underbarrel"
+              "attachmentId": "folding-vertical-qewek613c7e"
             }
           ]
         },
         {
           "level": 4,
-          "totalPoints": 65,
+          "totalPoints": 60,
           "attachments": [
             {
               "slotId": "barrel",
@@ -1320,12 +844,46 @@
             },
             {
               "slotId": "magazine",
-              "attachmentId": "30rnd-fast-mag-ttafhmqhln"
+              "attachmentId": "30-rnd-ak-205-magazine"
             }
           ]
         },
         {
           "level": 5,
+          "totalPoints": 70,
+          "attachments": [
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-ak-205-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "alloy-vertical-ak-205-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-ak-205-muzzle"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-dm3wvnykjdf"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-ak-205-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "ro-m-150x-w85k63fa7rq"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-ak-205-magazine"
+            }
+          ]
+        },
+        {
+          "level": 6,
           "totalPoints": 75,
           "attachments": [
             {
@@ -1349,40 +907,6 @@
               "attachmentId": "fmj-ak-205-ammunition"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "ro-m-150x-w85k63fa7rq"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30rnd-fast-mag-ttafhmqhln"
-            }
-          ]
-        },
-        {
-          "level": 6,
-          "totalPoints": 80,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ak-205-barrel"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-ak-205-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "linear-comp-ak-205-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-dm3wvnykjdf"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-ak-205-ammunition"
-            },
-            {
               "slotId": "ergonomics",
               "attachmentId": "improved-mag-catch-7glihuwt3ok"
             },
@@ -1392,13 +916,13 @@
             },
             {
               "slotId": "magazine",
-              "attachmentId": "30rnd-fast-mag-ttafhmqhln"
+              "attachmentId": "30-rnd-ak-205-magazine"
             }
           ]
         },
         {
           "level": 8,
-          "totalPoints": 90,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "barrel",
@@ -1430,57 +954,11 @@
             },
             {
               "slotId": "magazine",
-              "attachmentId": "30rnd-fast-mag-ttafhmqhln"
+              "attachmentId": "30-rnd-ak-205-magazine"
             },
             {
               "slotId": "left-accessory",
               "attachmentId": "flashlight-ak-205-left-accessory"
-            }
-          ]
-        },
-        {
-          "level": 10,
-          "totalPoints": 95,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ak-205-barrel"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-ak-205-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "linear-comp-ak-205-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-dm3wvnykjdf"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-ak-205-ammunition"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "improved-mag-catch-7glihuwt3ok"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "ro-m-150x-w85k63fa7rq"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30rnd-fast-mag-ttafhmqhln"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-ak-205-left-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-ak-205-optic-accessory"
             }
           ]
         },
@@ -1596,7 +1074,7 @@
         },
         {
           "level": 1,
-          "totalPoints": 55,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "ammunition",
@@ -1616,7 +1094,7 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-ak-205-underbarrel"
+              "attachmentId": "folding-vertical-qewek613c7e"
             },
             {
               "slotId": "muzzle",
@@ -1626,6 +1104,100 @@
         },
         {
           "level": 2,
+          "totalPoints": 50,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-znbam91g4na"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "baker-300x-ak-205-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "314mm-standard-iw8wu6unx8"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-ak-205-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-qewek613c7e"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-ak-205-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "totalPoints": 50,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-znbam91g4na"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "baker-300x-ak-205-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-ak-205-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-ak-205-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-qewek613c7e"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-ak-205-muzzle"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "totalPoints": 60,
+          "attachments": [
+            {
+              "slotId": "ammunition",
+              "attachmentId": "full-metal-jacket-znbam91g4na"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "baker-300x-ak-205-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-ak-205-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-ak-205-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-qewek613c7e"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-ak-205-muzzle"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-dm3wvnykjdf"
+            }
+          ]
+        },
+        {
+          "level": 6,
           "totalPoints": 65,
           "attachments": [
             {
@@ -1638,7 +1210,7 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "314mm-fluted-a0uz8chxswl"
+              "attachmentId": "heavy-ak-205-barrel"
             },
             {
               "slotId": "magazine",
@@ -1646,105 +1218,11 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "slim-handstop-ak-205-underbarrel"
+              "attachmentId": "folding-vertical-qewek613c7e"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-693krtt894"
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "totalPoints": 75,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "full-metal-jacket-znbam91g4na"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "baker-300x-ak-205-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "314mm-fluted-a0uz8chxswl"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30rnd-fast-mag-ttafhmqhln"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-ak-205-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-693krtt894"
-            }
-          ]
-        },
-        {
-          "level": 5,
-          "totalPoints": 85,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "full-metal-jacket-znbam91g4na"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "baker-300x-ak-205-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "314mm-fluted-a0uz8chxswl"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30rnd-fast-mag-ttafhmqhln"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-ak-205-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-693krtt894"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-dm3wvnykjdf"
-            }
-          ]
-        },
-        {
-          "level": 6,
-          "totalPoints": 90,
-          "attachments": [
-            {
-              "slotId": "ammunition",
-              "attachmentId": "full-metal-jacket-znbam91g4na"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "baker-300x-ak-205-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "314mm-fluted-a0uz8chxswl"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30rnd-fast-mag-ttafhmqhln"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-ak-205-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-693krtt894"
+              "attachmentId": "linear-comp-ak-205-muzzle"
             },
             {
               "slotId": "right-accessory",
@@ -1758,7 +1236,7 @@
         },
         {
           "level": 8,
-          "totalPoints": 100,
+          "totalPoints": 75,
           "attachments": [
             {
               "slotId": "ammunition",
@@ -1770,37 +1248,37 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "314mm-fluted-a0uz8chxswl"
+              "attachmentId": "heavy-ak-205-barrel"
             },
             {
               "slotId": "magazine",
-              "attachmentId": "30rnd-fast-mag-ttafhmqhln"
+              "attachmentId": "30-rnd-ak-205-magazine"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-ak-205-underbarrel"
+              "attachmentId": "folding-vertical-qewek613c7e"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-693krtt894"
+              "attachmentId": "linear-comp-ak-205-muzzle"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-red-dm3wvnykjdf"
             },
             {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-ak-205-left-accessory"
-            },
-            {
               "slotId": "ergonomics",
               "attachmentId": "improved-mag-catch-7glihuwt3ok"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-ak-205-left-accessory"
             }
           ]
         },
         {
           "level": 12,
-          "totalPoints": 95,
+          "totalPoints": 75,
           "attachments": [
             {
               "slotId": "barrel",
@@ -1816,141 +1294,15 @@
             },
             {
               "slotId": "magazine",
-              "attachmentId": "30rnd-fast-mag-ttafhmqhln"
+              "attachmentId": "30-rnd-ak-205-magazine"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-ak-205-underbarrel"
+              "attachmentId": "folding-vertical-qewek613c7e"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-693krtt894"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-dm3wvnykjdf"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-ak-205-left-accessory"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "improved-mag-catch-7glihuwt3ok"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-ak-205-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 13,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "314mm-prototype-zy42i2zh92t"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "full-metal-jacket-znbam91g4na"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "baker-300x-ak-205-scope"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30rnd-fast-mag-ttafhmqhln"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-ak-205-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-ak-205-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-dm3wvnykjdf"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-ak-205-left-accessory"
-            },
-            {
-              "slotId": "ergonomics",
-              "attachmentId": "improved-mag-catch-7glihuwt3ok"
-            }
-          ]
-        },
-        {
-          "level": 14,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "314mm-prototype-zy42i2zh92t"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "full-metal-jacket-znbam91g4na"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "baker-300x-ak-205-scope"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "36-rnd-ak-205-magazine"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-ak-205-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-ak-205-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-dm3wvnykjdf"
-            },
-            {
-              "slotId": "left-accessory",
-              "attachmentId": "flashlight-ak-205-left-accessory"
-            }
-          ]
-        },
-        {
-          "level": 15,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "barrel",
-              "attachmentId": "314mm-prototype-zy42i2zh92t"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "full-metal-jacket-znbam91g4na"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "baker-300x-ak-205-scope"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "36-rnd-ak-205-magazine"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-yt5zyxshry"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-ak-205-muzzle"
+              "attachmentId": "linear-comp-ak-205-muzzle"
             },
             {
               "slotId": "right-accessory",
@@ -1959,12 +1311,16 @@
             {
               "slotId": "ergonomics",
               "attachmentId": "improved-mag-catch-7glihuwt3ok"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-ak-205-left-accessory"
             }
           ]
         },
         {
           "level": 17,
-          "totalPoints": 100,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "barrel",
@@ -1984,11 +1340,15 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-yt5zyxshry"
+              "attachmentId": "folding-vertical-qewek613c7e"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "compensated-brake-ak-205-muzzle"
+              "attachmentId": "linear-comp-ak-205-muzzle"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-dm3wvnykjdf"
             },
             {
               "slotId": "ergonomics",
@@ -1998,7 +1358,7 @@
         },
         {
           "level": 18,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "barrel",
@@ -2022,11 +1382,11 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-yt5zyxshry"
+              "attachmentId": "folding-vertical-qewek613c7e"
             },
             {
-              "slotId": "ergonomics",
-              "attachmentId": "improved-mag-catch-7glihuwt3ok"
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-dm3wvnykjdf"
             }
           ]
         },

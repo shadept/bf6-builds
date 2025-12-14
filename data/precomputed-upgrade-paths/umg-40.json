@@ -61,7 +61,7 @@
           ]
         },
         {
-          "level": 2,
+          "level": 3,
           "totalPoints": 50,
           "attachments": [
             {
@@ -85,13 +85,43 @@
               "attachmentId": "folding-vertical-umg-40-underbarrel"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-umg-40-muzzle"
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-umg-40-right-accessory"
             }
           ]
         },
         {
-          "level": 3,
+          "level": 5,
+          "totalPoints": 50,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-umg-40-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-umg-40-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-umg-40-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-umg-40-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-umg-40-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-umg-40-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 8,
           "totalPoints": 60,
           "attachments": [
             {
@@ -104,7 +134,7 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "basic-umg-40-barrel"
+              "attachmentId": "heavy-umg-40-barrel"
             },
             {
               "slotId": "ammunition",
@@ -116,7 +146,7 @@
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-umg-40-muzzle"
+              "attachmentId": "linear-comp-umg-40-muzzle"
             },
             {
               "slotId": "right-accessory",
@@ -125,7 +155,41 @@
           ]
         },
         {
-          "level": 7,
+          "level": 16,
+          "totalPoints": 60,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-umg-40-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-umg-40-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-ext-umg-40-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-umg-40-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-umg-40-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-umg-40-muzzle"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-umg-40-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 17,
           "totalPoints": 70,
           "attachments": [
             {
@@ -137,20 +201,20 @@
               "attachmentId": "mini-flex-100x-umg-40-scope"
             },
             {
+              "slotId": "underbarrel",
+              "attachmentId": "slim-angled-umg-40-underbarrel"
+            },
+            {
               "slotId": "barrel",
-              "attachmentId": "basic-umg-40-barrel"
+              "attachmentId": "heavy-ext-umg-40-barrel"
             },
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-umg-40-ammunition"
             },
             {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-umg-40-underbarrel"
-            },
-            {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-umg-40-muzzle"
+              "attachmentId": "linear-comp-umg-40-muzzle"
             },
             {
               "slotId": "right-accessory",
@@ -159,46 +223,8 @@
           ]
         },
         {
-          "level": 10,
-          "totalPoints": 75,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-umg-40-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "mini-flex-100x-umg-40-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-umg-40-barrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-umg-40-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-umg-40-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-umg-40-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-umg-40-right-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-umg-40-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 17,
-          "totalPoints": 75,
+          "level": 22,
+          "totalPoints": 80,
           "attachments": [
             {
               "slotId": "magazine",
@@ -214,7 +240,7 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "basic-umg-40-barrel"
+              "attachmentId": "heavy-ext-umg-40-barrel"
             },
             {
               "slotId": "ammunition",
@@ -222,97 +248,21 @@
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-umg-40-muzzle"
+              "attachmentId": "linear-comp-umg-40-muzzle"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-red-umg-40-right-accessory"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-umg-40-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 18,
-          "totalPoints": 90,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-umg-40-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "mini-flex-100x-umg-40-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "slim-angled-umg-40-underbarrel"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-umg-40-barrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "hollow-point-umg-40-ammunition"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-umg-40-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-umg-40-right-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-umg-40-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 19,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-umg-40-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "mini-flex-100x-umg-40-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "slim-angled-umg-40-underbarrel"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-umg-40-barrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "hollow-point-umg-40-ammunition"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-umg-40-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-umg-40-right-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-umg-40-optic-accessory"
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-umg-40-left-accessory"
             }
           ]
         },
         {
           "level": 24,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -332,25 +282,25 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "basic-umg-40-barrel"
+              "attachmentId": "heavy-ext-umg-40-barrel"
             },
             {
               "slotId": "ammunition",
-              "attachmentId": "hollow-point-umg-40-ammunition"
+              "attachmentId": "fmj-umg-40-ammunition"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-red-umg-40-right-accessory"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-umg-40-optic-accessory"
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-umg-40-left-accessory"
             }
           ]
         },
         {
           "level": 26,
-          "totalPoints": 100,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -374,7 +324,7 @@
             },
             {
               "slotId": "ammunition",
-              "attachmentId": "hollow-point-umg-40-ammunition"
+              "attachmentId": "fmj-umg-40-ammunition"
             },
             {
               "slotId": "right-accessory",
@@ -478,6 +428,32 @@
         },
         {
           "level": 1,
+          "totalPoints": 40,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-umg-40-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-umg-40-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-umg-40-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-umg-40-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-umg-40-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 3,
           "totalPoints": 50,
           "attachments": [
             {
@@ -485,6 +461,10 @@
               "attachmentId": "30-rnd-umg-40-magazine"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-umg-40-scope"
+            },
+            {
               "slotId": "barrel",
               "attachmentId": "basic-umg-40-barrel"
             },
@@ -493,72 +473,38 @@
               "attachmentId": "fmj-umg-40-ammunition"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-umg-40-scope"
-            },
-            {
               "slotId": "underbarrel",
               "attachmentId": "folding-vertical-umg-40-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-umg-40-right-accessory"
             }
           ]
         },
         {
-          "level": 2,
-          "totalPoints": 60,
+          "level": 5,
+          "totalPoints": 50,
           "attachments": [
             {
               "slotId": "magazine",
               "attachmentId": "30-rnd-umg-40-magazine"
             },
             {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-umg-40-scope"
+            },
+            {
               "slotId": "barrel",
-              "attachmentId": "basic-umg-40-barrel"
+              "attachmentId": "heavy-umg-40-barrel"
             },
             {
               "slotId": "ammunition",
               "attachmentId": "fmj-umg-40-ammunition"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-umg-40-scope"
-            },
-            {
               "slotId": "underbarrel",
               "attachmentId": "folding-vertical-umg-40-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-umg-40-muzzle"
-            }
-          ]
-        },
-        {
-          "level": 3,
-          "totalPoints": 70,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-umg-40-magazine"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-umg-40-barrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-umg-40-ammunition"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-umg-40-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "folding-vertical-umg-40-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-umg-40-muzzle"
             },
             {
               "slotId": "right-accessory",
@@ -568,6 +514,104 @@
         },
         {
           "level": 7,
+          "totalPoints": 50,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-umg-40-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "a-p2-175x-umg-40-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-umg-40-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-umg-40-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-umg-40-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-umg-40-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 8,
+          "totalPoints": 60,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-umg-40-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "a-p2-175x-umg-40-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-umg-40-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-umg-40-ammunition"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-umg-40-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-umg-40-muzzle"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-umg-40-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 14,
+          "totalPoints": 70,
+          "attachments": [
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-umg-40-magazine"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "a-p2-175x-umg-40-scope"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-stubby-umg-40-underbarrel"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-umg-40-barrel"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-umg-40-ammunition"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-umg-40-muzzle"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-umg-40-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 16,
           "totalPoints": 70,
           "attachments": [
             {
@@ -580,105 +624,29 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "basic-umg-40-barrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-umg-40-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-umg-40-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-umg-40-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-umg-40-right-accessory"
-            }
-          ]
-        },
-        {
-          "level": 10,
-          "totalPoints": 75,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-umg-40-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "a-p2-175x-umg-40-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-umg-40-barrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-umg-40-ammunition"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-umg-40-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-umg-40-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-umg-40-right-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-umg-40-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 14,
-          "totalPoints": 75,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-umg-40-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "a-p2-175x-umg-40-scope"
+              "attachmentId": "heavy-ext-umg-40-barrel"
             },
             {
               "slotId": "underbarrel",
               "attachmentId": "folding-stubby-umg-40-underbarrel"
             },
             {
-              "slotId": "barrel",
-              "attachmentId": "basic-umg-40-barrel"
-            },
-            {
               "slotId": "ammunition",
               "attachmentId": "fmj-umg-40-ammunition"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-umg-40-muzzle"
+              "attachmentId": "linear-comp-umg-40-muzzle"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-red-umg-40-right-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-umg-40-optic-accessory"
             }
           ]
         },
         {
-          "level": 16,
-          "totalPoints": 75,
+          "level": 22,
+          "totalPoints": 80,
           "attachments": [
             {
               "slotId": "magazine",
@@ -702,97 +670,21 @@
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-umg-40-muzzle"
+              "attachmentId": "linear-comp-umg-40-muzzle"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-red-umg-40-right-accessory"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-umg-40-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 18,
-          "totalPoints": 90,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-umg-40-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "a-p2-175x-umg-40-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ext-umg-40-barrel"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "folding-stubby-umg-40-underbarrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "hollow-point-umg-40-ammunition"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-umg-40-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-umg-40-right-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-umg-40-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 19,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-umg-40-magazine"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "a-p2-175x-umg-40-scope"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-ext-umg-40-barrel"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "folding-stubby-umg-40-underbarrel"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "hollow-point-umg-40-ammunition"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-umg-40-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-umg-40-right-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-umg-40-optic-accessory"
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-umg-40-left-accessory"
             }
           ]
         },
         {
           "level": 28,
-          "totalPoints": 100,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "magazine",
@@ -816,7 +708,7 @@
             },
             {
               "slotId": "ammunition",
-              "attachmentId": "hollow-point-umg-40-ammunition"
+              "attachmentId": "fmj-umg-40-ammunition"
             },
             {
               "slotId": "right-accessory",
@@ -920,7 +812,7 @@
         },
         {
           "level": 1,
-          "totalPoints": 50,
+          "totalPoints": 40,
           "attachments": [
             {
               "slotId": "magazine",
@@ -931,12 +823,12 @@
               "attachmentId": "fmj-umg-40-ammunition"
             },
             {
-              "slotId": "barrel",
-              "attachmentId": "basic-umg-40-barrel"
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-umg-40-scope"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-umg-40-scope"
+              "slotId": "barrel",
+              "attachmentId": "basic-umg-40-barrel"
             },
             {
               "slotId": "underbarrel",
@@ -946,6 +838,36 @@
         },
         {
           "level": 2,
+          "totalPoints": 50,
+          "attachments": [
+            {
+              "slotId": "muzzle",
+              "attachmentId": "flash-hider-umg-40-muzzle"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-umg-40-magazine"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-umg-40-ammunition"
+            },
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-umg-40-scope"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "basic-umg-40-barrel"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-umg-40-underbarrel"
+            }
+          ]
+        },
+        {
+          "level": 3,
           "totalPoints": 60,
           "attachments": [
             {
@@ -961,46 +883,16 @@
               "attachmentId": "fmj-umg-40-ammunition"
             },
             {
-              "slotId": "barrel",
-              "attachmentId": "basic-umg-40-barrel"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-umg-40-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "folding-vertical-umg-40-underbarrel"
-            }
-          ]
-        },
-        {
-          "level": 3,
-          "totalPoints": 70,
-          "attachments": [
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-umg-40-muzzle"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-umg-40-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-umg-40-ammunition"
-            },
-            {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-red-umg-40-right-accessory"
             },
             {
-              "slotId": "barrel",
-              "attachmentId": "basic-umg-40-barrel"
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-umg-40-scope"
             },
             {
-              "slotId": "scope",
-              "attachmentId": "su-230-lpvo-umg-40-scope"
+              "slotId": "barrel",
+              "attachmentId": "basic-umg-40-barrel"
             },
             {
               "slotId": "underbarrel",
@@ -1010,7 +902,7 @@
         },
         {
           "level": 5,
-          "totalPoints": 70,
+          "totalPoints": 60,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -1034,7 +926,7 @@
             },
             {
               "slotId": "scope",
-              "attachmentId": "su-230-lpvo-umg-40-scope"
+              "attachmentId": "mini-flex-100x-umg-40-scope"
             },
             {
               "slotId": "underbarrel",
@@ -1044,7 +936,7 @@
         },
         {
           "level": 7,
-          "totalPoints": 70,
+          "totalPoints": 60,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -1072,45 +964,7 @@
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-umg-40-underbarrel"
-            }
-          ]
-        },
-        {
-          "level": 10,
-          "totalPoints": 75,
-          "attachments": [
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-umg-40-muzzle"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-umg-40-magazine"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-umg-40-ammunition"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-umg-40-right-accessory"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "heavy-umg-40-barrel"
-            },
-            {
-              "slotId": "scope",
-              "attachmentId": "a-p2-175x-umg-40-scope"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-umg-40-underbarrel"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-umg-40-optic-accessory"
+              "attachmentId": "folding-vertical-umg-40-underbarrel"
             }
           ]
         },
@@ -1243,7 +1097,7 @@
           ]
         },
         {
-          "level": 2,
+          "level": 3,
           "totalPoints": 50,
           "attachments": [
             {
@@ -1267,13 +1121,73 @@
               "attachmentId": "folding-vertical-umg-40-underbarrel"
             },
             {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-umg-40-muzzle"
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-umg-40-right-accessory"
             }
           ]
         },
         {
-          "level": 3,
+          "level": 5,
+          "totalPoints": 50,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-umg-40-scope"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-umg-40-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-umg-40-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "30-rnd-umg-40-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-umg-40-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-umg-40-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 6,
+          "totalPoints": 50,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-umg-40-scope"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-umg-40-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-umg-40-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "25-rnd-umg-40-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-umg-40-underbarrel"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-umg-40-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 8,
           "totalPoints": 60,
           "attachments": [
             {
@@ -1286,11 +1200,11 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "basic-umg-40-barrel"
+              "attachmentId": "heavy-umg-40-barrel"
             },
             {
               "slotId": "magazine",
-              "attachmentId": "30-rnd-umg-40-magazine"
+              "attachmentId": "25-rnd-umg-40-magazine"
             },
             {
               "slotId": "underbarrel",
@@ -1298,7 +1212,7 @@
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-umg-40-muzzle"
+              "attachmentId": "linear-comp-umg-40-muzzle"
             },
             {
               "slotId": "right-accessory",
@@ -1307,7 +1221,41 @@
           ]
         },
         {
-          "level": 7,
+          "level": 16,
+          "totalPoints": 60,
+          "attachments": [
+            {
+              "slotId": "scope",
+              "attachmentId": "mini-flex-100x-umg-40-scope"
+            },
+            {
+              "slotId": "ammunition",
+              "attachmentId": "fmj-umg-40-ammunition"
+            },
+            {
+              "slotId": "barrel",
+              "attachmentId": "heavy-ext-umg-40-barrel"
+            },
+            {
+              "slotId": "magazine",
+              "attachmentId": "25-rnd-umg-40-magazine"
+            },
+            {
+              "slotId": "underbarrel",
+              "attachmentId": "folding-vertical-umg-40-underbarrel"
+            },
+            {
+              "slotId": "muzzle",
+              "attachmentId": "linear-comp-umg-40-muzzle"
+            },
+            {
+              "slotId": "right-accessory",
+              "attachmentId": "5-mw-red-umg-40-right-accessory"
+            }
+          ]
+        },
+        {
+          "level": 22,
           "totalPoints": 70,
           "attachments": [
             {
@@ -1320,253 +1268,33 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "basic-umg-40-barrel"
+              "attachmentId": "heavy-ext-umg-40-barrel"
             },
             {
               "slotId": "magazine",
-              "attachmentId": "30-rnd-umg-40-magazine"
+              "attachmentId": "25-rnd-umg-40-magazine"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-umg-40-underbarrel"
+              "attachmentId": "folding-vertical-umg-40-underbarrel"
             },
             {
               "slotId": "muzzle",
-              "attachmentId": "flash-hider-umg-40-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-umg-40-right-accessory"
-            }
-          ]
-        },
-        {
-          "level": 10,
-          "totalPoints": 75,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "mini-flex-100x-umg-40-scope"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-umg-40-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-umg-40-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-rnd-umg-40-magazine"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-umg-40-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-umg-40-muzzle"
+              "attachmentId": "linear-comp-umg-40-muzzle"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-red-umg-40-right-accessory"
             },
             {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-umg-40-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 15,
-          "totalPoints": 80,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "mini-flex-100x-umg-40-scope"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-umg-40-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-umg-40-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-umg-40-magazine"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-umg-40-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "flash-hider-umg-40-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-umg-40-right-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-umg-40-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 19,
-          "totalPoints": 90,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "mini-flex-100x-umg-40-scope"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-umg-40-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-umg-40-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-umg-40-magazine"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-umg-40-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-umg-40-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-umg-40-right-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-umg-40-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 20,
-          "totalPoints": 95,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "mini-flex-100x-umg-40-scope"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-umg-40-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-umg-40-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-umg-40-magazine"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "alloy-vertical-umg-40-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-umg-40-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-umg-40-right-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-reflex-umg-40-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 21,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "mini-flex-100x-umg-40-scope"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-umg-40-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-umg-40-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-umg-40-magazine"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-umg-40-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-umg-40-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-umg-40-right-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-reflex-umg-40-optic-accessory"
-            }
-          ]
-        },
-        {
-          "level": 23,
-          "totalPoints": 100,
-          "attachments": [
-            {
-              "slotId": "scope",
-              "attachmentId": "mini-flex-100x-umg-40-scope"
-            },
-            {
-              "slotId": "ammunition",
-              "attachmentId": "fmj-umg-40-ammunition"
-            },
-            {
-              "slotId": "barrel",
-              "attachmentId": "basic-umg-40-barrel"
-            },
-            {
-              "slotId": "magazine",
-              "attachmentId": "30-fast-umg-40-magazine"
-            },
-            {
-              "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-umg-40-underbarrel"
-            },
-            {
-              "slotId": "muzzle",
-              "attachmentId": "compensated-brake-umg-40-muzzle"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "50-mw-green-umg-40-right-accessory"
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-umg-40-left-accessory"
             }
           ]
         },
         {
           "level": 24,
-          "totalPoints": 100,
+          "totalPoints": 80,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -1582,25 +1310,29 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "basic-umg-40-barrel"
+              "attachmentId": "heavy-ext-umg-40-barrel"
             },
             {
               "slotId": "magazine",
-              "attachmentId": "30-fast-umg-40-magazine"
+              "attachmentId": "25-rnd-umg-40-magazine"
             },
             {
               "slotId": "underbarrel",
-              "attachmentId": "6h64-vertical-umg-40-underbarrel"
+              "attachmentId": "folding-vertical-umg-40-underbarrel"
             },
             {
               "slotId": "right-accessory",
-              "attachmentId": "50-mw-green-umg-40-right-accessory"
+              "attachmentId": "5-mw-red-umg-40-right-accessory"
+            },
+            {
+              "slotId": "left-accessory",
+              "attachmentId": "flashlight-umg-40-left-accessory"
             }
           ]
         },
         {
           "level": 25,
-          "totalPoints": 100,
+          "totalPoints": 90,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -1620,25 +1352,21 @@
             },
             {
               "slotId": "barrel",
-              "attachmentId": "basic-umg-40-barrel"
+              "attachmentId": "heavy-ext-umg-40-barrel"
             },
             {
               "slotId": "magazine",
-              "attachmentId": "30-fast-umg-40-magazine"
+              "attachmentId": "25-rnd-umg-40-magazine"
             },
             {
               "slotId": "right-accessory",
               "attachmentId": "5-mw-red-umg-40-right-accessory"
-            },
-            {
-              "slotId": "optic-accessory",
-              "attachmentId": "canted-iron-sights-umg-40-optic-accessory"
             }
           ]
         },
         {
           "level": 26,
-          "totalPoints": 100,
+          "totalPoints": 85,
           "attachments": [
             {
               "slotId": "muzzle",
@@ -1662,11 +1390,7 @@
             },
             {
               "slotId": "magazine",
-              "attachmentId": "30-fast-umg-40-magazine"
-            },
-            {
-              "slotId": "right-accessory",
-              "attachmentId": "5-mw-red-umg-40-right-accessory"
+              "attachmentId": "25-rnd-umg-40-magazine"
             }
           ]
         },
