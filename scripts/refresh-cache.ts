@@ -1,4 +1,4 @@
-#!/usr/bin/env ts-node
+#!/usr/bin/env tsx
 import fs from 'fs';
 import path from 'path';
 import { execSync } from 'child_process';
@@ -33,7 +33,15 @@ console.log('\n📥 Fetching fresh data from API...\n');
 
 // Run the preload-cache script
 try {
-  execSync('npx ts-node scripts/preload-cache.ts', {
+  execSync('npx tsx scripts/preload-cache.ts', {
+    stdio: 'inherit',
+    cwd: process.cwd()
+  });
+
+  console.log('\n' + '='.repeat(50));
+  console.log('🔨 Generating weapon details...');
+
+  execSync('npx tsx scripts/generate-weapon-details.ts', {
     stdio: 'inherit',
     cwd: process.cwd()
   });

@@ -9,8 +9,8 @@
     "lint": "eslint",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
-    "refresh": "npx ts-node scripts/refresh-cache.ts",
-    "precompute": "npx ts-node scripts/precompute-builds.ts"
+    "refresh": "npx tsx scripts/refresh-cache.ts",
+    "precompute": "npx tsx scripts/precompute-builds.ts"
   },
   "dependencies": {
     "@radix-ui/react-slider": "^1.3.6",

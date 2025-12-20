@@ -86,6 +86,13 @@ async function main() {
             }
 
             const weaponData = await weaponRes.json();
+
+            if (!weaponData.data || !weaponData.data.id || !weaponData.data.name) {
+                console.error(`✗ Invalid data structure for ${name}: missing id or name`);
+                failedWeapons++;
+                continue;
+            }
+
             writeCache(weaponCachePath, weaponData.data);
             console.log(`  ✓ Cached weapon details`);
             successCount++;

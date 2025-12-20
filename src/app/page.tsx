@@ -1,4 +1,4 @@
-import { WeaponList } from "@/bf6-ui/components/weapon-list";
+import { ClientWeaponList as WeaponList } from "@/bf6-ui/components/weapon-list/client";
 import { Heading } from "@/bf6-ui/primitives/typography/Heading";
 import { AlertTriangle } from "lucide-react";
 import fs from "node:fs/promises";

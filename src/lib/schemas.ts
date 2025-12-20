@@ -57,14 +57,11 @@ export const WeaponGroupSchema = z.object({
 export const WeaponSchema = z.object({
     id: z.string(),
     name: z.string(),
-    weaponTypeId: z.string(),
-    weaponGroupId: z.string(),
     description: z.string().nullable().optional(),
-    unlockAtPlayerLevel: z.number().nullable().optional(),
-    imageVersion: z.string().nullable().optional(),
-    weaponType: WeaponTypeSchema.optional(),
-    weaponGroup: WeaponGroupSchema.optional(),
-    builds: z.array(BuildSchema).optional(),
+    image: z.string(),
+    type: z.string(),
+    group: z.string(),
+    attachments: z.array(AttachmentSchema).optional(),
 });
 
 export const TierListRankingSchema = z.record(z.string(), z.array(z.string()));

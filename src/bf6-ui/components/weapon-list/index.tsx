@@ -86,7 +86,8 @@ export function WeaponList({ data }: WeaponListProps) {
                     // Map weapon IDs to weapon details
                     let weapons = tierWeaponIds
                         .map((weaponId: string) => weaponsMap.get(weaponId))
-                        .filter(Boolean);
+                        .filter(Boolean)
+                        .sort((a: any, b: any) => a.name.localeCompare(b.name));
 
                     // Filter by weapon type
                     if (selectedType) {

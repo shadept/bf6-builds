@@ -22,7 +22,7 @@ export function WeaponCard({ weapon, tier }: WeaponCardProps) {
         <div className="flex justify-between items-start mb-2">
           <Badge variant={tier === "META" ? "meta" : "secondary"}>{tier} TIER</Badge>
           <Badge variant="outline" className="text-xs text-slate-400 border-slate-700">
-            {weapon.weaponType?.name || weapon.weaponTypeId}
+            {weapon.type}
           </Badge>
         </div>
         <Heading level={3} className="group-hover:text-bf-blue transition-colors text-xl">
@@ -43,7 +43,7 @@ export function WeaponCard({ weapon, tier }: WeaponCardProps) {
           {weapon.description || "No description available."}
         </Text>
         <Text variant="xs" className="mt-4 uppercase tracking-wider text-slate-500">
-          {weapon.weaponGroup?.name}
+          {weapon.group}
         </Text>
       </div>
 
